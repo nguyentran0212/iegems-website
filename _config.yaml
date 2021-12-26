@@ -24,7 +24,7 @@ email: gen.tran.1991@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   In-ear Gems
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://iegems.nk-tran.com/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://iegems.nk-tran.com/" # the base hostname & protocol for your site, e.g. http://example.com
 # url: "" # This one is for local testing
 twitter_username: jekyllrb
 github_username:  jekyll
