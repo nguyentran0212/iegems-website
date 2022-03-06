@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "d9140ab41dd37823",
+    "type": "split",
+    "children": [
+      {
+        "id": "553c9b8b243f840b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_posts/2022-03-06-ola-impressions.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c537358c9cc25197",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a6cde39a6419cd8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "434942e5d8a09b7a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "baa56e9b7ba1c9a5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8a5d5498aa49309d",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e81545f3347f30d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34d309bf974e389c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_posts/2022-03-06-ola-impressions.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "553c9b8b243f840b",
+  "lastOpenFiles": [
+    "_posts/2022-03-06-ola-impressions.md",
+    "_draft/review_template.md"
+  ]
+}
