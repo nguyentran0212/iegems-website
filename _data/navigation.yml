@@ -1,10 +1,8 @@
 main:
+  - title: "Collection and Impressions"
+    url: /collection
   - title: "Review Method"
     url: /methodology
-  - title: "Impressions"
-    url: /impressions
-  - title: "Current Collection"
-    url: /collection
   - title: "Ranking Database"
     url: "https://docs.google.com/spreadsheets/d/1w93T-HzERQvHM-oMtScW9eAUQZeK4AFHNUBg4WVFIc8/edit?usp=sharing"
   - title: "About"

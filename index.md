@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 title: In-ear Gems
-excerpt: "In-ear monitors advance at breakneck speed. <br/>Join me on my journey to find the gems amongst them."
+excerpt: "Tonality is not everything. <br/>I search for the most immersive in-ear-monitors."
 layout: home
 header:
     overlay_image: /assets/images/header-comparison-rigs.jpeg
