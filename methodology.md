@@ -64,9 +64,9 @@ Sometimes, you will see impressions posted on In-Ear Gems. Impressions are gener
 Sage Audio has [an excellent article](https://www.sageaudio.com/blog/mastering/what-is-stereo-imaging.php) that explains stereo imaging better than what I can do. Have a look if you are curious. 
 
 **Test tracks:**
-- [Eine kleine Nachtmusik - I. Allegro](https://music.apple.com/au/album/serenade-no-13-in-g-major-k-525-eine-kleine-nachtmusik/1193269208?i=1193270819): Listen for the clear direction of each instrument in the string quartet throughout the piece. You should also be able to hear cello locating closer to than the violin 1.
-- [Ruslan and Lyudmila, Act 1: Overture](https://music.apple.com/au/album/serenade-no-13-in-g-major-k-525-eine-kleine-nachtmusik/1193269208?i=1193270819)(0:00 to 1:30): Listen for the layering of orchestra sections. Do instruments seem to come from different distance or meshed together on a flat dome around you? At 1:00, do you hear the cello section very close to your right ears whilst the violin section faded to the distance to your front left?
 - [We are the world](https://music.apple.com/au/album/we-are-the-world/41737866?i=41737859)(3:00 onward): This song shows some excellent stereo imaging. Can you hear soloist upfront whilst the choir is pushed further away to the background? Can you hear one choir to the left and further to the back whilst the other to the right and a bit closer to you?
+- [Eine kleine Nachtmusik - I. Allegro](https://music.apple.com/au/album/serenade-no-13-in-g-major-k-525-eine-kleine-nachtmusik/1193269208?i=1193270819): Listen for the clear direction of each instrument in the string quartet throughout the piece. You should also be able to hear cello locating closer to than the violin 1.
+- [I vow to thee, my country](https://music.apple.com/au/album/i-vow-to-thee-my-country/521875772?i=521875953): This song is an excellent test for layering. Can you hear the boy choir standing in front of the men choir or they are on the same flat plane? 
 
 **Rubric**
 - **1/5 (train wreck):** Mono sound. No soundstage whatsoever.
@@ -88,7 +88,7 @@ This element is somewhat related to the [transient response](https://www.audeze.
 
 **Rubric**:
 - **1/5 (train wreck)**: Broken headphones or IEMs with zero bass.
-- **2/5 (not enjoyable)**: Boomy, mushy bass that bleeds all over the mix, harming the midrange. 
+- **2/5 (not enjoyable)**: Boomy of mushy bass line that does not have a strong, clean bass impact.
 - **3/5 (good)**: Decent bassline with a physical sensation. However, bass might be a little mushy and might have trouble catching up with complicated basslines. 
 - **4/5 (great)**: Fast and well controlled bass that has no trouble catching up with complicated basslines. However, quantity might be lacking, either by having to little midbass or lacking subbass extension.
 - **5/5 (exceptional)**: The same control as 4/5 level but with more bass quantity and subbass extension. You can feel the bass hit in your throat.
@@ -98,9 +98,9 @@ This element is somewhat related to the [transient response](https://www.audeze.
 > **Detail Retrieval** reflects an IEM's ability to reveal fine details in a mix. Exceptional IEMs are resolving across the frequency spectrum, not just the midrange: you hear more details in the reverb and decay of sound, you hear texture and pitch in the bass, you hear more nuances in instruments and vocal. You usually wouldn't know that your current IEM lacks detail unless you have heard a more resolving one.
 
 **Test tracks:**
+- [Now you believe in you](https://music.apple.com/au/album/now-you-believe-in-you/1456671778?i=1456671779): testing the detail of background element and the treble extension / air
 - [Hotel California](https://music.apple.com/au/album/hotel-california/1454269663?i=1454269906)
 - [My Immortal](https://music.apple.com/au/album/my-immortal/1451784715?i=1451784839)
-- [I'm yours](https://music.apple.com/au/album/im-yours/1462825900?i=1462825915)
 
 **Rubric:**
 - **1/5 (train wreck)**: Overly smooth with very little detail.

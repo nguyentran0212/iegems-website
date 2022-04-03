@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 title: In-ear Gems
-excerpt: "Tonality is not everything. <br/>I search for the most immersive in-ear-monitors."
+excerpt: "There are more than tonality. <br/>I search for the most immersive in-ear-monitors."
 layout: home
 header:
     overlay_image: /assets/images/header-comparison-rigs.jpeg
@@ -13,6 +13,6 @@ header:
         - label: "Review Method"
           url: "/methodology"
         - label: "Ranking Database"
-          url: "https://docs.google.com/spreadsheets/d/1w93T-HzERQvHM-oMtScW9eAUQZeK4AFHNUBg4WVFIc8/edit?usp=sharing"
+          url: "https://docs.google.com/spreadsheets/d/1poxJG_jaFkvXxf2RRnZ424F3F9Wcjm15HvNXxmJGGP8/edit?usp=sharing"
 
 ---

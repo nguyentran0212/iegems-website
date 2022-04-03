@@ -12,7 +12,7 @@ header:
 # Preample
 
 - I purchase this unit on my own. I have no affiliation with or financial interest in ???.
-- All listening tests were conducted at around 65 dB. 
+- All listening tests were conducted at a comfortable level where main vocal and instruments are loud enough
 - My music library covers nostalgic pop music, epic orchestral music from Sci-fi shows, classical violin performances, piano, lo-fi beats, and a few rock songs.
 - What I look for in IEM, in order of importance: a strong sense of depth with elements in a mix layering from closer to further away, clear separation between elements, detailed and textured elements, snappy and tactile note attacks in bass and midrange, natural timbre. 
 - IEMs are rated with a series of A/B tests against a few benchmark IEMs. The total rating is the average of component ratings. EQ is NOT used in these tests. See the [methodology](/methodology) for more detail. 
@@ -32,30 +32,34 @@ Fit and comfort
 
 This table shows the results of A/B tests between ??? and the benchmark IEMs. +1 means ??? wins. -1 means ??? loses. 0 means draw. Some tests are too one-sided that conclusions can be reached without further tests. 
 
+### Stereo Imaging and Layering: ??/5
+
+![Soundstage](assets/images/soundstage.png)
+
+![Separation and Layering](assets/images/separation-layering.png)
+
+> **Stereo Imaging** is an IEM's ability to paint an illusion ("image") of a sound field around a listener. This stereo image is achieved by both recording and mixing technique (stereo widening mixing). Given suitable music, movie, or game, IEMs with good stereo imaging allow you to pin point direction of the sound. Exceptional IEMs can recreate a wide and deep image in which instruments and and vocals form *layers* from closer to further rather than existing on a the same flat plane. 
+
+**Test tracks:**
+- [We are the world](https://music.apple.com/au/album/we-are-the-world/41737866?i=41737859)(3:00 onward): This song shows some excellent stereo imaging. Can you hear soloist upfront whilst the choir is pushed further away to the background? Can you hear one choir to the left and further to the back whilst the other to the right and a bit closer to you?
+- [Eine kleine Nachtmusik - I. Allegro](https://music.apple.com/au/album/serenade-no-13-in-g-major-k-525-eine-kleine-nachtmusik/1193269208?i=1193270819): Listen for the clear direction of each instrument in the string quartet throughout the piece. You should also be able to hear cello locating closer to than the violin 1.
+- [I vow to thee, my country](https://music.apple.com/au/album/i-vow-to-thee-my-country/521875772?i=521875953): This song is an excellent test for layering. Can you hear the boy choir standing in front of the men choir or they are on the same flat plane? 
+
+Overview
+
+Comparison against benchmark IEMs:
+- Vs ??? (???/5): 
+
+Decision on final rating.
+
 ## Percussion Control: ???/5
 
-> **Percussion control** reflects an IEM's ability to render drums and other instruments that maintain the rhythm and tempo. IEMs with good percussion control can keep up with fast and complex rhythms without blurring the beats together. IEMs with excellent percussion control also gives a tactile "snap" to percussion attacks. Percussion control is determined by both bass and treble. 
+> **Percussion Rendering** is about the quality of drum hits, bass guitar, and other percussion instruments, not how loud they are. Exceptional IEMs render bass attacks fast, hard, and maintains precise timing regardless of how busy the bass section becomes. On the other hand, poorly controlled bass is boomy (the bass notes linger too long and blend into others) or mushy (the start of bass notes or drum hits are soft rather than decisive).
 
-Song list:
-- [MS Gundam: Iron-blooded Orphans](https://open.spotify.com/track/4VrKSDOKLD9dRkeLScYfPD?si=77b3b26533e9472d) (1:10 to 1:35): focus on the timing and composure of the bass line during busy section.
-- [INFINITY](https://open.spotify.com/track/2ws1dIEMyUCNiqoB0tIyXw?si=58852728badb4342) (0:40 to 1:05): focus on the timing of bass and cymbal.
-- [Imperial March](https://open.spotify.com/track/7dO9OAZUF4LIK5iZ1gROW3?si=f2643c07408d484a) (0:00 to 0:45): focus on the timing of percussion and double bass.
-
-Overview
-
-Comparison against benchmark IEMs:
-- Vs ??? (???/5): 
-
-Decision on final rating.
-
-## Detail, Texture, and Micro-dynamic: ??/5
-
-> **Detail, Texture, and Micro-dynamic** reflect an IEM's ability to render fine details in individual elements of a mix. IEMs with excellent detail retrieval render vocal and instruments clearly and reveal small details such as breaths, small vibratos, and the subtle reverb at the end of a musical phrase. They can make the violin section in an orchestra sound like a collection of violins playing together rather than a blob of sound. They also render background elements such as backing vocal and orchestra clearly.
-
-Song list:
-- [I have a dream - remix](https://open.spotify.com/track/27MwRZAo8jDXfdHFx8E6cX?si=b013815e147a4810) (0:50 to 1:20): focusing on small elements and backing vocal in the background of the mix.
-- [Memories](https://open.spotify.com/track/0PezhWEYlDODxIAKefyINk?si=942f4efd10364c21) (0:00 - 0:21): focusing on the texture and micro-details of the guitar.
-- [My Heart Will Go On](https://open.spotify.com/track/33LC84JgLvK2KuW43MfaNq?si=a559df67fdd143b2) (0:00 to 0:40): focusing on the texture and micro-details of the voice, especially the last words of each phrase.
+**Test tracks:**
+- [Finale (William Tell Overture)](https://music.apple.com/au/album/finale-william-tell-overture/1443102659?i=1443103644): How rhythmic the whole orchestra sound? Can you follow the drums clearly? How about the rhythm carried by the string and brass section? Can you hear texture and detail in the drum or just mushy thump thump sound?
+- [Force your way](https://music.apple.com/au/album/force-your-way/1477136155?i=1477136872): Is the bass line impactful? Can you hear the melody in the bass or just a series of thump thump sound?
+- [Clarinet Polka](https://music.apple.com/au/album/clarinet-polka/820700021?i=820700073): fun and chaotic polka. Is the drum clean and precise? Is the clarinet on the right well control? How about the accordion on the left?
 
 Overview
 
@@ -64,16 +68,14 @@ Comparison against benchmark IEMs:
 
 Decision on final rating.
 
-## Separation and Layering: ??/5
+## Detail Retrieval: ??/5
 
-> **Separation and layering** reflects an IEM's ability to distinctively render elements in a mix. IEMs with excellent separation and layering can separate elements from left to right and from front to back, minimising the overlap between them. 
+> **Detail Retrieval** reflects an IEM's ability to reveal fine details in a mix. Exceptional IEMs are resolving across the frequency spectrum, not just the midrange: you hear more details in the reverb and decay of sound, you hear texture and pitch in the bass, you hear more nuances in instruments and vocal. You usually wouldn't know that your current IEM lacks detail unless you have heard a more resolving one.
 
-![Separation and Layering](/assets/images/separation-layering.png)
-
-Song list:
-- [And the waltz goes on](https://open.spotify.com/track/6gvQHafvp7j7eanVD269Jj?si=b23ed34b8e7840f3) (0:50 - 0:15): focus on the layering and separation of the instrument.
-- [Beethoven Symphony No. 5 Mvmt 1](https://open.spotify.com/track/4mw5oRBKNBfNV0dXAOIcne?si=dfd0770f575a4307) (0:00 to 0:30): focus on the sharpness of instruments, layering of woodwind over the string, and the panning of string from right to the left channel.
-- [Waltz 2](https://open.spotify.com/track/0pjCsB0XNSyqM9UazlTODC?si=1d2977189fbf446a) (0:35 - 1:00): focus on the separation and layering of woodwind over string over percussion.
+**Test tracks:**
+- [Now you believe in you](https://music.apple.com/au/album/now-you-believe-in-you/1456671778?i=1456671779): testing the detail of background element and the treble extension / air
+- [Hotel California](https://music.apple.com/au/album/hotel-california/1454269663?i=1454269906)
+- [My Immortal](https://music.apple.com/au/album/my-immortal/1451784715?i=1451784839)
 
 Overview
 
@@ -82,16 +84,14 @@ Comparison against benchmark IEMs:
 
 Decision on final rating.
 
-## Spatial Illusion: ??/5
+## Separation: ??/5
 
-> **Spatial illusion** reflects an IEM's ability to construct an imaginary sound field around a listener's head. IEMs with excellent spatial illusion create a dome-like and open soundstage around the listener's head.
+> **Separation and Layering** reflects an IEM's ability to prevent elements of a mix from overlapping and mushing together. Separation can happen by spreading elements of a mix from left to right, layering them closer to further away, or by accurate rendering of the timbre of different instruments. Given a decent mix, exceptional IEMs allow you to follow every element of the mix with minimal difficulty.
 
-![Soundstage](/assets/images/soundstage.png)
-
-Song list:
-- [Danger Zone](https://open.spotify.com/track/34x6hEJgGAOQvmlMql5Ige?si=df966c1603864c67) (0:00 - 0:50): focus on the centre of the soundstage to see how much it is pushed away from the head.
-- [Presto](https://open.spotify.com/track/5jWKziVgN8Bq1Mjrw9hbUt?si=bb3a3fd523ff420f) (0:00 to 0:40): focus on the reverb. Does it wrap around the head or appear inside the head?
-- [Shaker test](https://open.spotify.com/track/2ichfXkILYFJEhk0z8ULAm?si=55e977db2576477d): for drawing out the overall shape of the soundstage.
+**Test tracks:**
+- [Bad guy](https://music.apple.com/au/album/bad-guy/1450695723?i=1450695739): Can you hear the duplicated vocal line of Billie Eilish on the left? How easy it is for you to follow the words that she sings? 
+- [Finale (William Tell Overture)](https://music.apple.com/au/album/finale-william-tell-overture/1443102659?i=1443103644): Can you follow individual sections the orchestra? Can you hear the woodwind playing at the same time with the string section? Can you hear texture and detail in the drum or just mushy thump thump sound?
+- [And the waltz goes on](https://music.apple.com/au/album/and-the-waltz-goes-on/1443996822?i=1443996827): How easy it is to separate different sections of the orchestra when the music gets rich and lush from 1:00 onward?
 
 Overview
 
@@ -102,7 +102,7 @@ Decision on final rating.
 
 ## Tonality: ??/5
 
-> **Tonality** reflects the timbre and relative loudness of different elements in a mix. I assess IEM's tonality based on how bad they are rather than how good they are. As long as the tuning does not make timbre unrealistic nor reduce technical performance significantly, it is acceptable.
+> **Tonality** reflects the timbre and relative loudness of different elements in a mix. The tuning of an IEM can be measured objectively and presented as a frequency response graph. However, the interpretation of tonality from that tuning is more personal due to differences in anatomy, cultural background, and preferences. Therefore, to reduce bias, we assess IEM's tonality based on how bad they are rather than how good they are. As long as the tuning does not make timbre unrealistic nor reduce technical performance significantly, it is okay.
 
 ![Frequency Response](/assets/images/reviews/fr-aria.png)
 Frequency response of ???. Courtesy of ...
@@ -114,7 +114,7 @@ Comparison against benchmark IEMs:
 
 Decision on final rating.
 
-## Personal Preference ??/5
+## Conclusion and Personal Preference: ??/5
 
 > Personal preference is my entirely subjective and personal opinion about an IEM, based on multiple factors. This score DOES NOT contribute to the rating of an IEM.
 
