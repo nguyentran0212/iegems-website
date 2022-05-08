@@ -53,6 +53,10 @@ Tuning-wise, Chu sounds like what you would expect from a Moondrop IEM: mid-forw
 
 Midrange is well done. Its ear-gain starts precisely at 1kHz and raises 10db steadily to peak at 3kHz, so **no surprising honkiness or nasally tone**. The midrange (vocal, accoustic guitar, etc.,) is pushed closer to you, allowing you to hear them clearly. I did not hear any unusual harshness that is not already in the mix. 
 
+**Bass-wise, it's alright.** I did not find anything to complain, but not super impressed either. It's no Zen Pro or E5000.
+
+Regarding the "air" frequencies, Chu is quite natural in both quantity and quality. It would not reveal extra details in the decay and reverb of the sound but it's not lacking either. Personally, I want more energy from 15kHz up to mimic the interesting outer-most layer of soundstage on 64 Audio IEMs with TIA drivers.
+
 Soundstage-wise, it is also as expected from a Moondrop: **wide but not very deep**. The deep dip after 10kHz to a natural drop-off of high frequencies creates a good illusion of the sound expanding and fading into your surrouding, contributing to the width of the stage.
 
 Because midrange is pushed forward (louder) whilst lower-mid and bass is pushed backward, the whole sound stage seems to exist on the same plane rather than wrapping around you. 
@@ -61,10 +65,8 @@ The position of the plane (closer or further, in- or out-of-head) depends on how
 
 Technicality / resolving / resolution is something that needs to be praised. Gone is the fuzziness around notes and unstable stereo images of Aria. **Chu sounds clean and clear.** It might be due to the shift of the peak from 2.5kHz to 3kHz, or much extra energy at 6kHz, or might be due to a better driver design. Because of this added sharpness, I don't quite mind the closed-in staging of this IEM, comparing to its siblings like Aria and Blessing 2.
 
-**Bass-wise, it's alright.** I did not find anything to complain, but not super impressed either. It's no Zen Pro or E5000.
-
 # Early Verdict
 
-**Good IEM, and I would not attach the "for the price" phrase.** It is still not the immersive, "holographic" IEM that I look for, but I'm thoroughly okay if I have to use this every day.
+**Chu is a good IEM, and I would not attach backhanded compliment "for the price".** Whilst it is not the immersive, "holographic" IEM that I look for, I'm thoroughly okay if I have to use this every day.
 
 Great job, Moondrop! Now, please take this driver and make a new Blessing.
