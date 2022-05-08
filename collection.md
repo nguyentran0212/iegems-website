@@ -65,6 +65,22 @@ Update history:
 
 # Impressions 
 
+## Sennheiser IE300
+
+- [Impression](/_posts/2022-05-08-ie300-ie900-lola-4i-impression.md)
+
+## Sennheiser IE900
+
+- [Impression](/_posts/2022-05-08-ie300-ie900-lola-4i-impression.md)
+
+## Audeze LCD-i4
+
+- [Impression](/_posts/2022-05-08-ie300-ie900-lola-4i-impression.md)
+
+## JH Audio Lola
+
+- [Impression](/_posts/2022-05-08-ie300-ie900-lola-4i-impression.md)
+
 ## CFA Solaris 2020
 - It's beautiful and well-built.
 - It's not that impressive. The bass does not feel impactful yet looser, mushier than CFA Andromeda 2020.
