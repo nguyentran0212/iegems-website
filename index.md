@@ -10,8 +10,8 @@ header:
     image_description: "Comparison Rigs"
     overlay_filter: 0.8
     actions:
-        - label: "Review Method"
-          url: "/methodology"
+        - label: "Graph Database"
+          url: "https://nk-tran.com/iegems-graphtool"
         - label: "Ranking Database"
           url: "https://docs.google.com/spreadsheets/d/1poxJG_jaFkvXxf2RRnZ424F3F9Wcjm15HvNXxmJGGP8/edit?usp=sharing"
 
