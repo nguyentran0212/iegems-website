@@ -4,7 +4,7 @@ layout: "single"
 excerpts: Catch phrase
 toc: true
 header:
-    image: "/assets/images/AP80-Pro-X/AP80_Summary.png"
+    image: "/assets/images/AP80-Pro-X/AP80_summary.png"
 ---
 
 ![image](/assets/images/AP80-Pro-X/AP80_7.jpeg)
