@@ -173,7 +173,6 @@ Conclusion
 - Even with Andromeda and orchestral recording, the soundstage of UP4 does not extend as wide and deep as some other competitors
 - Audio delay with all Bluetooth codec
 - User interface and interaction can be a bit cryptic
-- Potential firmware issue that leads to choppy sound.
 
 UP4 is a competent and well-designed product. I love the volume wheel. For casual listeners, UP4 can handle most of your music listening needs and give you a bit of room for future upgrades with the 2.5mm balanced output. For seasoned listeners, UP4 offers various sound signatures that you can change on the fly. 
 
