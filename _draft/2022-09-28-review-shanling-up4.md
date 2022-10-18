@@ -19,7 +19,7 @@ Still, I use Bluetooth DAC/AMP combos because they are small, do not drain the p
 
 Preambles:
 ===
-- The Shanling UP4 2022 used for this article is a review sample provided by Yoshida-audio (thank you!) I have no financial interest in Shanling, Yoshida-audio, nor the success of this product.
+- The Shanling UP4 2022 used for this article is a review sample provided by Aoshida-audio (thank you!) I have no financial interest in Shanling, Aoshida-audio, nor the success of this product.
 - I use the term "source" to denote a DAC + Amp combo.
 - I found that sources do not sound the same due to the difference in their output power or tuning, should the manufacturer decide to deviate from the flat frequency response. 
 - Making loud noises does not mean that a pair of IEMs or earphones are driven to their full potential. When fed more power, underpowered IEMs or earphones would sound crisper and more separated (thus making the soundstage feel larger).
@@ -33,7 +33,7 @@ Specs:
 
 ![UP4](/assets/images/Shanling-UP4/UP4_1.JPG)
 
-Product info page: [here](https://aoshida-audio.com/products/shanling-up4-2022). Noted that Yoshida-audio seemed to be the only place on the Internet with the updated unit description by the time I wrote this article.
+Product info page: [here](https://aoshida-audio.com/products/shanling-up4-2022). Noted that Aoshida-audio seemed to be the only place on the Internet with the updated unit description by the time I wrote this article.
 
 - DAC Chips: ES9219C x 2
 - Output ports: 3.5mm (single-ended), 2.5mm (balanced)
@@ -100,9 +100,7 @@ It should be noted that UP4 is more suitable for music than movies and games. I 
 Note on the audio stuttering issue:
 ---
 
-There have been reports of frequent audio cut-outs during music playback via Bluetooth and wired connections. I have also experienced this issue. It happens more often and is more noticeable in boost mode. Noted that these cut-outs sound different from Bluetooth connection dropping. That's why I describe the Bluetooth connectivity as "solid".
-
-This issue appears to be a firmware issue and is being investigated by Shanling. I will update this section when more information is available. 
+There have been reports of frequent audio cut-outs during music playback via Bluetooth and wired connections with some UP4 units. I have also experienced this issue. It happens more often and is more noticeable in boost mode. Noted that these cut-outs sound different from Bluetooth connection dropping and happens regardless of the connection type. **Shanling has published a firmware update to fix this issue**. If you use an Android device, the update can be performed **wirelessly using the Eddict player app**. The process is fast and easy.
 
 
 Sound Performance
@@ -180,7 +178,5 @@ Conclusion
 UP4 is a competent and well-designed product. I love the volume wheel. For casual listeners, UP4 can handle most of your music listening needs and give you a bit of room for future upgrades with the 2.5mm balanced output. For seasoned listeners, UP4 offers various sound signatures that you can change on the fly. 
 
 Sound quality wise, UP4 slots neatly between the Apple dongle (3/5 - Average) and Fiio KA3 (4/5 - Good). The excellent handling and enjoyable user experience is a big plus. On the other hand, audio delay does limit UP4 usability. Taken all aspects into consideration, I rate **UP4 3.5/5 (above average).** 
-
-However, I cannot fully recommend UP4 until the audio cut-out problem has been addressed, as it would be a deal breaker for the target audience of this product. 
 
 ![UP4](/assets/images/Shanling-UP4/UP4_summary.jpg)
