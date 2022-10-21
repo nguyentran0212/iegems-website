@@ -93,7 +93,7 @@ Below are some key points to get you started.
 
 My favourite feature of UP4 compared to my BTR5 is the ability to **quickly change the gain setting and digital filter without going through any menu**. As you will see in the sound performance section, these settings have slight but noticeable differences in the sound signature of UP4. 
 
-**The Bluetooth connectivity of UP4 is solid and reliable**. I can leave my phone in my office and visit my colleagues in a next-door office without breaking the connection. I don't need to ensure line-of-sight between my phone and the dongle like I do with my BTR5. 
+**The Bluetooth connectivity of UP4 is solid and reliable**. I can leave my phone in my office and visit my colleagues in a next-door office (same floor) without breaking the connection. I don't need to ensure line-of-sight between my phone and the dongle like I do with my BTR5. 
 
 It should be noted that UP4 is more suitable for music than movies and games. I hear noticeable delays when watching drum covers on YouTube with LDAC, AAC, and USB-C cables. 
 
