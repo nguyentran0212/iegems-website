@@ -19,7 +19,8 @@ Still, I use Bluetooth DAC/AMP combos because they are small, do not drain the p
 
 Preambles:
 ===
-- The Shanling UP4 2022 used for this article is a review sample provided by Aoshida-audio (thank you!) I have no financial interest in Shanling, Aoshida-audio, nor the success of this product.
+- The Shanling UP4 2022 used for this article is a review sample provided by Aoshida-audio (thank you!) I have no financial interest in Shanling, Aoshida-audio, nor the success of this product. 
+- Shanling UP4 (2022 version) is available exclusively at [Aoshida Audio](https://aoshida-audio.com/products/shanling-up4-2022) (non-affiliated link). The unit costs $119 at the time this review is published. 
 - I use the term "source" to denote a DAC + Amp combo.
 - I found that sources do not sound the same due to the difference in their output power or tuning, should the manufacturer decide to deviate from the flat frequency response. 
 - Making loud noises does not mean that a pair of IEMs or earphones are driven to their full potential. When fed more power, underpowered IEMs or earphones would sound crisper and more separated (thus making the soundstage feel larger).
