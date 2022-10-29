@@ -7,7 +7,7 @@ header:
     image: "/assets/images/Hidizs-S9-Pro/S9-Pro-Summary.jpg"
 ---
 
-![S9-Pro](/assets/images/Hidizs-S9-Pro/S9-Pro-7.jpg)
+![S9-Pro](/assets/images/Hidizs-S9-Pro/S9-Pro-7.JPG)
 Among all the reviews I have written, the one you are reading is one of the hardest for me to write.
 
 Why? 
@@ -16,7 +16,7 @@ Well, you see, I'm a stubborn guy. When I started the head-fi hobby, Internet pe
 
 However, my belief began to waver as I experienced more pairs of sources and transducers. The little dongle DAC/AMP we discuss today might be my tipping point. Let's talk about Hidizs S9 Pro.
 
-![S9-Pro](/assets/images/Hidizs-S9-Pro/S9-Pro-9.jpg)
+![S9-Pro](/assets/images/Hidizs-S9-Pro/S9-Pro-9.JPG)
 
 Preambles:
 ===
@@ -40,15 +40,15 @@ Specs:
 Handling and Usability:
 ===
 
-![S9-Pro](/assets/images/Hidizs-S9-Pro/S9-Pro-15.jpg)
-![S9-Pro](/assets/images/Hidizs-S9-Pro/S9-Pro-13.jpg)
-![S9-Pro](/assets/images/Hidizs-S9-Pro/S9-Pro-12.jpg)
-![S9-Pro](/assets/images/Hidizs-S9-Pro/S9-Pro-11.jpg)
-![S9-Pro](/assets/images/Hidizs-S9-Pro/S9-Pro-6.jpg)
+![S9-Pro](/assets/images/Hidizs-S9-Pro/S9-Pro-15.JPG)
+![S9-Pro](/assets/images/Hidizs-S9-Pro/S9-Pro-13.JPG)
+![S9-Pro](/assets/images/Hidizs-S9-Pro/S9-Pro-12.JPG)
+![S9-Pro](/assets/images/Hidizs-S9-Pro/S9-Pro-11.JPG)
+![S9-Pro](/assets/images/Hidizs-S9-Pro/S9-Pro-6.JPG)
 
 S9 Pro is a tiny stick of aluminium sandwiched by glass panels. It is narrower and thinner than my KA3, which is already smaller than an average USB memory stick. The Hidizs logo lights up upon connection to indicate the audio quality being played. 
 
-![S9-Pro](/assets/images/Hidizs-S9-Pro/S9-Pro-10.jpg)
+![S9-Pro](/assets/images/Hidizs-S9-Pro/S9-Pro-10.JPG)
 
 Using S9 Pro is straightforward: plug-and-play. However, there are some gotchas:
 - **The included cable is unidirectional**. You must connect the plug with the logo to your phone or laptop. Otherwise, the dongle does not work. I have no problem with other cables. 
@@ -61,7 +61,7 @@ S9 Pro is also free of software settings. As far as I know, there is no app to c
 Sound Performance
 ===
 
-![S9-Pro](/assets/images/Hidizs-S9-Pro/S9-Pro-8.jpg)
+![S9-Pro](/assets/images/Hidizs-S9-Pro/S9-Pro-8.JPG)
 
 **Rich, deep, refined.**
 
@@ -71,7 +71,7 @@ At the same time, higher-pitched instruments like violin, trumpet, cymbals, and 
 
 Another good thing about S9 Pro is the **pitch-black background.** Thanks to the impactful low-end and refined top-end, instruments are a bit more separated from each other, with a darker background between them. The contrast between instruments and background does an excellent job of making the soundstage feels deeper. 
 
-![S9-Pro](/assets/images/Hidizs-S9-Pro/S9-Pro-3.jpg)
+![S9-Pro](/assets/images/Hidizs-S9-Pro/S9-Pro-3.JPG)
 
 Where do these sound characteristics come from? At first, I thought there were some tuning tricks baked into S9 Pro, such as a subtle bass boost. However, measurements by folks at [Hi End Portable](https://hiendportable.com/hidizs-s9-pro-english-review/) show a flat frequency response between 20 and 20000Hz, just like any other dongle in my collection. Since there is no tonality shift, I must attribute the great sound to the DAC implementation and powerful amplification of the S9 Pro.
 
@@ -99,7 +99,7 @@ Let's take [G.O.A.T.](https://music.apple.com/au/album/g-o-a-t/1416234351?i=1416
 Low-impedance, high-Sensitivity IEM
 ---
 
-![S9-Pro](/assets/images/Hidizs-S9-Pro/S9-Pro-5.jpg)
+![S9-Pro](/assets/images/Hidizs-S9-Pro/S9-Pro-5.JPG)
 
 **Tested gear:** Hidizs MD4 (8ohm@1kHz, 102dB/mW@1kHz)
 
@@ -110,7 +110,7 @@ The difference between S9 Pro and KA3 is also noticeable in the same A/B tests. 
 Average IEM and earphones
 ---
 
-![S9-Pro](/assets/images/Hidizs-S9-Pro/S9-Pro-4.jpg)
+![S9-Pro](/assets/images/Hidizs-S9-Pro/S9-Pro-4.JPG)
 
 **Tested gears:** VE Monk+ (64ohm, 118dB/mW), Moondrop Blessing 2 (22ohm, 117dB/Vrms), Sennheiser HD560S (120ohm, 110dB/Vrms)
 
@@ -123,7 +123,7 @@ Before we move on, I want to talk about Sennheiser HD560s because the results we
 Low-impedance, low-sensitivity IEM 
 ---
 
-![S9-Pro](/assets/images/Hidizs-S9-Pro/S9-Pro-2.jpg)
+![S9-Pro](/assets/images/Hidizs-S9-Pro/S9-Pro-2.JPG)
 
 **Tested gears:** Final Audio E5000 (14ohm, **93dB/mW**)
 
@@ -147,7 +147,7 @@ Conclusion
 
 Let's face it. Sources are a commodity (read: interchangeable) nowadays. Decent ones are affordable and sound very similar at a glance. 
 
-![S9-Pro](/assets/images/Hidizs-S9-Pro/S9-Pro-1.jpg)
+![S9-Pro](/assets/images/Hidizs-S9-Pro/S9-Pro-1.JPG)
 
 Yet, I still gravitate towards the S9 Pro more than anything else in my collection. In fact, I even upgraded my IEM cables to balanced and got a 4.4 to 2.5 adapter to use the S9 Pro more. This dongle soundingly outperforms both of my benchmarks, the Apple dongle and Fiio KA3, in most A/B tests. It can drive full-sized cans competently. Therefore, **Hidizs S9 Pro receives a high recommendation** from this reviewer, especially if you need a new dongle DAC/AMP in your collection. 
 
