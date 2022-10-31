@@ -19,6 +19,7 @@ How does it sound? Let's find out.
 
 Preambles:
 ===
+- I bought this unit with my own fund. You can find out more details about this DAP on [manufacturer's website](https://www.hidizs.net/products/ap80-pro-x-fully-balanced-lossless-music-player-ayfk?spm=..?aid=iegems)
 - I use the term "source" to denote a DAC + Amp combo.
 - I found that sources do not sound the same due to the difference in their output power or tuning, should the manufacturer decide to deviate from the flat frequency response. 
 - Making loud noises does not mean that a pair of IEMs or earphones are driven to their full potential. When fed more power, underpowered IEMs or earphones would sound crisper and more separated (thus making the soundstage feel larger).
