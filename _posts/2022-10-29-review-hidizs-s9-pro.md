@@ -21,7 +21,7 @@ However, my belief began to waver as I experienced more pairs of sources and tra
 Preambles:
 ===
 - This review is based on a review sample provided by Hidizs (Thank you!) I have no financial interest in Hidizs or the success of this product. 
-- The Hidizs S9 Pro can be found on the manufacturer's [website](https://www.hidizs.net/products/hidizs-s9-pro-balanced-single-ended-mini-hifi-dac-amp?spm=..index.header_1.1) (Non-affiliated link). The unit costs $119 USD ($188 AUD) at the time this review was published.
+- The Hidizs S9 Pro can be found on the manufacturer's [website](https://www.hidizs.net/products/hidizs-s9-pro-balanced-single-ended-mini-hifi-dac-amp?spm=..?aid=iegems) (Non-affiliated link). The unit costs $119 USD ($188 AUD) at the time this review was published.
 - I use the term "source" to denote a DAC + Amp combo.
 - When I talk about the "sound" of a source, I talk about its impact on the sound of headphones or earphones connected to it. For example, a source is "bright" means it makes earphones brighter than other sources.
 - A source is rated based on A/B tests. If one source sounds not as good as the other, I would bump up the volume and give it another try before concluding. This practice aims to mitigate the "louder is better" problem.
