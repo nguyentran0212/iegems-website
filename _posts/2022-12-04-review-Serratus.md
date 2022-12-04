@@ -203,6 +203,7 @@ My final verdict of Serratus? I respect it, even though I don't find it entirely
 - Top-shelf resolution
 - Top-shelf soundstage imaging
 - Deep and clean bass response
+- 
 **Cons**:
 - Sibilant due to a mid-treble peak
 - Can sound cold and thin if you are used to a wamer tonality
