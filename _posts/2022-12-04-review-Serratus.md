@@ -4,7 +4,7 @@ layout: "single"
 excerpts: Catch phrase
 toc: true
 header:
-    image: "/assets/images/TGXear-Serratus/Serratus-summary.JPG"
+    image: "/assets/images/TGXear-Serratus/Serratus-Summary.jpg"
 ---
 
 Reviewers are good at picking apart head-fi products. How do they fare when they build head-fi products themselves? 
