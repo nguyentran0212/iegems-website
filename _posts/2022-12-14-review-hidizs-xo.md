@@ -22,7 +22,7 @@ Preambles:
 - This review is based on my subjective experience. Ratings are given based on A/B tests with benchmark sources and IEMs. 
 - Making loud noises does not mean that a pair of IEMs or earphones are driven to their full potential.
 - Despite my textual descriptions, improvements from sources are minor and nuanced. If you are beginning your head-fi journey, getting different IEMs or earphones would yield more benefits. If you know your gears very well, improvements from sources can be delightful.
-- The XO used for this review was a preproduction sample provided by Hidizs (Thank you!). The unit is retailed for $99 and can be found on Hidizs official store ([non-affiliated link](https://www.hidizs.net/products/hidizs-xo-single-ended-balanced-mqa-dongle?spm=.?aid=iegems&utm_source=kol&utm_medium=blog&utm_campaign=iegems&utm_content=xo))
+- The XO used for this review was a preproduction sample provided by Hidizs (Thank you!). The unit is retailed for $99 and can be found on Hidizs official store ([non-affiliated link](https://www.hidizs.net/products/hidizs-xo-single-ended-balanced-mqa-dongle?spm=.?aid=iegems&utm_source=kol&utm_medium=blog&utm_campaign=iegems&utm_content=xo&sscid=c1k6_j8wtk&))
 
 
 Specs:
