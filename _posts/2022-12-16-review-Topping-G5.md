@@ -7,9 +7,9 @@ header:
     image: "/assets/images/Topping-G5/ToppingG5_14.JPG"
 ---
 
-The first time I visited a hi-fi store, I saw a person holding a big "brick", either a digital audio player or a portable amplifier, in his hand to listen to IEMs. I didn't know what or how expensive it was, but that person seemed to enjoy using it. So I wanted a "brick" for myself. 
+The first time I visited a hi-fi store, I saw a person holding a big "brick", either a digital audio player or a portable amplifier, in his hand to listen to IEMs. 
 
-As I got deeper into this audio hobby, like some (many?) newbies, I went through the phase of parroting: "Apple dongle is all you need." Yet, the "brick" was always in my mind, despite how illogical it seemed. 
+I didn't know what or how expensive it was, but that person seemed to enjoy using it. So I wanted a "brick" for myself. As I got deeper into this audio hobby, like some (many?) newbies, I went through the phase of parroting: "Apple dongle is all you need." Yet, the "brick" was always in my mind, despite how illogical it seemed. 
 
 One thing led to another, and now I've also got an audio brick for myself - Topping G5. Have I gone mad? Let's talk about G5 from the perspective of a sceptical IEM listener.
 
