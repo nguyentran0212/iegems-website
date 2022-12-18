@@ -258,3 +258,5 @@ The main drawback of G5 is the EMI noise. I choose to work around this issue rat
 **Cons:**
 - Channel imbalance at low volume
 - Susceptible to EMI noises
+
+![](/assets/images/Topping-G5/ToppingG5_14.JPG)
