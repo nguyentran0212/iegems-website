@@ -17,7 +17,7 @@ So, what is it, then? A legitimate disruptor or a pretender to the throne? Let's
 
 Forewords
 ===
-- I purchase this unit at a discount from Hifigo, following a reference from AFUL. I have no affiliation with or financial interest in Hifigo and AFUL.
+- I purchase this unit at a discount from Hifigo, following a reference from AFUL. I have no affiliation with or financial interest in Hifigo and AFUL. The product retails (exclusively?) at [HiFiGo](https://hifigo.com/products/aful-performer-5) for USD 220 (around AUD 330 when I purchased)
 - You should treat this review as **subjective impressions of an audio geek rather than an "objective truth"** about the IEM. Your experience with any IEM would change depending on your DAC/AMP, music library, ear tips, and listening volume. 
 - I believe that great IEMs are the ones that can achieve multiple difficult things simultaneously: (1) **high resolution** (elements of a mix are crisp, easy to follow and full of texture), (2) **3D soundstage** with a strong sense of layering and depth, (3) **bold and natural bass**, (4) natural timbre and **balanced tonality** that can work with any genre of music.
 - I rate IEMs on the **scale from 1 (poor) to 5 (outstanding)**. The scale centres around 3, indicating "average", "adequate", or "acceptable" performance. Scores are assigned by A/B tests against benchmark IEMs that represent how each score band sounds. 
