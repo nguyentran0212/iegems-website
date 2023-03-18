@@ -157,8 +157,6 @@ Percussion Rendering: 3/5 - Average
 
 ![](/assets/images/KiwiEars-OrchestraLite/KiwiEars_OrchestraLite_21.JPG)
 
-Bass is troublesome. When an IEM, supported by the bassy Shanling M6 Ultra, punches less than Andromeda 2020, you know the bass is not the star of the show. The quality is also low. For example, cellos feel "glossy" and lacking texture. Instead of "brrrrrrm", the lower strings of cellos sound like "ummmm". On the plus side, the bass is still clear enough for me to follow the tempo. 
-
 There is not much to discuss about the bass of Orchestra Lite. Handled by two BA woofers, the bass response of Orchestra Lite is clean and can be thumpy when the music calls for it. For instance, the [Harry Potter vs Luke Skywalker](https://youtu.be/Ver1OZdK2bA) rap battle by the talented folks at ERB can get my  foot tapping. Orchestra Lite renders ever beat sharply with clear attack. The loudness of the bass is also appropriate, though I personally prefer a bit extra. 
 
 The bass quality is where I have problem. As most (but not all) implementations of BA woofers, Orchestra Lite lacks the physical sensation of bass slam. Let's take my favourite bass test track, [Despacito](https://youtu.be/kJQP7kiw5Fk), as an example. Blessing 2, which has one dynamic driver as the woofer, creates a suction-like illusion before slamming with the first bass drop around 1:25. The Orchestra Lite simply renders a snappy, equally loud "boom" sound, and then gives up. On the plus side, the BA bass of Orchestra Lite is a bit cleaner and more controlled. 
