@@ -19,7 +19,7 @@ Forewords
 - What I look for in an IEM is **immersion.** I want to feel the orchestra around me, track individual instruments, and hear all of their textures and details. I'm not picky about tonality, as long as it does not get in the way of immersion.
 - I rate IEMs within with a consistent scale from **1 (poor) to 3 (Adequate) to 5 (outstanding)**. Ratings are assigned by A/B tests against benchmark IEMs, **regardless of the retail price.** 
 - Ranking list and measurement database are on [my IEM review blog](https://iegems.nk-tran.com/).
-- **This review is possible thanks to the generosity of @Tzenn who loaned me his personal unit (Thank you!).** I have no affiliation with or financial interest in Rikubuds. The unit retails for $xxxx at the time this review was published. You can find out more info and get yourself a unit from the [Hidizs store](https://www.hidizs.net/products/ms5-4ba-1dd-hybrid-5-units-hifi-in-ear-monitor-earphone?spm=..index.shoplazza%3A%2F%2Fapps%2Fpublic%2Fblocks%2Fimage_slideshow%2F56125487021326335_1.1).
+- **This review is possible thanks to the generosity of @Tzenn who loaned me his personal unit (Thank you!).** I have no affiliation with or financial interest in Rikubuds. The unit retails for EUR $125 at the time this review was published. You can contact Riku directly to order your unit.
 
 Listening Setup
 ===
