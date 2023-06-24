@@ -1,7 +1,7 @@
 ---
-title: "HiBy Zeta - Engaging Kilobuck"
+title: "Plussound Allegro - Lively and Detailed"
 layout: "single"
-excerpts: Engaging Kilobuck
+excerpts: Lively and Detailed
 toc: true
 header:
     image: "/assets/images/Hiby-Zeta/zeta_summary.jpg"
