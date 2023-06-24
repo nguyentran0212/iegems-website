@@ -4,7 +4,7 @@ layout: "single"
 excerpts: Lively and Detailed
 toc: true
 header:
-    image: "/assets/images/Hiby-Zeta/zeta_summary.jpg"
+    image: "/assets/images/Allegro/allegro_summary.jpg"
 ---
 
 What happen when a renowned cable maker builds IEM? Today, we are going to look at Plussound's Allegro, a 12-driver tribrid behemoth.
