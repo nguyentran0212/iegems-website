@@ -192,7 +192,7 @@ Comparison and Rating
 **Percussion Rendering:** 4.5/5 (Very Good) - MEST III has good bass, but not outstanding. It lacks a bit of the visceral and decisive dynamic swings that I expect. 
 
 
-![](/assets/imagesPasted image 20230722140621.png)
+![](/assets/images/Pasted image 20230722140621.png)
 
 **Resolution:** 5/5 (Outstanding) - MEST III fits confidently among the upper echelon. There might be a few IEMs out there that out-resolve the MEST III, but for mere mortals with limited funds like myself, these are as good as it gets.
 
