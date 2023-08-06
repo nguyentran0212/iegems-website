@@ -1,7 +1,7 @@
 ---
 title: "Dunu Falcon Ultra - ECLIPSE for the mass"
-layout: "ECLIPSE for the mass"
-excerpts: Solid Buds
+layout: "single"
+excerpts: "ECLIPSE for the mass"
 toc: true
 header:
     image: "/assets/images/Falcon_Ultra/falcon_ultra_summary.jpg"
