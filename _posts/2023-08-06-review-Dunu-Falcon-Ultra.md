@@ -183,6 +183,7 @@ Comparisons
 How does JD7 fare against Falcon Ultra? First of all, tonality. JD7 sounds very close to Falcon Ultra with the stock nozzle. The technical performance is where Falcon Ultra pulls ahead. When I listen to my familiar test track, "Jolene (feat. Dolly Parton)" by Pentatonix, I found that JD7 is more smeary than Falcon Ultra. In other words, it is more "effortless" for me to separate and follow individual voices with Falcon Ultra because everything is more sharply defined. 
 
 The sharp contrast between the two IEMs comes when I listen to the first drums around 0:30 of Victory by Two Steps From Hell. The Falcon Ultra simply convey more sense of energy with every drum hit. It's not that the bass is louder, but the sense of "slam", the urgency of each drum hit, is just more palpable. 
+
 Rating
 ===
 
