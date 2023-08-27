@@ -114,6 +114,7 @@ The sense of depth and layering of the soundstage is more commendable. For examp
 ![](/assets/images/FiiO-FH11/fh11_00008.jpg)
 
 **Soundstage imaging with games ([CS GO Gameplay by Throneful](https://youtu.be/KnpljMWwy3o))** To my surprise, the soundstage imaging of FH11 works much better in games. The soundstage feels like an oval that extends slightly outside my head. It was easy to pinpoint the direction of the footsteps and gunshots. I could even track the sounds moving around and behind my head. The illusion of distance and height are also serviceable. If you have gaming skills, you can certainly take advantage of these IEMs. 
+
 Resolution
 ===
 
