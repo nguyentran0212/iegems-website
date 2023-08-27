@@ -7,6 +7,8 @@ header:
     image: "/assets/images/Helios/helios_summary.jpg"
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ql1_nMMagzY?si=y5RPHdKUTzOrE6lO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 If you read this review, chances are you are passionate (and geeky) about IEM and personal audio in general. As a passionate enthusiast, at one time or another, it's likely that you have the dream of making a great IEM that embodies your ideal sound so that the world can hear it. Whilst that dream remains a dream for many (including me), some of the geekiest and the most passionate members actually crossed the chasm and made their ideal sound a reality. Previously, we looked at tgx78's [Serratus](https://iegems.nk-tran.com/2022/12/04/review-Serratus.html) and RikudouGoku's [Grand Alter Saber 2](https://iegems.nk-tran.com/2023/06/04/review-RikuBuds-GAS2.html). Today, we look at Helios, the result of a collaboration between two boutique powerhouses from Singapore: Symphonium and Subtonic.
 
 ![](/assets/images/Helios/helios_00004.jpg)
