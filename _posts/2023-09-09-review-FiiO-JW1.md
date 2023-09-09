@@ -57,6 +57,7 @@ Bass and Dynamic
 ![](/assets/images/FiiO-JW1/JW1_00007.jpg)
 
 The bass of JW1 is light in terms of loudness. However, it still manages to convey a slight sense of thumpiness and dynamic, with decently defined bass attacks. In fact, the bass response of JW1 reminds me of the FiiO FF5 when I listen without any foam. 
+
 Soundstage Imaging
 ===
 
