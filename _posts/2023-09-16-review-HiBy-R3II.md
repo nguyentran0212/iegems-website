@@ -1,7 +1,7 @@
 ---
-title: "AuR Audio Aurora - Lovely Vocal"
+title: "HiBY R3 Gen II - Micro DAP with proper sound"
 layout: "single"
-excerpts: "Lovely Vocal"
+excerpts: "Micro DAP with proper sound"
 toc: true
 header:
     image: "/assets/images/R3II/Thumbnails.jpg"
