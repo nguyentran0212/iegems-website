@@ -36,12 +36,8 @@ Fit, comfort and isolation
 
 **Ear tips recommendation:** 
 
-Driveability
-===
 
-
-
-Subjective Experience
+Sonic Performance
 ===
 
 **Testing setup**: 
@@ -49,7 +45,13 @@ Subjective Experience
 - Cable: 
 - Ear tips: 
 
-**Timbre, tonality, and tonal balance:**
+**Timbre, tonality, and tonal balance:** *Figure shows the frequency response of XXXX against the Harman in-ear target. Measurements were done with an IEC-711-compliant coupler and might only be compared with other measurements from this same coupler. Above 8kHz, the measurement might not be correct. Visit my [graph database](https://nk-tran.com/iegems-graphtool/) for more comparisons.*
+
+![](/assets/images/Symphonium-Crimson/Crimson_Graph_Harman.png)
+
+*It is helpful to think of an IEM as a filter that highlights or subdues different parts of the incoming audio signal. This effect can be measured objectively by the squiggly lines above, called Frequency Response (FR) graphs, which measure how loud an IEM is at different frequencies from 20Hz (bass) to 20kHz (upper treble). Subjectivity is how your ears and brain interpret the effect of that filter on your music and decide whether it is "enjoyable." There are some "rules of thumb" when it comes to tonality, but most interesting IEMs usually bend the rules masterfully.*
+
+
 
 **Bass and perceived dynamic:**
 
@@ -67,16 +69,14 @@ Subjective Experience
 **Multimedia usage:**
 
 
-
-Frequency Response Analysis
+Pairing
 ===
 
-*Frequency response of Crimson against Helios and the Harman in-ear target. Measurements were done with an IEC-711-compliant coupler and might only be compared with other measurements from this same coupler. Above 8kHz, the measurement might not be correct. Visit my [graph database](https://nk-tran.com/iegems-graphtool/) for more comparisons.*
+Apple dongle? 
 
-![](/assets/images/Symphonium-Crimson/Crimson_Graph_Harman.png)
+R3II?
 
-*It is helpful to think of an IEM as a filter that highlights or subdues different parts of the incoming audio signal. This effect can be measured objectively by the squiggly lines above, called Frequency Response (FR) graphs, which measure how loud an IEM is at different frequencies from 20Hz (bass) to 20kHz (upper treble). Subjectivity is how your ears and brain interpret the effect of that filter on your music and decide whether it is "enjoyable." There are some "rules of thumb" when it comes to tonality, but most interesting IEMs usually bend the rules masterfully.*
-
+DX300?
 
 Comparisons
 ===
