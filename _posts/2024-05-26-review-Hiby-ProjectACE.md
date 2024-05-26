@@ -66,9 +66,9 @@ Sonic Performance
 - Cable: Stock cable with 4.4mm jack
 - Ear tips: Comply medium foam tips
 
-**Timbre, tonality, and tonal balance:** *Figure shows the frequency response of XXXX against the Harman in-ear target. Measurements were done with an IEC-711-compliant coupler and might only be compared with other measurements from this same coupler. Above 8kHz, the measurement might not be correct. Visit my [graph database](https://nk-tran.com/iegems-graphtool/) for more comparisons.*
+**Timbre, tonality, and tonal balance:** *Figure shows the frequency response of Project ACE against the Harman in-ear target. Measurements were done with an IEC-711-compliant coupler and might only be compared with other measurements from this same coupler. Above 8kHz, the measurement might not be correct. Visit my [graph database](https://nk-tran.com/iegems-graphtool/) for more comparisons.*
 
-![](/assets/images/Symphonium-Crimson/Crimson_Graph_Harman.png)
+![](/assets/images/Hiby-Project-ACE/ProjectACE_graph.png)
 
 *It is helpful to think of an IEM as a filter that highlights or subdues different parts of the incoming audio signal. This effect can be measured objectively by the squiggly lines above, called Frequency Response (FR) graphs, which measure how loud an IEM is at different frequencies from 20Hz (bass) to 20kHz (upper treble). Subjectivity is how your ears and brain interpret the effect of that filter on your music and decide whether it is "enjoyable." There are some "rules of thumb" when it comes to tonality, but most interesting IEMs usually bend the rules masterfully.*
 
