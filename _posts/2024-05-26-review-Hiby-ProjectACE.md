@@ -4,10 +4,16 @@ layout: "single"
 excerpts: "Tagline"
 toc: true
 header:
-    image: "/assets/images/Symphonium-Crimson/Crimson_summary.jpg"
+    image: "/assets/images/Hiby-Project-ACE/ProjectACE_summary.jpg"
 ---
 
-Opening phrase
+**Collaboration**
+
+Once upon a time, the concept of a collaboration between a manufacturer and a reviewer to build an In-Ear Monitor (IEM) was a rare occurrence and a promising sign of a breakthrough in sonic performance and price-to-value ratio.
+
+However, collaborations have become much more common today, which may have diminished their initial excitement. Yet, there is a less common form of collaboration that I find more intriguing: partnerships between manufacturers themselves. Today, we'll be examining the result of such a collaboration between HiBy and FAudio, in the form of an IEM called **Project ACE**.
+
+![](/assets/images/Hiby-Project-ACE/ProjectACE_00002.jpg)
 
 Forewords
 ===
@@ -16,9 +22,8 @@ Forewords
 - I rate IEMs within with a consistent scale from **1 (Poor) to 3 (Good) to 5 (Outstanding)**. An overall ranking of 3/5 or above is considered positive. 
 - Ranking list and measurement database are on [my IEM review blog](https://iegems.nk-tran.com/).
 - Terms used in my reviews are consistent with the [glossary by Headphonesty](https://www.headphonesty.com/sound-description-glossary)
-- **This review is based on a review sample from XXXX (Thank you!).** I have no affiliation with or financial interest in XXXX. 
-- **This review is possible thanks to the Australian tour arranged by XXXX and @Damz87 (Thank you!)**. I have no affiliation with or financial interest in XXXX. 
-- The unit retails for $xxxx at the time this review was published. Unaffiliated link: 
+- **This review is based on a review sample from HiBy (Thank you William and Joe @ HiBy!).** I have no affiliation with or financial interest in HiBy. The unit would be returned to HiBy after this review.
+- The unit retails for $249 at the time this review was published. Unaffiliated link: https://store.hiby.com/products/hiby-x-faudio-project-ace
 
 General Information
 ===
@@ -30,6 +35,12 @@ At the heart of Project ACE lies a single dynamic driver boasting several notabl
 Non-sound Aspects
 ===
 
+![](/assets/images/Hiby-Project-ACE/ProjectACE_00003.jpg)
+![](/assets/images/Hiby-Project-ACE/ProjectACE_00004.jpg)
+![](/assets/images/Hiby-Project-ACE/ProjectACE_00007.jpg)
+![](/assets/images/Hiby-Project-ACE/ProjectACE_00008.jpg)
+![](/assets/images/Hiby-Project-ACE/ProjectACE_00009.jpg)
+
 **Packaging and accessories:** Project ACE arrives in a cardboard box with an outer sleeve, following the pattern seen with other HiBy IEMs. Inside, you'll find the essentials:
 - The earpieces themselves
 - A leather carrying case with a soft lining
@@ -37,6 +48,9 @@ Non-sound Aspects
 - A 4-wire IEM cable with interchangeable plugs
 - A small brush for maintenance
 - Various paperwork.
+
+![](/assets/images/Hiby-Project-ACE/ProjectACE_00005.jpg)
+![](/assets/images/Hiby-Project-ACE/ProjectACE_00006.jpg)
 
 **Earpiece design:** Crafted from full metal, the earpieces boast a sturdy build and is decently weighty. Unlike some other models, they do not mimic the shape of custom IEMs, which may affect how they fit in your ears. The nozzles are of medium width but slightly longer than average.
 
@@ -61,6 +75,8 @@ Sonic Performance
 
 The tonal balance of Project ACE diverges notably from the typical offerings in the market, which often adhere to variations of the Harman curve. This distinction is stark, even jarring, particularly when swiftly switching between Project ACE and more conventional IEMs like Moondrop Blessing 2. Despite this deviation, Project ACE's tonality doesn't veer into the realm of the uncanny. Instruments such as orchestra, voices, violin, and piano — my benchmarks for tonality and timbre — sound natural and convincing with Project ACE.
 
+![](/assets/images/Hiby-Project-ACE/ProjectACE_00010.jpg)
+
 Project ACE's tonality can be dissected into three key characteristics. Firstly, its flat response across frequencies results in minimal variation in sound at different volume levels, a factor that will be elaborated upon in the discussion on bass and dynamics. Secondly, there's a reserved upper midrange boost, starting from 1kHz and gradually ascending to 2.5kHz, without opting for the excessive 12.5dB boost common in many contemporary IEMs. Additionally, there's a discernible cut around 4kHz, reminiscent of the Symphonium Meteor IEM, potentially contributing to a perception of a more expansive soundstage. Lastly, the lower treble peak at 5kHz introduces a divisive element. While it enhances crispness, definition, and tactile sensations, especially with percussion instruments and plucked strings, it may also verge on harshness for listeners accustomed to the emphasis on 3kHz over 5kHz in conventional IEMs.
 
 Overall, the distinctive tuning by HiBy and FAudio lends Project ACE character and a unique presentation without compromising its tonality and timbre. However, the lower treble boost could be a deal-breaker for treble-sensitive listeners. Hence, I would rate the tonality and tuning of Project ACE as **3/5 – Good**, competent but potentially niche.
@@ -69,9 +85,11 @@ Overall, the distinctive tuning by HiBy and FAudio lends Project ACE character a
 
 Project ACE sounds more punchy and dynamic than its frequency response (FR) graph suggests. This can be attributed to its clever utilization of the equal loudness curve. Essentially, you need to turn up the volume to achieve the right loudness at the midrange and upper midrange regions. Given that Project ACE's FR is quite flat, increasing the volume simultaneously elevates the bass and treble. Due to the equal loudness effect, these regions are perceived as significantly louder, enhancing the overall dynamism and punchiness of the sound. Another factor contributing to Project ACE's impressive bass and dynamics is the size of the dynamic driver (DD) employed. 
 
+![](/assets/images/Hiby-Project-ACE/ProjectACE_00011.jpg)
+
 The bass and dynamic prowess of Project ACE is particularly evident when listening to the album "Remember That You Will Die" by Polyphia, especially the track "Playing God." For instance, the bass drop at 0:27 is strong and well-defined without being sloppy. There is a proper sense of silence or "darkness" between the kicks of the bass drum, which intensifies these kicks. The cymbals and hi-hats have a crisp attack, as heard around the 02:00 mark, and are well-defined and detailed. The low-pitched rumble of the bass guitar is both audible and palpable. 
 
-Simply put, I'm impressed with how this IEM renders percussion instruments and bass drops. The presentation is punchy and snappy, yet the bass does not overpower the rest of the mix. The bass texture, whilst not the best of the test, is quite good. These factors lead me to give the bass and dynamics of Project ACE a solid 4/5 – Great.
+Simply put, I'm impressed with how this IEM renders percussion instruments and bass drops. The presentation is punchy and snappy, yet the bass does not overpower the rest of the mix. The bass texture, whilst not the best of the test, is quite good. These factors lead me to give the bass and dynamics of Project ACE a solid **4.5/5 – Outstanding**.
 
 
 ![](/assets/images/resolution.jpg)
@@ -79,6 +97,8 @@ Simply put, I'm impressed with how this IEM renders percussion instruments and b
 **Resolution:** *To me, "resolution" can be broken down into three components: (1) Sharpness, incisiveness, or "definition" of note attacks (see the figure above). (2) The separation of instruments and vocals, especially when they overlap on the soundstage. (3) The texture and details in the decay side of the notes. The first two give music clarity and make it easy to track individual elements of a mix. The last provides music details and nuances.*
 
 The dynamic driver used in Project ACE is very capable of ensuring clear definition and separation of notes and instruments. A small peak in the lower treble around 5kHz also aids in enhancing note definition, making the overall sound sharp and distinct. This capability shines through in complex and busy tracks, such as in the album "Remember that You Will Die" by Polyphia, particularly in "ABC (feat. Sophia Black)." Every note attack feels crisp and defined.
+
+![](/assets/images/Hiby-Project-ACE/ProjectACE_00012.jpg)
 
 However, the separation of instruments could be improved. Despite the crisp note attacks, I find it a bit challenging to separate and follow individual elements in the busier sections of the track. On the other hand, the presentation of micro details, particularly at the decay end of notes, along with the reverberation and decay, is highly competent. When listening to Project ACE alone, I don't feel that any details have been truncated or are missing. The sound of the violin in the album "Bach: Sei Solo" by Leonidas Kavakos showcases this strength well.
 
@@ -89,6 +109,8 @@ In the grand scheme of IEMs, I find that Project ACE resolves details at a level
 **Stereo imaging and soundstage:** *Stereo imaging or "soundstage" is a psychoacoustic illusion that different recording elements appear at various locations inside and around your head. Your brain creates based on the cues in the recording, which are enhanced or diminushed by your IEMs, your DAC, and your amplifier. In rare cases, with some specific songs, some IEMs can trick you into thinking that the sound comes from the environment (a.k.a., "holographic")*
 
 The soundstage of Project ACE is expansive in all directions: width, depth, and height. This remarkable characteristic allows for an immersive listening experience, where each instrument is distinctly placed within the mix. The layering is particularly impressive, with a proper sense of separation between closer and more distant elements, creating a three-dimensional effect that enhances the overall listening experience.
+
+![](/assets/images/Hiby-Project-ACE/ProjectACE_00013.jpg)
 
 For instance, when listening to the Gladiator Suite from the album LIVE by Hans Zimmer, the first rumble of the bass is strongly present, firmly grounded in the middle of the soundstage. The center and foreground elements, such as the guitar in Part 1 of the suite, have a good presence without being overly forward or intrusive. Background elements, like the string section panned to the sides around the 03:00 mark in Part 1, sound properly distant, adding depth and realism to the performance. Additionally, the section starting around the 01:45 mark in Part 2 of the suite sounds appropriately large, further showcasing the expansive nature of Project ACE's soundstage. 
 
@@ -101,11 +123,10 @@ Project ACE is competent with both movie and gaming, thanks to the dynamic prese
 Pairing
 ===
 
-Apple dongle? 
+Project ACE is relatively easy to drive, thanks to its reasonable impedance of 32 ohms and high sensitivity, which clocks in at 115 dB at 1 kHz. It works well with the Apple dongle and improves from there. I've found that the R3II and R4 are the sweet spot for Project ACE, as they push it close to the level of sound quality I experience from my reference chain (iBasso DX300 with stock amplifier) without breaking the bank.
 
-R3II?
+Like most single DD IEMs, Project ACE sounds better when driven by an amplifier with more "voltage swing." One easy way to get this extra voltage swing is to take advantage of the 4.4mm output on your source device.
 
-DX300?
 
 Comparisons
 ===
@@ -128,6 +149,8 @@ Project ACE, a collaboration between HiBy and FAudio, introduces a distinctive t
 - Lower treble peak can be divisive
 - Can be challenging to achieve a good fit
 
-**Absolute Sonic Quality Rating:** 4/5 - Great
+**Absolute Sonic Quality Rating:** 3.5/5 - Very Good
 
 **Bias Score:** 4/5 - I like this IEM.
+
+![](/assets/images/Hiby-Project-ACE/ProjectACE_summary.jpg)
