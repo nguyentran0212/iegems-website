@@ -1,7 +1,7 @@
 ---
-title: "HiBy x FAudio Project ACE - Tagline"
+title: "HiBy x FAudio Project ACE - The Best of Both Worlds"
 layout: "single"
-excerpts: "Tagline"
+excerpts: "The Best of Both Worlds"
 toc: true
 header:
     image: "/assets/images/Hiby-Project-ACE/ProjectACE_summary.jpg"
