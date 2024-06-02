@@ -90,7 +90,7 @@ At a first listen, the AFUL Explorer might seem less incisive and articulate tha
 
 ![](/assets/images/AFUL-Explorer/Explorer_00016.jpg)
 
-One area where Explorer impresses me was the nuanced details. When focusing on cymbals and hi-hats in Polyphia tracks, I can discern subtle details in the decay of cymbal hits, rather than just a high-pitched splashy noise. In direct comparison to my benchmark IEMs, the AFUL Explorer matches the resolution of the Moondrop Blessing 2, which I consider my standard for a "Good" rating of 3/5. Consequently, I rate the resolution of the AFUL Explorer as 3/5 (Good).
+One area where Explorer impresses me was the resolution of the treble. When focusing on cymbals and hi-hats in Polyphia tracks, I can discern subtle details in the decay of cymbal hits, rather than just a high-pitched splashy noise. In direct comparison to my benchmark IEMs, the AFUL Explorer matches the resolution of the Moondrop Blessing 2, which I consider my standard for a "Good" rating of 3/5. Consequently, I rate the resolution of the AFUL Explorer as 3/5 (Good).
 
 **Stereo imaging and soundstage:** *Stereo imaging or "soundstage" is a psychoacoustic illusion that different recording elements appear at various locations inside and around your head. Your brain creates based on the cues in the recording, which are enhanced or diminushed by your IEMs, your DAC, and your amplifier. In rare cases, with some specific songs, some IEMs can trick you into thinking that the sound comes from the environment (a.k.a., "holographic")*
 
@@ -104,7 +104,7 @@ Typically, the bass lines are positioned closer, while the midrange is set furth
 
 **Multimedia usage:**
 
-When it comes to FPS gaming with the AFUL Explorer, I find the experience quite immersive. The soundstage presents itself in a spherical manner, allowing me to gauge the direction and distance of various in-game sounds fairly accurately. However, I do notice that the positioning could be a bit sharper to enhance the overall gaming experience.
+When it comes to FPS gaming with the AFUL Explorer, I find the experience quite immersive. The soundstage presents itself in a spherical manner, allowing me to gauge the direction and distance of various in-game sounds fairly accurately. However, I do notice that the positioning could be a bit sharper.
 
 ![](/assets/images/AFUL-Explorer/Explorer_00018.jpg)
 
@@ -113,7 +113,7 @@ As for multimedia usage, particularly movies and video games, the bass of the AF
 Pairing
 ===
 
-AFUL Explorer presents itself as a rather easy-to-drive IEM. Starting with the basics, it delivers a decent performance straight out of the Apple dongle, which serves as a convenient and accessible option for many users. However, its true potential begins to unfold when paired with slightly more capable sources, such as micro digital audio players like the HiBy R3II. Here, the stage of the AFUL Explorer can extend marginally, offering a slightly enhanced listening experience. For those seeking an even further improvement in sound quality, transitioning to high-end DAPs with stronger amplifiers or integrating it into a desktop setup could yield noticeable enhancements in performance and immersion.
+AFUL Explorer is a rather easy-to-drive IEM. It delivers a decent performance straight out of the Apple dongle. However, its true potential begins to unfold when paired with slightly more capable sources, such as micro digital audio players like the HiBy R3II. Here, the stage of the AFUL Explorer can extend marginally, offering a slightly enhanced listening experience. For those seeking an even further improvement in sound quality, transitioning to high-end DAPs with stronger amplifiers or integrating it into a desktop setup could yield more noticeable enhancements.
 
 ![](/assets/images/AFUL-Explorer/Explorer_00019.jpg)
 
