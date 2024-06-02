@@ -7,7 +7,7 @@ header:
     image: "/assets/images/Symphonium-Crimson/Crimson_summary.jpg"
 ---
 
-If you have ever talked about IEMs with me, you would likely notice two points: (1) I have a soft spot for the IEM manufacturer AFUL, and (2) I constantly refresh the news to wait for the release of the mythical AFUL flagship IEM - Cantor. So, needless to say, I was a bit disappointed when latest release from AFUL was not Cantor, but a 3-driver hybrid IEM named Explorer. Is it a distraction when the Cantor is getting ready for the limelight, or it is another tour de force like the Magic One released last year? Let's read on to find out, my friends. 
+If you have ever talked about IEMs with me, you would likely notice two points: (1) I have a soft spot for the IEM manufacturer AFUL, and (2) I constantly refresh the news to wait for the release of the mythical AFUL flagship IEM - Cantor. So, needless to say, I was a bit disappointed when latest release from AFUL was not Cantor, but a 3-driver hybrid IEM named Explorer. Is it a distraction when the Cantor is getting ready for the limelight or another tour de force like the Magic One last year? Let's read on to find out, my friends. 
 
 Forewords
 ===
@@ -22,42 +22,18 @@ Forewords
 General Information
 ===
 
-- AFUL Explorer is a 3-driver, hybrid IEM. It has two balanced armature (BA) drivers, handling the mid and high frequencies, and one 8mm dynamic driver (DD) that handles the bass. 
-- AFUL Explorer implements a 3-way electronic and acoustic crossover design. The incoming electric signal is split across three drivers by a crossover circuit (AFUL calls this circuit "RLC Network Frequency Division") and each driver conducts sound by an independent sound tube. 
-- The BA drivers are custom design that was first introduced in the Magic One, the previous IEM from AFUL. 
-- The sound tubes are 3D printed, featuring coils and curves to precisely control the air volume inside the tube for both sound dampening and to take advantage of Helmholtz resonance to control the frequency response of the drivers.
-- In general, this IEM has interesting technologies. How does it sound? Let's find out. 
-
+The AFUL Explorer is a 3-driver hybrid IEM featuring a blend of two balanced armature (BA) drivers and one 8mm dynamic driver (DD). The BA drivers are responsible for mid and high frequencies, while the DD handles the bass. The Explorer employs a sophisticated 3-way electronic and acoustic crossover design, referred to by AFUL as the "RLC Network Frequency Division." This system divides the incoming electrical signal among the three drivers, each of which directs sound through its own independent sound tube. These BA drivers are custom-designed, making their debut in AFUL’s previous model, the Magic One. The sound tubes themselves are 3D printed, incorporating intricate coils and curves to precisely manage air volume within the tubes. This design aids in sound dampening and utilizes Helmholtz resonance to fine-tune the frequency response of the drivers. Overall, the AFUL Explorer integrates several intriguing technologies. Do they translate to superior sound quality? We will see.
 
 Non-sound Aspects
 ===
 
-**Packaging and accessories:**
+**Packaging and accessories:** The packaging of the AFUL Explorer is unassuming and compact. Within the box, the earpieces and accessories are securely nestled in custom-cut foam. A small, round carrying case is provided, along with six sets of generic silicone ear tips. The included IEM cable features a 2-wire design and terminates with a 4.4mm jack, though a 3.5mm version is also available. One notable downside of the cable is the aggressive ear hooks, which can become uncomfortable after prolonged use.
 
-- The box of AFUL Explorer is quite small and simple. 
-- In the box, there is foam with custom cut-outs to keep the earpieces and accessories. 
-- There is a small, round carrying case provided in the box
-- There are six sets of generic silicone ear tips
-- There is a nice IEM cable with a 2 wire design. In my unit, the cable terminates with a 4.4mm jack. You can also buy the version with 3.5mm jack. My only complaint with the cable is that the ear hooks on the cable are quite aggressive, pinching the ears hard and make the back of my ears a bit uncomfortable after a while. 
+**Earpieces design:** The earpieces are crafted using 3D printing technology from a lightweight plastic material, polished to a smooth and shiny finish. Their design mimics the shape of Custom IEMs (CIEM), offering a stable fit. These earpieces are notably smaller than typical CIEM-shaped IEMs, enhancing their comfort and fit. The 2-pin connector on the earpieces sits flush, maintaining a sleek profile. A vent hole at the bottom of the IEM helps release pressure from the dynamic driver, while the narrow, moderately long nozzles are consistent with previous AFUL designs.
 
-**Ear pieces design:** 
+**Fit, comfort, and isolation:** Thanks to their small, lightweight construction and narrower nozzles, the AFUL Explorer earpieces provide a very comfortable fit. Noise isolation is commendable, making these IEMs suitable for use on public transportation or in noisy environments.
 
-- The earpieces are 3D printed from a plastic material, polished to a smooth and shiny finish. 
-- The earpieces have the shape of Custom IEMs (CIEM), making them locking into the ears more stable. They are also smaller than other IEM earpieces that feature a CIEM shape. 
-- Because the earpieces are constructed from plastic, they are very lightweight. 
-- The earpieces have 2-pin connector to connect with the cable. This connector sits flush against the earpieces. 
-- At the bottom of the IEM there is a vent hole for releasing the pressure from the dynamic driver.
-- Similarly to all previous IEMs from AFUL, the Explorer also has narrow nozzles with moderate length. 
-
-**Fit, comfort and isolation:**
-
-- AFUL Explorer is very comfortable thanks to the small and light earpieces and narrower nozzles. 
-- Noise isolation is actually good. I can use this IEM on bus or when walking next to a busy main street. 
-
-**Ear tips recommendation:** 
-
-- I recommend ear tips that allow for deeper fit, so that the earpieces rest firmly against the concha of the ears. 
-- I personally use Tri Clarion ear tips. 
+**Ear tips recommendation:** For optimal fit, ear tips that allow for a deeper insertion are recommended, ensuring the earpieces rest securely against the concha of the ears. Personally, I find Tri Clarion ear tips to be an excellent choice.
 
 Sonic Performance
 ===
@@ -67,91 +43,66 @@ Sonic Performance
 - Cable: Stock cable with 4.4mm termination
 - Ear tips: Tri Clarion medium
 
-**Timbre, tonality, and tonal balance:** *Figure shows the frequency response of XXXX against the Harman in-ear target. Measurements were done with an IEC-711-compliant coupler and might only be compared with other measurements from this same coupler. Above 8kHz, the measurement might not be correct. Visit my [graph database](https://nk-tran.com/iegems-graphtool/) for more comparisons.*
+**Timbre, tonality, and tonal balance:** *Figure shows the frequency response of AFUL Explorer against the Harman in-ear target. Measurements were done with an IEC-711-compliant coupler and might only be compared with other measurements from this same coupler. Above 8kHz, the measurement might not be correct. Visit my [graph database](https://nk-tran.com/iegems-graphtool/) for more comparisons.*
 
 ![](/assets/images/Symphonium-Crimson/Crimson_Graph_Harman.png)
 
 *It is helpful to think of an IEM as a filter that highlights or subdues different parts of the incoming audio signal. This effect can be measured objectively by the squiggly lines above, called Frequency Response (FR) graphs, which measure how loud an IEM is at different frequencies from 20Hz (bass) to 20kHz (upper treble). Subjectivity is how your ears and brain interpret the effect of that filter on your music and decide whether it is "enjoyable." There are some "rules of thumb" when it comes to tonality, but most interesting IEMs usually bend the rules masterfully.*
 
-- The sound signature of AFUL Explorer belongs to the rare breed known as "L-shaped." It has a strong bass response, accompanied by a neutral-warm midrange response and an even treble response that extends far into the upper treble region. 
-- Bass instruments such as double basses, lower strings of cellos, and trombone are highlighted whenever they appear in the mix. Fortunately, they don't overpower or cast a cloud "muffle" sensation over the rest of the mix.
-- Example: when I listen to Bach's violin sonatas and partitas performed by Kavakos, I found that violin has natural timbre, perhaps with a touch more richness than usual. There was no unnaturalness. 
-- Example: when I listen to the four seasons violin concerti by Vivaldi, performed by Janine Jansen and her ensemble, I did not detect any unnaturalness in any string instruments. At the same time, the low pitch rumble of cellos and basses is prominent, lending a sense of power and anchoring the performance. 
-- Example: when I listen to the track "ABC (feat. Sophia Black)" in the album "Remember That You Will Die" by Polyphia, I can hear significant bass slam, yet the voice remains commendably audible and separated from the chaotic background instruments of this track. 
-- The loudness of the treble varies between tracks. The treble instruments such as cymbals and hats are roughly inline with or behind the midrange instruments. The treble is smooth and detailed, not piercing or harsh. 
-- My only complaint about the tonality of AFUL Explorer is that the upper midrange is perhaps a few dB too tamed for me. For example, when I listen to female vocal music such as "ABC (feat. Sophia Black)" and "Aria of the Soul" from Persona 4 OST album, I found that the voices lack a certain "shinness" and edge, as if the higher notes are a bit dull. I also have the same observation when listening to horns and trumpets. This phenomenon can be explained by the relatively subdued response of AFUL Explorer in around the 3kHz and 4kHz region. 
-- In general, I still think that AFUL has done a great job with creating the L-shaped sound signature of Explorer. The tonality is pleasant, natural, and works with variety of music, whilst still giving musics a fresh presentation comparing to most IEMs that are tuned toward a similar sound signature. I rate Explorer's tonality 4/5 (Great). 
+The sound signature of the AFUL Explorer belongs to the rare breed known as "L-shaped." This signature is characterized by a pronounced bass response, a neutral-warm midrange, and an evenly extended treble that reaches far into the upper treble region. Bass instruments, such as double basses, lower strings of cellos, and trombones, are distinctly highlighted whenever they appear in the mix. Fortunately, this emphasis does not overpower the rest of the mix or create a "muffled" sensation. 
+
+For instance, when listening to Bach's violin sonatas and partitas performed by Kavakos, the violin's natural timbre is preserved with perhaps a touch more richness than usual, without any sense of unnaturalness. Similarly, in Vivaldi's Four Seasons performed by Janine Jansen, the string instruments sound natural while the cellos and basses provide a prominent low-pitch rumble that anchors the performance with a sense of power. On the track "ABC (feat. Sophia Black)" from Polyphia's album "Remember That You Will Die," the bass slam is significant, yet the vocals remain clear and separated from the chaotic background instruments. 
+
+The treble loudness varies between tracks, with cymbals and hats usually in line with or behind the midrange instruments, resulting in a smooth and detailed treble that avoids being piercing or harsh. However, my only complaint about the tonality of the AFUL Explorer is that the upper midrange feels a few decibels too subdued, leading to a lack of "shine" and edge in female vocals and brass instruments, particularly around the 3kHz and 4kHz regions. Despite this, AFUL has done an excellent job with the L-shaped sound signature of the Explorer, creating a pleasant and natural tonality that works well with a variety of music genres while offering a fresh presentation compared to other IEMs that converge toward a Harman-like tonality. Overall, I rate the tonality of the Explorer as great (4/5).
 
 **Bass and perceived dynamic:**
 
-- I consider bass on three aspects: the articulation of the transients (i.e., whether attack of bass notes are crisp and snappy), the "weight" of the transients (i.e., whether there is a sense of power or "air being pushed" accompanying bass notes), and the texture of the bass note itself. AFUL Explorer does an excellent job with the weight and the transient, and an acceptable job with the articulation of transients. 
-- Example of good impact: when I listen to "Playing God" by Polyphia, every bass drop is satisfyingly powerful with impeccable sense of physicality and impact, feeling like air being pushed against the ear drum. 
-- Example of good texture: when I listen to orchestra, I can hear and feel the rumble of the double bass. When I listen to bass guitar, I can hear more details in the low pitch bass line rather than simply blobs of low pitch sounds. 
-- In general, I find that bass performance is the highlight of AFUL Explorer. I find myself eagerly anticipating for bass drops in modern pop music, and eagerly waiting for the bass line of cellos and double basses in classical recordings and soundtracks. My only complaint is that I wish that the bass transients are more articulated, and the bass slam even harder. These aspects could likely be addressed if AFUL adds some energy around the 5kHz region. Still, I rate Explorer's bass and dynamic 4/5 (Great).
+The AFUL Explorer's bass performance can be evaluated through three distinct aspects: the articulation of transients, the weight of the transients, and the texture of the bass note itself. In terms of weight and transient response, the Explorer excels, providing a powerful and physical impact that is particularly evident in tracks like "Playing God" by Polyphia, where each bass drop is accompanied by a satisfying sense of air being pushed against the eardrum. Additionally, the texture of the bass is noteworthy, allowing me to discern the detailed rumble of double basses in orchestral pieces and the intricate low-pitch lines of bass guitars. 
 
-
+While the Explorer’s articulation of transients is acceptable, I personally still prefer even sharper attack and more pronounced bass slams. This could potentially be improved with added energy around the 5kHz region. Overall, the bass performance of the AFUL Explorer stands out, making it a key highlight of this IEM, earning a commendable rating of 4/5 (great).
 
 **Resolution:** *To me, "resolution" can be broken down into three components: (1) Sharpness, incisiveness, or "definition" of note attacks (see the figure above). (2) The separation of instruments and vocals, especially when they overlap on the soundstage. (3) The texture and details in the decay side of the notes. The first two give music clarity and make it easy to track individual elements of a mix. The last provides music details and nuances.*
 
 ![](/assets/images/resolution.jpg)
 
-- Due to the tonal balance, at a glance, AFUL explorer seems less incisive and articulated than how it actually is. However, when I pay attention, I found that the note attacks are still well defined, not overly smoothened or rounded off. It's just that the attack edge of the notes is not as highlighted. 
-- The separation is commendable, though not perfect. Example: when I listening to more chaotic tracks such as the ones from Polyphia, it becomes harder to separate and follow individual elements in the mix. 
-- I have the same comment regarding details and textures of the musical notes reproduced by Explorer. 
-- I'm impressed by the nuanced and details that Explorer can reproduce in the treble region. Example: when I focus on cymbals and hi-hats in Polyphia tracks, I found that I can hear subtle details at the decay of cymbal hits rather than a simple blob of high pitch splashy noise. 
-- In direct comparison against my benchmark IEMs, I found that AFUL Explorer has the same level of resolution as the venerable Moondrop Blessing 2, my benchmark for the 3/5 level (Good). Therefore, I rate the resolution of AFUL Explorer as 3/5 (Good).
+At a first listen, the AFUL Explorer might seem less incisive and articulate than it truly is due to its tonal balance. However, upon closer inspection, it becomes clear that note attacks remain well-defined, without being overly smoothed or rounded off. The attack edges of the notes are present, albeit less emphasized. The separation is commendable, although not without flaws. For instance, in more chaotic tracks such as those by Polyphia, it becomes challenging to distinguish and follow individual elements within the mix. This observation of "commendable, although not without flaws" extends to the details and textures of the musical notes in the midrange produced by the Explorer. 
+
+One area where Explorer impresses me was the nuanced details. When focusing on cymbals and hi-hats in Polyphia tracks, I can discern subtle details in the decay of cymbal hits, rather than just a high-pitched splashy noise. In direct comparison to my benchmark IEMs, the AFUL Explorer matches the resolution of the Moondrop Blessing 2, which I consider my standard for a "Good" rating of 3/5. Consequently, I rate the resolution of the AFUL Explorer as 3/5 (Good).
 
 **Stereo imaging and soundstage:** *Stereo imaging or "soundstage" is a psychoacoustic illusion that different recording elements appear at various locations inside and around your head. Your brain creates based on the cues in the recording, which are enhanced or diminushed by your IEMs, your DAC, and your amplifier. In rare cases, with some specific songs, some IEMs can trick you into thinking that the sound comes from the environment (a.k.a., "holographic")*
 
 ![](/assets/images/soundstage.png)
 
-- The size of the soundstage of AFUL Explorer is rather compressed, meaning the "sphere of sound" where the instruments of a mix are placed is mostly limited within my skull. 
-- However, the way that stage is presented is interesting because it sounds 3 dimensional. It means that besides the left-to-right placement of instruments, I can also hear a clear impression of near-to-far placement. In some track, I also hear instruments and vocals being placed higher in the stage, floating to the top of my head. 
-- Usually, the bass line is located nearer whilst the midrange is pushed further back. 
-- Depending on how loud I set the volume, I can move the whole soundstage nearer or further away. At a lower volume, the bass would sound upfront and center, and the rest of the stage sound further away in front of me, an illusion that reminds me of listening to a pair of near field speakers. At a higher volume, the midrange would be upfront and center, whilst the bass is placed further to the back of my head. 
-- In general, I consider the soundstage and imaging performance of AFUL Explorer to be good (3/5). The sense of depth and layering that this IEM can conjure helps compensating for the compressed impression of the stage. 
+The soundstage of the AFUL Explorer is somewhat confined, with the "sphere of sound" primarily located within my head. Yet, this presentation offers a sense of three-dimensionality. Beyond the typical left-to-right placement of instruments, I can discern a clear sense of near-to-far positioning. Occasionally, instruments and vocals seem to float higher in the stage, almost as if they are above me. 
+
+Typically, the bass lines are positioned closer, while the midrange is set further back. Adjusting the volume also affects the perceived distance of the soundstage; at lower volumes, the bass feels more immediate and central whilst the midrange sits further back reminding me of listening to my near-field speakers, while at higher volumes, the midrange becomes more prominent, with the bass pushed forward all the way to the back of my head. Overall, I would rate the soundstage and imaging performance of the AFUL Explorer as good (3/5), with the depth and layering it achieves compensating for the otherwise compressed stage.
 
 **Multimedia usage:**
 
-- FPS gaming with AFUL Explorer is quite good. I hear a spherical soundstage and can discern the distance of the sound. The positioning could be sharper though.
-- Thanks to the bass, movies and video games sound atmospheric and interesting. 
+When it comes to FPS gaming with the AFUL Explorer, I find the experience quite immersive. The soundstage presents itself in a spherical manner, allowing me to gauge the direction and distance of various in-game sounds fairly accurately. However, I do notice that the positioning could be a bit sharper to enhance the overall gaming experience.
+
+As for multimedia usage, particularly movies and video games, the bass of the AFUL Explorer adds a layer of depth and atmosphere to the audio. It enriches the sound, making cinematic experiences more engaging and interactive.
 
 Pairing
 ===
 
-- AFUL Explorer is relatively easy to drive.
-- It sounds decent directly from Apple dongle and improves from there. 
-- It sounds good with decent micro digital audio players (DAP) like HiBy R3II.
-- The stage can extends a bit, not much, when switching to high-end DAP with stronger amplifier or a desktop setup.
+AFUL Explorer presents itself as a rather easy-to-drive IEM. Starting with the basics, it delivers a decent performance straight out of the Apple dongle, which serves as a convenient and accessible option for many users. However, its true potential begins to unfold when paired with slightly more capable sources, such as micro digital audio players like the HiBy R3II. Here, the stage of the AFUL Explorer can extend marginally, offering a slightly enhanced listening experience. For those seeking an even further improvement in sound quality, transitioning to high-end DAPs with stronger amplifiers or integrating it into a desktop setup could yield noticeable enhancements in performance and immersion.
 
 Comparisons
 ===
 
-I compare the AFUL Explorer against the entire IEM line up of AFUL up to now. 
+In comparing the AFUL Explorer against AFUL's entire lineup, I found distinct differences in tonality, bass quality, soundstage, and resolution.
 
-**Vs AFUL Performer 5:** 
-- Performer 5 was the first release that puts AFUL on the map of IEM world outside Chinese market. It has a 5-driver, hybrid configuratio with 1 dynamic driver and 4 balanced armature drivers
-- The tonality of Explorer and Performer 5 are quite different. Explorer is a smooth, L-shaped tuned IEM. The Performer 5 on the other hand is tuned to a more V-shaped sound signature, meaning I sometimes hear the upper midrange "glare" with the Performer 5, but rarely if ever with Explorer.
-- The bass of Explorer is better in quality and slightly more in quantity. 
-- The stage of Explorer still sounds compressed like Performer 5, but Explorer conveys a better illusion of depth and layering, making the stage more interesting. 
-- The resolution of Performer 5 has a slight edge over Explorer, particularly in the articulation and incisiveness of music notes. 
+When pitted against the AFUL Performer 5, the Explorer offers a smoother, L-shaped tuning compared to the Performer 5's V-shaped signature. Explorer boasts better bass quality and quantity while maintaining a compressed yet more interesting soundstage with improved depth and layering. However, Performer 5 edges out slightly in resolution and note articulation.
 
-**Vs AFUL Performer 8:** 
-- The tonality of Performer 8 and Explorer are quite different. The midrange of Performer 8 has a honky, nasally tonality that is relatively okay when listening on its own, but stands out like a sore thumb in rapid AB tests against the Explorer. 
-- The treble of Performer 8 is louder, more articulated, but also somewhat more edgy than Explorer
-- The bass of Performer 8 has a good sense of tactility and articulation. However, Explorer's bass is all around better. 
-- The resolution of Performer8 is a solid step ahead of the Explorer. I was shocked by how blunted and blurry the Explorer sound in rapid AB tests against the Performer8. I still think that the Performer 8 is one of the most technical IEM in the "mid-fi" bracket and can compete favourably with some good "kilobuck" IEMs on this front. Explorer is not going to change this.
+Against the AFUL Performer 8, the Explorer stands out with its more balanced tonality, contrasting the Performer 8's honky midrange and edgier treble. While Performer 8 excels in resolution, Explorer's bass quality surpasses it. Despite Performer 8's technical prowess, Explorer presents a viable alternative with its overall tonal balance.
 
-**Vs AFUL Magic One:** 
-- In rapid AB tests, the Explorer sounds thicker, denser, and also darker than the Magic One. These effects are likely because Explorer has significantly more bass and less upper midrange energy than Magic One. 
-- The soundstage of Magic One feels more spread out and open. The soundstage of Explorer has more depth and layering, but more compressed. 
-- The bass of Explorer is many steps ahead of Magic One. 
-- I still think Magic One has the best overall tonality and midrange in the entire line up of AFUL. However, Explorer presents a compelling alternative for those who find Magic One too bass-light. Explorer still maintains some "magic" in the midrange of Magic One. 
+Finally, compared to the AFUL Magic One, the Explorer delivers a thicker, denser sound with significantly more bass. While Magic One offers a more open soundstage and superior midrange, Explorer's bass prowess remains unmatched.
 
 Conclusions
 ===
 
-Summary
+The AFUL Explorer offers a rare "L-shaped" sound signature characterized by pronounced bass, neutral-warm midrange, and extended treble. Its bass performance excels in weight, transient response, and texture, providing a powerful impact while maintaining detailed rumble. Although the upper midrange feels slightly subdued, AFUL has crafted a pleasant and natural tonality that complements a wide range of music styles. The soundstage, though somewhat confined, exhibits depth and layering, compensating for its compressed nature. Overall, Explorer is another compelling entry and the first basshead in AFUL's line up. 
 
 **What I like about this IEM:**
 
