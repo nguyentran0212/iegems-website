@@ -24,32 +24,26 @@ _____
 General Information
 ===
 
-Splendor II features a single dynamic driver (DD) topology.
+Splendor II includes a dynamic driver (DD) with a 10mm diameter. The diaphragm features a double-sided composite alloy coating, designed to mimic the characteristics of beryllium metal diaphragms.
 
-The DD has 10mm diameter. According to Intuaura, diaphragm of the driver has a double-sided composite alloy coating giving it similar characteristics to that of a beryllium metal diaphragm. 
+The DD is housed in a carefully crafted 3D-printed enclosure. This enclosure includes a large sound tube that efficiently directs sound from the DD's opening to the earphone nozzles.
 
-The DD is housed in 3D printed booth. 
-This booth contains a large tube to direct the sound from the opening of the DD to the nozzles. 
-
-The 3D printed booth also contains air release tubes and vents. I find the tubes and venting system of Splendor II intriguing. On the shell, there is a vent hole at the front of the DD to release the excess pressure, which is as expected. However, on the sound tube that direct sound to the nozzle, there is yet another pressure release tube that connect to a chamber behind the DD, hidden under the faceplate. This chamber releases pressure into large vents hidden underneath the word "VIEW" engraved on the top end of the shells. 
-
-Needless to say, Splendor II is a very well vented IEM. 
+Additionally, the 3D-printed enclosure incorporates a system of air release tubes and vents, which I find particularly interesting. On the shell, there's a vent hole located at the front of the DD to manage excess pressure. Notably, there's also a pressure release tube on the sound tube itself, connecting to a concealed chamber behind the DD, discreetly positioned beneath the faceplate. This chamber effectively releases pressure through vents cleverly concealed beneath the engraved word "VIEW" on the upper shell.
 
 _____
 
 Non-sound Aspects
 ===
 
-**Packaging and accessories** The packaging is somewhat unrefined: the outer cardboard sleeve is designed or printed at  low resolution, meaning text and artworks are blurry. The foam cutouts inside the box are not customised for the content. 
+**Packaging and accessories:** The packaging presents some room for improvement: the outer cardboard sleeve lacks clarity in print quality, resulting in blurry text and artwork. The foam cutouts inside the box are generic and do not fit the contents snugly.
 
-On the plus side, the provided content is generous and high quality: roomy and well protected leather case, two types of ear tips, a decent cable, and a USB DAC dongle with built in EQ. 
+On a positive note, the included accessories are extensive and of good quality: a spacious leather case that provides ample protection, two types of ear tips, a reliable cable, and a USB DAC dongle with built-in EQ.
 
-**Ear pieces design** Medium in shape and size. Nozzles are rather thick and short. However, the whole nozzle area protrudes further from the shells, making the earpieces quite easy to wear. 
+**Ear pieces design:** The earpieces are of medium size and shape. The nozzles are thicker and shorter, protruding further from the shells, which enhances ease of wear.
 
-**Fit, comfort and isolation** I have great fit with these IEMs. No discomfort in long listening sessions. The noise isolation is not strong due to the large amount of vent. On the plus side, there is no pressure build up or drive flex problem thanks to the ventilation. 
+**Fit, comfort, and isolation:** These IEMs offer a comfortable fit even during extended listening sessions. However, noise isolation is only average due to the significant amount of venting. On the bright side, this ventilation prevents pressure build-up and driver flex issues.
 
-**Ear tips recommendation:** I have good experience with the stock wide bore ear tips. 
-
+**Ear tips recommendation:** I've found the stock wide bore ear tips to be effective in my experience.
 
 _____
 
@@ -71,76 +65,61 @@ The subjective impression is captured using the lexicon in the Sound Wheel below
 
 *Figure shows the frequency response of Splendor II against the Harman in-ear target. Measurements were done with an IEC-711-compliant coupler and might only be compared with other measurements from this same coupler. Above 8kHz, the measurement likely does not match the response at the ear drum. Visit my [graph database](https://nk-tran.com/iegems-graphtool/) for more comparisons.*
 
-The timbral balance of Splendor II can be defined as a full, homogeneous, V-shaped signature.
-V-shaped means that the bass, lower midrange, and upper midrange is lifted comparing to the true midrange region. It means that the midrange instruments will sit further back in the mix whilst bass sits more forward. Midrange intruments and voices will sound thicker, denser, and more blended into the bass. Some high notes, such as on the E string of violin, can sound louder than the rest of the instrument.
-Full means that the frequency response can extend towards both ends of the spectrum rather than limiting only to the middle. 
-Homogeneous means that the whole frequency spectrum is presented in a coherent whole rather than segmented into different parts with gaps in between. 
+The tonal balance of Splendor II can be described as a **V-shaped signature**, characterized by enhanced bass, lower midrange, and upper midrange compared to the true midrange region. This configuration positions midrange instruments further back in the mix, while bringing the bass forward. As a result, midrange instruments and vocals sound thicker and more integrated with the bass. High notes, such as those on the E string of a violin, may appear more pronounced than other frequencies.
 
-The V-shaped tuning means that the midrange of Splendor II is not ideal if timbral correctness is what you are after. 
-Example: album: "Bach: Sei Solo" by Leonidas Kavakos: the violin does not sound even, the G string and E string are unnaturally accentuated. 
-Example: "Goldberg Variations" performed by Lang Lang: the piano sounds uneven. The whole presentation has a slight sense of boominess and boxiness that I don't really enjoy. 
-On the other hand, Splendor II fares pretty well with pop musics and large orchestral works as the V-shaped tuning make these music feels large and exciting. 
+Splendor II exhibits a **full** frequency response, extending across the spectrum rather than focusing solely on the middle ranges. This presentation ensures a **cohesive** sound without noticeable gaps between different parts of the frequency spectrum.
 
-When paired the supplied DAC/amp, the tonality of Splendor II changes dramatically, taking a "neutral" sonic profile. 
-The frequency response feel flatter.
-Bass is less emphasised.
-The lower midrange is less emphasised. 
-The mid-midrange is more forwared.
-The upper midrange stands out more. 
-This tonal balance is arguably more "correct", but I find it a tad boring comparing to the other sound signature. 
+However, the V-shaped tuning of Splendor II may **not appeal to those seeking timbral accuracy**. For instance, in recordings like "Bach: Sei Solo" performed by Leonidas Kavakos, the violin may sound uneven, with unnatural accentuations on the G and E strings. Similarly, in "Goldberg Variations" performed by Lang Lang, the piano exhibits unevenness, accompanied by a slight sense of boominess and boxiness. On the positive side, Splendor II **excels with pop music and large orchestral compositions**, where its V-shaped tuning enhances the sense of expansiveness and excitement.
 
-**Bass and perceived dynamic:** Dynamic is the strength of Splendor II. Note attacks are snappy and "tight", not sloppy. Bass transient is tight and feels precise. Every bass note has a strong and satisfying sense of physical punch. This IEM feels powerful at both low and high volume. 
+When paired with the supplied DAC/amp, Splendor II undergoes a significant tonal shift towards a more neutral sonic profile. This adjustment results in a flatter frequency response with less emphasis on bass and lower midrange, while the mid-midrange becomes more prominent and the upper midrange gains greater clarity. This tonal balance is arguably more accurate, although I find it somewhat boring comparing to the stock V-shaped signature.
 
-The amount of bass and preceived dynamic of Splendor II depends on whether you use the supplied DAC/amp. Without the supplied DAC/amp, Splendor II is bassy and punchy IEM. With the supplied DAC/amp, the amount of bass is lower, whilst the characteristic of the bass response remains the same. 
+
+**Bass and perceived dynamic:** Dynamic performance is where Splendor II truly shines. Note attacks are precise and articulate, conveying a tight and controlled sound. The bass transients are notably accurate, delivering each note with a satisfying physical impact. This IEM maintains its powerful presence whether at low or high volumes.
+
+The bass response and perceived dynamic range of Splendor II are influenced by the use of the supplied DAC/amp. When used independently, Splendor II exhibits a bassy and punchy character. However, when paired with the supplied DAC/amp, the bass quantity decreases while retaining its characteristic tightness and precision.
+
 
 **Resolution:** *To me, "resolution" can be broken down into three components: (1) Sharpness, incisiveness, or "definition" of note attacks (see the figure above). (2) The separation of instruments and vocals, especially when they overlap on the soundstage. (3) The texture and details in the decay side of the notes. The first two give music clarity and make it easy to track individual elements of a mix. The last provides music details and nuances.*
 
 ![](/assets/images/resolution.jpg)
 
-The sense of clarity of Splendor II is somewhat limited due to the extra amount of bass and lower midrange. 
-The presence of the midrange is also not excellent, due to the recessed midrange frequencies. 
-However, Splendor II can still maintain a relatively clean and crisp presentation thanks to its snappy note attacks. 
-The sense of detail is also good. I can listen to detail-rich classical recordings and do not feel that I have missed out too much details. 
-If you use the supplied DAC/amp, you will find that the overall presetation of Splendor clearer with better clarity. This effect is due to the change in the frequency response. 
-In direct comparison against my benchmarks, I find that Splendor II is as resolving as the Blessing 2. Thus, I rate the resolution of Splendor II in the 3/5 bracket (Good)
+The clarity of Splendor II is somewhat constrained by its emphasis on bass and lower midrange frequencies, which can overshadow the midrange presence. Despite this, Splendor II manages to deliver a relatively clean and crisp sound, aided by its quick note attacks. Detail retrieval is commendable, allowing for an enjoyable experience with detail-rich classical recordings without significant loss.
 
+When using the supplied DAC/amp, Splendor II exhibits improved overall clarity due to adjustments in its frequency response. In direct comparisons with my reference models, Splendor II's resolution stands on par with the Moondrop Blessing 2. Therefore, I assess the resolution of Splendor II at a solid 3/5 level (Good).
 
 
 **Stereo imaging and soundstage:** *Stereo imaging or "soundstage" is a psychoacoustic illusion that different recording elements appear at various locations inside and around your head. Your brain creates based on the cues in the recording, which are enhanced or diminushed by your IEMs, your DAC, and your amplifier. In rare cases, with some specific songs, some IEMs can trick you into thinking that the sound comes from the environment (a.k.a., "holographic")*
 
 ![](/assets/images/soundstage.png)
 
-Regarding the soundstage extension: Splendor II creates an enveloping soundstage that has a strong perception of depth. Example: "Gladiator Suite" in the album Live by Hans Zimmer, I hear the bass strong and near at the at foregroud, thumping at my throat level, the main flute instrument sitting further back, and the string section floating further back and to the sides, triggering the illusion that they come from outside the head stage. 
+Regarding soundstage extension, Splendor II offers an expansive audio environment with notable depth perception. For instance, listening to "Gladiator Suite" from Hans Zimmer's Live album, I experience strong bass presence upfront, flutes positioned farther back, and strings floating back to the sides, creating an illusion of sound originating outside the headstage.
 
-Regarding the sound localisation: Splendor II has strong localisability, meaning it is easy to identify the position and distance of instruments. If I have a complaint here, it would be that the sound localisation of Splendor II still lacks a laser sharp precision. Splendor II belongs to the small group of IEMs that can create the illusion that some parts of the soundstage apper from outside the head, given the right recording. 
+In terms of sound localization, Splendor II demonstrates effective instrument positioning and distance perception. However, while it excels in creating a spacious soundstage with elements seeming to extend beyond the head, precise instrument placement lacks razor-sharp accuracy. 
 
-When pitched against the benchmarks in my collection, I found that Splendor II projects a significantly more 3D and open soundstage than my Blessing 2 (my benchmark for the 3/5 level). Splendor II matches the 3D soundstage illusion of my Andromeda 2020 (benchmark for the 4/5 level). However, in direct comparison against my benchmark for 5/5, the 64 Audio U12T, I found that the Splendor II lacks the precise imaging to achieve a truely outstanding soundstage and imaging. 
+Comparing against my reference models, Splendor II presents a notably three-dimensional and open soundstage, akin to my Andromeda 2020 (rated 4/5 in my benchmarks). However, when directly compared to the 64 Audio U12T (benchmark for 5/5), Splendor II falls short in achieving the ultimate precision and imaging required for a truly outstanding soundstage.
 
 **Multimedia usage:**
 
-The V-shaped tuning and the expansive soundstage makes Splendor II a splendid choice for video games and movies. 
-In FPS games, I can hear around spherical soundstage around my head, making it easy to identify and track both direction and distance of the sound.
-In action movies, the bass response and the open soundstage create a satisfying experience. 
+The V-shaped tuning and expansive soundstage of Splendor II make it an excellent option for video games and movies. In FPS games, I experience a spherical soundstage around my head, allowing precise identification and tracking of sound direction and distance. When watching action movies, the strong bass response and spacious soundstage combine to deliver a thoroughly satisfying cinematic experience.
+
 
 _____
 
 Driveability
 ===
 
-Spendor II is a very easy to drive IEM. It sounds excellent already with the humble Apple dongle DAC/amp: the soundstage is properly extended, dynamic is good, bass feels good. 
-
-When switching to a good dongle DAC/amp like the W4, I hear refinements across the range: instruments are more separated, the soundstage spreads out more, and the bass transients are a bit more defined and impactful. However, it was not a day and night difference. 
-
+Splendor II is straightforward to drive, performing admirably with the basic Apple dongle DAC/amp: the soundstage extends well, dynamics are solid, and the bass is satisfying. Switching to a higher-quality dongle DAC/amp like the W4, I notice refinements across the spectrum: improved instrument separation, a more expansive soundstage, and slightly sharper bass transients. However, the improvements are subtle rather than dramatic.
 
 _____
 
 Conclusions
 ===
 
-Despite all of my nitpicking about the tonality of Splendor II, I'm surprised by how much I enjoy using this IEM. Yes, it wouldn't win any award regarding tonality without the supplied DAC/amp with built in EQ. But at the same time, the stock tuning is just pure FUN, thanks to the thick bass, strong dynamic, and large soundstage. Another advantage is how easy it is to drive, making it a practical gadget with wide utility, beyond audiophile use cases. 
+Despite my reservations about the tonal balance of Splendor II, I find myself pleasantly surprised by how enjoyable this IEM is to use. While it may not excel in tonal accuracy without the supplied DAC/amp with built-in EQ, its stock tuning offers a fun experience with its robust bass, dynamic sound, and expansive soundstage. 
 
-Should you buy this IEM? It depends on your music library. If you listen to a lot classical recordings and thus pay significant attention to the timbral correctness, this IEM might not be a good choice unless you are willing to use the supplied DAC/amp all the time. But if you look for something fun, especially for multimedia consumption, Splendor II receives a recommendation from this reviewer. 
+One of its strengths lies in its ease of driving, making it a versatile option beyond just audiophile applications.
 
+Should you consider purchasing this IEM? It largely depends on your music preferences. If you primarily listen to classical music and prioritize tonal accuracy, this IEM may not meet your expectations without relying on the provided DAC/amp. However, if you're seeking a fun, engaging sound signature, particularly for multimedia enjoyment, Splendor II receives a recommendation from this reviewer.
 
 **What I like about this IEM:**
 
