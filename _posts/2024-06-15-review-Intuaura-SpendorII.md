@@ -81,7 +81,7 @@ The subjective impression is captured using the lexicon in the Sound Wheel below
 
 **Timbre:**  *It is helpful to think of an IEM as a filter that highlights or subdues different parts of the incoming audio signal. This effect can be measured objectively by the squiggly lines below, called Frequency Response (FR) graphs, which measure how loud an IEM is at different frequencies from 20Hz (bass) to 20kHz (upper treble). Subjectivity is how your ears and brain interpret the effect of that filter on your music and decide whether it is "enjoyable." There are some "rules of thumb" when it comes to tonality, but most interesting IEMs usually bend the rules masterfully.*
 
-![](/assets/images/Symphonium-Crimson/Crimson_Graph_Harman.png)
+![](/assets/images/SplendorII/SplendorII_graph.png)
 
 *Figure shows the frequency response of Splendor II against the Harman in-ear target. Measurements were done with an IEC-711-compliant coupler and might only be compared with other measurements from this same coupler. Above 8kHz, the measurement likely does not match the response at the ear drum. Visit my [graph database](https://nk-tran.com/iegems-graphtool/) for more comparisons.*
 
@@ -92,6 +92,8 @@ Splendor II exhibits a **full** frequency response, extending across the spectru
 ![](/assets/images/SplendorII/SplendorII_%20(18).jpeg)
 
 However, the V-shaped tuning of Splendor II may **not appeal to those seeking timbral accuracy**. For instance, in recordings like "Bach: Sei Solo" performed by Leonidas Kavakos, the violin may sound uneven, with unnatural accentuations on the G and E strings. Similarly, in "Goldberg Variations" performed by Lang Lang, the piano exhibits unevenness, accompanied by a slight sense of boominess and boxiness. On the positive side, Splendor II **excels with pop music and large orchestral compositions**, where its V-shaped tuning enhances the sense of expansiveness and excitement.
+
+![](/assets/images/SplendorII/SplendorII_dsp_graph.png)
 
 When paired with the supplied DAC/amp, Splendor II undergoes a significant tonal shift towards a more neutral sonic profile. This adjustment results in a flatter frequency response with less emphasis on bass and lower midrange, while the mid-midrange becomes more prominent and the upper midrange gains greater clarity. This tonal balance is arguably more accurate, although I find it somewhat boring comparing to the stock V-shaped signature.
 
