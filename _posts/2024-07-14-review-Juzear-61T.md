@@ -4,7 +4,7 @@ layout: "single"
 excerpts: "The Unicorn"
 toc: true
 header:
-    image: "/assets/images/Symphonium-Crimson/Crimson_summary.jpg"
+    image: "/assets/images/Juzear-61T/61T_summary.jpg"
 ---
 
 It's easy to be stuck in a rut and feel cynical that nothing ever changes when you see the same old thing over and over again. The hyper-competitive "mid-fi" market of the IEM world can induce this feeling in its followers and fans alike, due to the rapid and frequent releases of mostly good but somewhat homogeneous IEMs.
@@ -51,9 +51,9 @@ Sonic Performance
 ===
 
 **Testing setup**: 
-- Sources: 
-- Cable: 
-- Ear tips: 
+- Sources: HiBy R3II, iBasso DX300, FiiO K7, L&P W4
+- Cable: Stock cable with 3.5mm output
+- Ear tips: Velvet Wide Bore
 
 The subjective impression is captured using the lexicon in the Sound Wheel below. I'll clarify the terminology as I use them. If you want to see more details of the lexicon and related reference, please have a look at the technical report [ITU-R BS.2399-0](https://www.itu.int/pub/R-REP-BS.2399).
 
@@ -61,7 +61,7 @@ The subjective impression is captured using the lexicon in the Sound Wheel below
 
 **Timbre:**  *It is helpful to think of an IEM as a filter that highlights or subdues different parts of the incoming audio signal. This effect can be measured objectively by the squiggly lines below, called Frequency Response (FR) graphs, which measure how loud an IEM is at different frequencies from 20Hz (bass) to 20kHz (upper treble). Subjectivity is how your ears and brain interpret the effect of that filter on your music and decide whether it is "enjoyable." There are some "rules of thumb" when it comes to tonality, but most interesting IEMs usually bend the rules masterfully.*
 
-![](/assets/images/Symphonium-Crimson/Crimson_Graph_Harman.png)
+![](/assets/images/Juzear-61T/61T_graph.png)
 
 *Figure shows the frequency response of XXXX against the Harman in-ear target. Measurements were done with an IEC-711-compliant coupler and might only be compared with other measurements from this same coupler. Above 8kHz, the measurement likely does not match the response at the ear drum. Visit my [graph database](https://nk-tran.com/iegems-graphtool/) for more comparisons.*
 
@@ -162,3 +162,5 @@ Summary
 **Absolute Sonic Quality Rating:** 5/5 - Outstanding
 
 **Bias Score:** 5/5 - I love this IEM!
+
+![](/assets/images/Juzear-61T/61T_summary.jpg)
