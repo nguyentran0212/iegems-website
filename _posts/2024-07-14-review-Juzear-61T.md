@@ -131,11 +131,11 @@ _____
 Driveability
 ===
 
-Apple dongle? 
-
-R3II?
-
-DX300?
+61T is quite easy to drive, thanks to the higher than average impedance of 46ohm and high sensitivity at 115dB/mW.
+The high impedance puts 61T in the sweet spot of portable DAC/amp such as the venerable Apple USB-C to 3.5mm adapter (aka. Apple dongle).
+This IEM sounds alright directly with Apple dongle. The soundstage can still extends further in all direction. However, majority of the sound concentrates in the middle of the stage and quite forward, thus the soundstage perception of 61T is not at its best with apple dongle.
+Moving up to sources with stronger amplifier, such as R3II and DX300, yields noticeable expansion in the soundstage. The instruments at the center of the stage are more spread out. The instruments in the background are pushed further away.
+Based on the results, I would recommend a good USB DAC to make the most of 61T, though I wouldn't shy away from using it directly from Apple dongle.
 
 
 _____
