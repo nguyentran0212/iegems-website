@@ -36,13 +36,13 @@ _____
 Non-sound Aspects
 ===
 
-**Packaging and accessories**
+**Packaging and accessories**: The 61T comes with an average set of packaging and accessories. While the box design isn't overly decorated, it features a stylish look thanks to the IEM photo on the front. Inside, you'll find custom foam cutouts holding various ear tips including foam and in-house silicone ones (resembling Spin-fit), a nice cable, carrying case, and microfiber cloth.
 
-**Ear pieces design**
+**Ear pieces design**: The 61T's earpieces are thick yet medium-sized and do not apply much pressure on the ears. However, the nozzles are medium-length but rather large.
 
-**Fit, comfort and isolation**
+**Fit, comfort and isolation**: The large nozzles make it challenging to fit the 61T deeply into your ears. When worn shallowly, the IEM offers good comfort even during long sessions. Juzear claims a full 26dB noise reduction, which is surprisingly high. Unfortunately, this effective noise isolation also results in slight driver flex (the crinkling sound when re-seating the IEM). No pressure build-up was experienced.
 
-**Ear tips recommendation:** 
+**Ear tips recommendation:** Due to the nozzle size, you have two choices for wearing the 61T: opt for medium ear tips for a shallow fit or use smaller ones for a deep fit. I prefer the former as it enhances the soundstage and gives the treble more bite. My recommended ear tip for the 61T is Velvet Wide Bore in medium size.
 
 
 _____
@@ -131,12 +131,11 @@ _____
 Driveability
 ===
 
-61T is quite easy to drive, thanks to the higher than average impedance of 46ohm and high sensitivity at 115dB/mW.
-The high impedance puts 61T in the sweet spot of portable DAC/amp such as the venerable Apple USB-C to 3.5mm adapter (aka. Apple dongle).
-This IEM sounds alright directly with Apple dongle. The soundstage can still extends further in all direction. However, majority of the sound concentrates in the middle of the stage and quite forward, thus the soundstage perception of 61T is not at its best with apple dongle.
-Moving up to sources with stronger amplifier, such as R3II and DX300, yields noticeable expansion in the soundstage. The instruments at the center of the stage are more spread out. The instruments in the background are pushed further away.
-Based on the results, I would recommend a good USB DAC to make the most of 61T, though I wouldn't shy away from using it directly from Apple dongle.
+61T is easy to drive due to its higher than average impedance of 46 ohm and high sensitivity of 115 dB/mW. The high impedance positions the 61T in an optimal range for portable DAC/amps such as the famous Apple USB-C to 3.5mm adapter (also known as the "Apple dongle"). With this device, the IEM produces a satisfactory sound quality. The soundstage can still extend further in all directions; however, most of the audio concentrates in the middle and is quite forward, which doesn't allow for optimal soundstage perception when using the Apple dongle.
 
+Upgrading to sources with stronger amplifiers like R3II and DX300 results in noticeable expansion of the soundstage. Instruments at the center are more spread out, while those in the background are pushed further away. Incorporating the Topping G5 as an amplifier alongside the DX300 leads to another improvement, particularly in terms of soundstage expansion.
+
+Based on these findings, it's recommended to use a good USB DAC to fully harness the potential of 61T. That said, I wouldn't shy away from using it directly with the Apple dongle or a laptop output.
 
 _____
 
@@ -153,13 +152,20 @@ Summary
 
 **What I like about this IEM:**
 
-- 
+- Beautiful tonality
+- Great soundstage with good expansion and forward projection / depth
+- Good instrument separation and layering
+- Great micro details
+- Strong and textured bass response
+- Good isolation
 
 **What could be improved:**
 
-- 
+- Bass transients are not snappy enough for some fast bass lines
+- Large nozzles
+- Driver flex
 
-**Absolute Sonic Quality Rating:** 5/5 - Outstanding
+**Absolute Sonic Quality Rating:** 4.5/5 - Great
 
 **Bias Score:** 5/5 - I love this IEM!
 
