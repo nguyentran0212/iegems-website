@@ -4,7 +4,7 @@ layout: "single"
 excerpts: "Great quadbrid hamstrung by Harman tuning"
 toc: true
 header:
-    image: "/assets/images/Symphonium-Crimson/Crimson_summary.jpg"
+    image: "/assets/images/Supermix4/Supermix4_summary.jpg"
 ---
 
 I've always considered "quadbrid" IEMs - those that combine four types of drivers - to be my personal "holy grail" IEMs. No, I'm not suggesting that an IEM automatically sounds phenomenal just because it has a quadbrid or tribrid configuration. What these IEMs possess is immense potential to be mind-blowing if manufacturers can overcome the seemingly insurmountable challenges of making various types of drivers perform at their full potential while working together cohesively to create a unified sound signature.
