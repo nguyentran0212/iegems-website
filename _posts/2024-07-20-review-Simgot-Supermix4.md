@@ -95,7 +95,7 @@ Let's examine the bass and perceived dynamics of Supermix4 with some test tracks
 
 The next track is ["Strength of a Thousand Men (Live)" by Two Steps from Hell](https://www.youtube.com/watch?v=POmTXTBtRZA). I'll pay attention to the quality bass accompanying each beat. An IEM with perfect bass handling should convey a sense of "grippiness" and texture in the bass region, making the bass line growl rather than low-pitched hum. Lastly, every beat must be snappy and incisive to capture the marching energy of this track. With this difficult track, Supermix4 faltered somewhat. The bassline lacks the strength and incisiveness to complement the rhythm carried by midrange instruments. Subjectively, the presentation of Supermix4 in this type of busy track was not particularly engaging.
 
-In summary, Supermix4 has relatively clean transient attacks and precision. Bass can have good texture. Music that relies on subbass to convey energy can feel quite powerful. However, because Supermix4 emphasizes subbass over midbass, the sense of punchiness is not quite prominent. Overall, I consider the bass and dynamic of Supermix4 to be good but not quite a standout feature (3/5).
+In summary, Supermix4 has relatively **clean transient attacks and precision**. Bass can have good texture. Music that relies on subbass to convey energy can feel quite powerful. However, because Supermix4 emphasizes **subbass over midbass**, the sense of punchiness is not quite prominent. Overall, I consider the bass and dynamic of Supermix4 to be **quite good, in both tuning and bass quality; though not quite a standout feature (3.5/5)**.
 
 **Resolution:** *To me, "resolution" can be broken down into three components: (1) Sharpness, incisiveness, or "definition" of note attacks (see the figure above). (2) The separation of instruments and vocals, especially when they overlap on the soundstage. (3) The texture and details in the decay side of the notes. The first two give music clarity and make it easy to track individual elements of a mix. The last provides music details and nuances.*
 
@@ -105,16 +105,11 @@ Let's elaborate on the resolution of Supermix4 with some test tracks. For the fi
 
 The next track is the "controlled chaos" [ABC feat. Sophia Black by Polyphia](https://www.youtube.com/watch?v=Mtd24QIBJ5Y). With this track, I focus on an IEM's ability to not crumble under the complexity of overlapping layers in the mix. An IEM with ideal resolution would make it easy for me to hear everything, down to the very faint overdub by Sophia Black on the side channels right from the opening of the track. Again, I found that Supermix4 does a great job. In busy sections of the track, the Blessing 2 does not separate overlapping elements as cleanly as Supermix4, so the music sounds a touch more mushy with Blessing 2 than Supermix4. The overall instrument separation and detail retrieval of Supermix4 is quite close to the Andromeda 2020 in this track.
 
-In summary, I find that the Supermix4 has a clean presentation that highlights midrange information with good sense of clarity (as one would expect from an IEM tuned toward the Harman target). The detail retrieval, particularly the reverberation and background elements of the mix, are quite good thanks to the good treble extension. However, I think the Harman tuning does hurt the perceived detail retrieval of Supermix4 as it pulls the information from the upper bass and lower midrange region back. In conclusion, I consider the resolution of Supermix4 to be "Great" (4/5).
+In summary, I find that the Supermix4 has **a clean presentation that highlights midrange information** with good sense of **clarity** (as one would expect from an IEM tuned toward the Harman target). The detail retrieval, particularly the reverberation and background elements of the mix, are quite good thanks to the good treble extension. However, I think the Harman tuning does hurt the perceived detail retrieval of Supermix4 as it pulls the information from the upper bass and lower midrange region back. In conclusion, **I consider the resolution of Supermix4 to be "Great" (4/5).**
 
 **Stereo imaging and soundstage:** *Stereo imaging or "soundstage" is a psychoacoustic illusion that different recording elements appear at various locations inside and around your head. Your brain creates based on the cues in the recording, which are enhanced or diminushed by your IEMs, your DAC, and your amplifier. In rare cases, with some specific songs, some IEMs can trick you into thinking that the sound comes from the environment (a.k.a., "holographic")*
 
 ![](/assets/images/soundstage.png)
-
-Overview of the soundstage and imaging capability using the soundwheel terminology.:
-- Spatial extent: depth, width, envelopment
-- Localiation: distance, internality, localisability
-- Reverberation
 
 Let's listen to some test tracks to assess the soundstage and imaging capabilities of Supermix4. The first one is [Original Sound Effect Track - Memory from Gundam Seed Destiny OST album](https://www.youtube.com/watch?v=PhJWAWqExQs). This track compiles all sound effects used in the show, arranged atmospherically and immersively. An IEM with ideal soundstage and imaging should effectively utilize this information to create a diverse soundstage, with sound elements appearing in all three dimensions, offering contrast between near and distant sounds. Many elements on the left and right channels will seem to originate outside the ears. Supermix4 does an outstanding job with this track: spacious, immersive, and quite holographic. The presentation of musical elements in the mix, such as the brass in the beginning, are particularly impressive: Supermix4 pushes them outside the headstage and creates a convincing illusion that they are sounds coming from the surrounding environment. The sound effects in the middle convey a good sense of separation and forward-backward positioning.
 
@@ -122,7 +117,7 @@ In A/B comparison, I found that the soundstage presentation of Supermix4 is noti
 
 The next track is [Shadow of Baar Dau](https://www.youtube.com/watch?v=RXcLuLQ_5oM). This one tests an IEM's ability to convincingly convey the sense of distance of background elements, such as the string section at 00:20 on the front left and the vocal chants on the front right at 00:40. An IEM with perfect soundstage and imaging should make this track feel spacious, creating an illusion that some background elements originate outside the head. In essence, it should provide a fully immersive listening experience. Again, Supermix4 does an excellent job with the soundstage and imaging of this track. When comparing against Andromeda, I found that the Supermix4 actually conveys the distant background elements of the mix in a more special and holographic manner than the Andromeda, though the main actions happening at the center of the stage sounds more spread out with the Andromeda rather than mostly in-the-head with the Supermix4. Against U12T, the same observations from the previous track hold. Supermix4 trades blows with U12T in terms of pushing the background elements outside the headstage into the surrounding environment. However, U12T has a clear edge in precision and "3D-ness" of the instrument placement in the center part of the stage, and the center of the stage feels less in-the-head than Supermix4.
 
-In summary, I found that Supermix4's soundstage and imaging capabilities are rather special. Taken as a whole, the soundstage has quite good width, depth, and height. The soundstage feels open. Supermix4 can convey the uncanny, holographic placement of background elements in the track that not many IEMs can do. Supermix4 can convey the reverberation information in the track pretty well as well. The most significant problem of Supermix4 is likely due to the Harman-tuning, which makes the foreground of the soundstage tightly focused around a phantom center inside the head. This tight focus can make the "in-the-head" sensation overpowering the interesting holographic effect that Supermix4 can convey. Therefore, I would consider the soundstage and imaging capability of Supermix4 as 4.5/5 - Great.
+In summary, **I found that Supermix4's soundstage and imaging capabilities are rather special.** Taken as a whole, the soundstage has quite good width, depth, and height. The soundstage feels open. Supermix4 can convey the uncanny, holographic placement of background elements in the track that not many IEMs can do. Supermix4 can convey the reverberation information in the track pretty well as well. The most significant problem of Supermix4 is likely due to the Harman-tuning, which makes the foreground of the soundstage tightly focused around a phantom center inside the head. **This tight focus can make the "in-the-head" sensation overpowering the interesting holographic effect that Supermix4 can convey.** Still, I would consider the soundstage and imaging capability of Supermix4 as **4.5/5 - Great.**
 
 
 _____
@@ -130,32 +125,38 @@ _____
 Driveability
 ===
 
-Apple dongle? 
+Supermix4 exhibits noticeable differences in sound when connected to various source chains. Even paired with the humble Apple USB-C to 3.5mm adapter (the "Apple dongle"), this IEM can produce ample volume. However, the resulting audio quality is underwhelming: the mix feels congested and lacks clarity, while note definition and instrument separation across the frequency range appear muted. Despite offering a sufficient amount of bass, the transient response fails to deliver a crisp impact. Furthermore, Supermix4's ability to create a holographic listening experience is diminished with this particular pairing.
 
-R3II?
+Switching to the 4.4mm output on R3II significantly enhances the soundstage presentation, providing clearer instrument definition and lessening the congested middle-ground feel. The IEM's holographic quality returns as background elements gain separation. Upgrading to DX300 unveils another layer of Supermix4's sonic potential, though the improvement feels more like a refinement than a significant leap. The stage remains open with fewer crowded central instruments, and background details become even more distinct. Bass transient response also gains a slight boost in crispness.
 
-DX300?
-
+Personally, **I would pair Supermix4 with a quality USB DAC or a compact DAP such as R3II**. The Apple dongle and laptop output would be reserved for emergency use only, like during online calls.
 
 _____
 
 Comparisons
 ===
 
+**Vs Simgot EM6L "Phoenix":** While Supermix4 and EM6L share a similar tonality, following the Harman frequency response target, there are notable differences: (1) EM6L exhibits more treble spice, particularly evident in tracks like Shivers by Ed Sheeran due to sibilance and harshness. (2) The midrange region between 800Hz and 3kHz of EM6L appears thinner than that of Supermix4, leading to a weak, wispy sound on higher notes such as the A string and E string of a violin. (3) Supermix4's upper treble extension outperforms EM6L, demonstrated by the presence of reverberation absent in the latter.
+
+Both IEMs feature concentrated soundstages around the phantom center; however, only Supermix4 delivers a holographic effect for background elements. Bass performance differs as well, with Supermix4 offering more pronounced and satisfying beats compared to EM6L. Overall, I consider Supermix4 an upgrade over EM6L.
+
+**Vs Simgot EA1000 "Fermat":** The tonal characteristics of Supermix4 and EA1000 are nearly identical, except for a key distinction: EA1000 provides additional energy around 250Hz, resulting in more balanced and natural vocals and violins. Conversely, the upper treble extension of Supermix4 outshines that of EA1000.
+
+Soundstage experiences are comparable between the two IEMs, with Supermix4 offering an expanded background and stronger holographic effect for distant elements. The bass response is more satisfying on Supermix4 due to its snappier transient response. Lastly, resolution is higher on Supermix4 than on EA1000.
 
 _____
 
 Conclusions
 ===
 
+As my review of Supermix4 draws to a close, I find myself experiencing mixed emotions. On one hand, I am excited and impressed by its performance, as Supermix4 meets my expectations for an IEM with a quad-brid driver topology. In direct comparison to its single-driver and hybrid siblings, Supermix4 excels in technical performance while offering unique soundstage presentation. On the other hand, I can't help but feel some disappointment due to certain weaknesses that could have been addressed through minor tuning adjustments. A slight deviation from the Harman IE 2019 target might resolve issues of the nasal, thin tonality affecting vocals and instruments. Lowering ear-gain compensation from 10dB to a more suitable 7-8dB could address the in-the-head placement of the soundstage, thus further highlighting the holographic effect of background elements within the soundstage.
 
-
-
+So, should you consider purchasing Supermix4? Your answer depends on your personal opinion of the Harman IE2019 target. This decision shouldn't be influenced by others' views but rather based on your own experiences listening to IEMs that strictly adhere to this tuning. How well do your music library and preferences align with the tonal characteristics of the Harman IE2019 target? Are you able to appreciate its sound or do you notice any issues? If you find the Harman IE2019 target appealing or remain indifferent toward it, Supermix4 receives a recommendation by this reviewer.
 
 **What I like about this IEM:**
 
 - Strictly Harman-tuned tonality! (If you like Harman)
-- Clean and clear presetation with strong sense of clarity
+- Clean and clear presentation with strong sense of clarity
 - Good instrument separation
 - Good detail retrieval
 - Expansive, even holographic soundstage with right tracks
@@ -165,7 +166,8 @@ Conclusions
 
 - Strictly Harman-tuned tonality ...
 - Instruments are mostly distributed around the phantom center inside the head
+- Bass could be punchier
 
-**Absolute Sonic Quality Rating:** 5/5 - Outstanding
+**Absolute Sonic Quality Rating:** 4/5 - Great
 
-**Bias Score:** 5/5 - I love this IEM!
+**Bias Score:** 4/5 - I like this IEM
