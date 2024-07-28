@@ -4,7 +4,7 @@ layout: "single"
 excerpts: "So much fun!"
 toc: true
 header:
-    image: "/assets/images/Symphonium-Crimson/Crimson_summary.jpg"
+    image: "/assets/images/ZiiGaat-Arete/Arete_summary.jpg"
 ---
 
 Can we tune an IEM so that it performs better with FPS games? More importantly, can we do that without compromising its tonal balance and tonality? Apparently, ZiiGaat and Fresh Reviews believe so. Today, let's have a look at the result of their collaboration - Arete.
@@ -85,7 +85,7 @@ The subjective impression is captured using the lexicon in the Sound Wheel below
 
 ![](/assets/images/ZiiGaat-Arete/Arete_graph.png)
 
-*Figure shows the frequency response of XXXX against the Harman in-ear target. Measurements were done with an IEC-711-compliant coupler and might only be compared with other measurements from this same coupler. Above 8kHz, the measurement likely does not match the response at the ear drum. Visit my [graph database](https://nk-tran.com/iegems-graphtool/) for more comparisons.*
+*Figure shows the frequency response of Arete against the ThieAudio Monarch MkII. Measurements were done with an IEC-711-compliant coupler and might only be compared with other measurements from this same coupler. Above 8kHz, the measurement likely does not match the response at the ear drum. Visit my [graph database](https://nk-tran.com/iegems-graphtool/) for more comparisons.*
 
 Arete has a sound signature that features a **neutral tone with a noticeable subbass boost**. This characteristic is evident throughout various test tracks, where the midrange is perfectly neutral and uncoloured, while the bass is emphasized above the midrange.
 
@@ -215,3 +215,5 @@ On the other hand, if you're looking for an all-purpose IEM that delivers a fun 
 **Absolute Sonic Quality Rating:** 4/5 - Great
 
 **Bias Score:** 4/5 - I like this IEM
+
+![](/assets/images/ZiiGaat-Arete/Arete_summary.jpg)
