@@ -4,7 +4,7 @@ layout: "single"
 excerpts: "Niche"
 toc: true
 header:
-    image: "/assets/images/Symphonium-Crimson/Crimson_summary.jpg"
+    image: "/assets/images/Gaudio-Todi/Todi_summary.jpg"
 ---
 
 Do you know there are Swiss-made IEM? 
