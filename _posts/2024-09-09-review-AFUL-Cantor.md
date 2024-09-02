@@ -91,6 +91,8 @@ Overview of the bass and dynamic using the soundwheel terminology:
 - Punch
 - Powerful
 
+<!-- Oh, cantor is much snappier. It’s quite similar to the bass of Crimson, but i think cantor’s is a bit more textured and detailed in the subbass rumble. It’s quite accurate though, so if the track is not midbassy, it wouldn’t be midbassy, unlike Anni 2023. -->
+
 Let's examine the bass and perceived dynamics of XXXX with some test tracks. The first one is **[A Reckoning in Blood from The Ghost of Tsushima OST](https://www.youtube.com/watch?v=kaBMXXo-vdU)**. I'll focus on the crescendo at 01:10, which an ideal dynamic IEM should effectively communicate. Additionally, the beats from 02:50 need to be strong, snappy, and precise, requiring excellent control across the entire frequency range. Here are key observations about how XXXX performs with this track:
 
 The next track is **[Strength of a Thousand Men (Live) by Two Steps from Hell](https://www.youtube.com/watch?v=POmTXTBtRZA)**. I'll pay attention to the quality bass accompanying each beat. An IEM with perfect bass handling should convey a sense of "grippiness" and texture in the bass region, making the bass line growl rather than low-pitched hum. Lastly, every beat must be snappy and incisive to capture the marching energy of this track. Here are key observations about how XXXX performs with this track:
@@ -141,6 +143,13 @@ _____
 Comparisons
 ===
 
+**AFUL Cantor vs AFUL Performer8**: When swapping from Cantor to Performer8 (P8), I immediate noticed four differences. Firstly, the P8 was louder than Cantor at the same volume level, though not significantly more so. To put in context, I need to drop the volume from 28 to 22 on my DX300. 
+
+The second difference was how much *flatter* the soundstage of the P8 feels. To be fair, both IEMs push the entire midrange forward to the listener in the same way. Moreover, both IEMs can separate the background elements (e.g., choral and string sections) from the foreground elements (e.g., main instruments and vocalists) and throw the background elements further into the background, away from the listener, thus both can sound spacious with the right track. The key difference is in the way these IEMs shape the foreground layers of the soundstage. Simply put, the foreground layers have more "thickness" on Cantor, meaning I can pin point nearer and further elements within the foreground of the mix (e.g., the singer is slightly closer whilst the main guitar is further back). On the other hand, P8 tends to compress the foreground layers into a relatively flat plane. 
+
+The third difference was how much more *defined* the outline and boundary of elements on the soundstage are with Cantor. For example, when I listen to [soundtracks from The Elder Scrolls IV: Oblivion](https://www.youtube.com/watch?v=xLhUGq1nhdU&list=OLAK5uy_mN3k8ZkQfF2doXCm4zfKcMaBgT3QIN41U), I found that Cantor can make every instrument on the stage crystal clear and well separated, as if they *pop* from a black background. Meanwhile, everything feels more "blobby", less define, more cloudy, and the background feels more "gray-ish" with P8. As a result, it's harder to track and focus on individual parts of the mix with P8. When I "zoom" into individual parts of the mix, I found that P8 reveals less details and nuances than Cantor.  
+
+The final difference was bass and dynamic. The difference was rather day and night when I listen to [A Reckoning in Blood from The Ghost of Tsushima OST](https://www.youtube.com/watch?v=kaBMXXo-vdU) with both IEMs. The dynamic swings, such as the first beat drop at 01:10 was much more powerful and satisfying with Cantor. Every following beats are also more incisive with Cantor, giving the track stronger sense of energy and rhythm. The texture, details, and rumble of the drums are also noticeably better on Cantor. The difference persisted even when I turn the volume of P8 to be noticeably louder than Cantor to give it an advantage.
 
 _____
 
@@ -160,3 +169,28 @@ Summary
 **Absolute Sonic Quality Rating:** 5/5 - Outstanding
 
 **Bias Score:** 5/5 - I love this IEM!
+
+
+<!-- Third day with this gem.
+
+So I have been wearing this IEM almost nonstop since this morning for commute and background music at work. Happy to report that there has been zero pressure build up because, surprise surprise, this IEM does have a pressure release mechanism similar to 64 Audio APEX. At first, I thought it was by sheer luck that I have no pressure build up, until I read the design document of these IEMs.
+
+Despite pressure release, noise isolation is quite a bit above average, to the point it was kinda uncanny when, say, I saw water from the faucet when I do the dishes, but the sound of the water was so faint that it's almost inaudible with music on. Needless to say, this is not a great option when you need situational awareness.
+
+I also received confirmation that Cantor has a 5-way crossover "with minimal overlap". This puts the crossover design in the upper echelons, just behind the crazy 7-way crossover of STORM.
+
+Regarding scaling, I found that this IEM is not tricky to drive (i.e., not Symphonium/Subtonic level), but it's quite sensitive to the source chain somehow. I'm indifferent about how it sounds with my R3II, but feel much more enthusiastic with DX300 and W4. I guess you can call this "scaling"? I don't know. At 22ohm and 106dB, it sits in the sweet spot of most portable DAC/amp.
+
+Sonic-wise, this IEM is extremely resolving, without any forced clarity or treble harshness (deep fit, of course). I like to throw my familiar tracks on this IEM and sit back and try to pick out all elements of the mix, all the details. I picked out many details in the percussion and bass instruments that I didn't notice before with my other IEMs. -->
+
+<!-- It has 2BA for subbass and 2BA for midbass, so midbass is tight and snappy whilst the subbass is rumbling and textured whenever there is subbass in the music. Not as indulging as big DD bass like Anni 2023 but quite satisfying. Yes, this BA bass is better than U12t to me. -->
+
+<!-- Good question. Thanks
+
+To me, this IEM feels like a professionally calibrated computer screen with very high resolution, and very high contrast. It does not boost the vibrancy (ala "V-shaped" tuning), it does not add some sorts of "film simulation" filter (ala "warm", "musical tuning"), and it does not overly sharpen the image to make it appear more detailed (ala "bright" or "analytical" tuning). But, because of the high contrast (ala "bass boost"), the image is still rather striking.
+
+Of course, one might find this presentation boring and prefer something more colourful, or perhaps a bit imperfect, which is fine. This Cantor IEM wouldn't give you that in the stock tuning, but it's so even across FR so it would be easy to EQ with just a simple 10-band graphical EQ.
+
+I hope this makes some senses
+
+(edit: in short, yes, neutral midrange, extended treble, with tight bass boost) -->
