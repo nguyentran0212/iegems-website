@@ -1,13 +1,16 @@
 ---
-title: "IEM - Tagline"
+======
+title: "AFUL Cantor - Classical formula perfected by innovation"
 layout: "single"
-excerpts: "Tagline"
+excerpts: "Classical formula perfected by innovation"
 toc: true
 header:
     image: "/assets/images/Symphonium-Crimson/Crimson_summary.jpg"
 ---
 
 Opening phrase
+=======
+It is not an exaggeration to say that I have been waiting a few years to finally write this review article. The reasons were twofold. Firtsly, the product itself took a long time arrive: it has been more than one year and multiple releases between the moment AFUL teased their flagship 14-driver IEM Cantor and time when it is finally here on my desk. Secondly, ever since the time I started reviewing IEMs a few years back, I have been waiting for someone, somewhere, somehow, to make *that* IEM, the one that makes me say: "This is it!" So, I hope you would excuse me if this review is somewhat more verbose and introspective than usual. I'll highlight the main points to help you skim, but if you would indulge me, grab a cup of something and get comfy. We are in for a ride. 
 
 Forewords
 ===
@@ -16,9 +19,28 @@ Forewords
 - I rate IEMs within with a consistent scale from **1 (Poor) to 3 (Good) to 5 (Outstanding)**. An overall ranking of 3/5 or above is considered positive. 
 - Ranking list and measurement database are on [my IEM review blog](https://iegems.nk-tran.com/).
 - The terminology for subjective impressions in this review is based on the Audio Wheel for reproduced sound defined in the technical report [ITU-R BS.2399-0](https://www.itu.int/pub/R-REP-BS.2399)
-- **This review is based on a review sample from XXXX (Thank you!).** I have no affiliation with or financial interest in XXXX. 
-- **This review is possible thanks to the Australian tour arranged by XXXX and @Damz87 (Thank you!)**. I have no affiliation with or financial interest in XXXX. 
-- The unit retails for $xxxx at the time this review was published. Unaffiliated link: 
+- **This review is based on a review sample purchased at a discount from Hifigo (Thank you!).** I have no affiliation with or financial interest in AFUL and Hifigo. 
+- The unit retails for $799 at the time this review was published. Unaffiliated link: [Hifigo](https://hifigo.com/products/aful-cantor)
+
+_____
+
+In pursue of the ideal
+===
+
+A fellow reviewer once said that a "perfect" IEM, the one that has no fault to the ears of any listener, is impossible because people's requirements are contradictory. For instance, an IEM can not simultaneously be perfect for a "basshead", a "treblehead", and a reference because the very act of tuning the frequency response toward bass or treble would turn an IEM away from a reference "flat" response, and vice versa. 
+
+Whilst I fully agree that a perfect IEM is self-contradictory, I stubbornly believe that an "ideal" IEM is possible and actually should be pursued. This vision of the "ideal" IEM has since become the paradigm of how I look at IEMs, listen to IEMs, assess IEMs, and write about them. You can say its my "fundamental bias." so, what is that "ideal" IEM am I talking about?
+
+To me, in order to talk about an "ideal" IEM, we need to take a step back and look at the IEMs themselves. What are they? What is their "point"? To me, IEMs serve but one purpose: faithfully translating electrical signals into sound waves. In other words, they are "screens" or "monitors" for the ears to "see" the audio content, be it music or movies or video games, as faithfully, clearly, and detailed as possible. They don't have to be to be "soulful", just as you wouldn't ask your TV to be "soulful."
+
+The implication of my conceptualisation of IEMs is that an *ideal IEM, at least to me, is pretty much define-able and thus not a contradictory but a realistic target to shoot for.* In other words, an ideal IEM is the one that faithfully reflects the source material (a.k.a., "flat" response), with an extreme level of resolution down to the minute spatial cues and details. An ideal IEM should be so crystal clear that you can track and follow any individual element in the mix without difficulty, yet you can also sit back and see how the whole mix come together, without losing sight of components. It should be so detailed that voices and instruments in the mix feel *real.* The spacial cue should be so accurate that you can pin point both the direction and distance of the sound sources in a virtual sound field crafted by an audio engineer or a game engine. And it should do all of this without sounding like ice picks in your ears. 
+
+What I find interesting is that there appear to be a strong relation between the actual construction and engineering effort behind an IEM and how close it is to the vision of an ideal IEM. For example, a smooth and even frequency response helps an IEM avoid the dreaded masking effect, allowing details to shine. The ability of an IEM to maintain smooth and audible response deep into the upper treble correlates to micro details and reproduction of spatial cues. A better cross-over design with minimal overlap between drivers tend to keep the sound clean and detailed. Cutting back on the use of dampening foams and filters tends to keep note attacks snappy and clean, further improving clarity, instrument separation, and details. So on and so forth. Engineering and ingenuity, not magic, power the "ideal" IEMs. 
+
+Can we ever reach an ideal IEM? It's hard to say, since we need know what the maximum level of information crammed into recordings that we can extract and, in my experience, there has always been the next level. So, the path towards an ideal IEMs proceeds in two branches: (1) if we have unlimited resources, how close can we get to the top, and (2) with this limited resources available, how far can we go. In other words, the first path is the battle for "State of the Art" (SOTA), and the second path is the battle for productionalisation, to make SOTA available to many listeners. Both are interesting and challenging, but I have been leaning towards the second path. In fact, my entire method for assessing IEMs has been constructed for this second path: how close are we to the ideal with this limited budget we have. 
+
+And that brings us back to the topic of the article today, the AFUL Cantor.
+
 
 _____
 
@@ -151,6 +173,14 @@ The third difference was how much more *defined* the outline and boundary of ele
 
 The final difference was bass and dynamic. The difference was rather day and night when I listen to [A Reckoning in Blood from The Ghost of Tsushima OST](https://www.youtube.com/watch?v=kaBMXXo-vdU) with both IEMs. The dynamic swings, such as the first beat drop at 01:10 was much more powerful and satisfying with Cantor. Every following beats are also more incisive with Cantor, giving the track stronger sense of energy and rhythm. The texture, details, and rumble of the drums are also noticeably better on Cantor. The difference persisted even when I turn the volume of P8 to be noticeably louder than Cantor to give it an advantage.
 
+**AFUL Cantor (Stock tips) vs Sony IER-Z1R (Sony silicone tips)**: Z1R is a legendary IEM when it comes to bass quality and soundstage (and also the difficulty of getting a good fit). How does Cantor fare? Using my favourite test tracks, the Ghost of Tsushima OST album, I put Cantor and Z1R on the scale. The first difference I observed was loudness: Z1R required 33/100 whilst Cantor needed 30/100 to reach the same listening volume. I'm slightly surprised by how closed the volume levels were, given the reputation of Z1R as a difficult to drive IEM.
+
+The second difference was the resolution, in terms of both instrument separation and micro details. Whilst Z1R was certainly capable, Cantor consistently out-resolved it. Simply put, whilst both IEMs can separate and reveal all main elements in a mix effectively, Cantor goes one step further in terms of the little details of those instruments and of the fainter background elements. In other words, there are more *information* to listen to with Cantor whilst I run into a "veil" earlier with Z1R. This different is especially evidenced in slower but more detailed section such as the flute and string section between 0:40 to the crescendo at 1:00 in [A Reckoning in Blood from The Ghost of Tsushima OST](https://www.youtube.com/watch?v=kaBMXXo-vdU). 
+
+The next two differences were rather surprisingly to me. The first one was in the bass response. For instance, let's consider the penultimate track in the album, The Fate of Tsushima. This track has rather interesting bassline with a sequence of drum beats panning back and forth on the soundstage, accompanied by low pitch "growl" from what I assume some forms of acoustic bass. When it comes to the amount, or loudness, of the bass, Z1R wins hands down. It is simply more thumpy and satisfying, though I would argue that Z1R does not boost the bass *that* much so if the track is not bassy enough, this IEM would not change that. When it comes to bass quality the scale tips back towards Cantor, again, by a small margin. Both IEMs present the bass line with a great sense of rhythm and dynamic thanks to snappy note attacks. Both IEMs presents the low pitch information and texture very well, most notably in the low-pitched rumbles. So in some senses, Z1R is impressive by how tightly it controls its massive DD subwoofers, whilst Cantor is impressive how it manages to convey bass energy with plain old BA woofers. 
+
+The final difference, or rather lack of difference, between Z1R and Cantor was the soundstage. Both IEMs craft similarly spacious soundstage that expands in all three dimensions. Cantor pushes the main content at the center of the soundstage forward more, whilst Z1R pulls the midrange back a touch, so in terms of the structure of the soundstage, I prefer Z1R's. However, Cantor takes back the lead when it comes to the incisiveness and precision of the placement of instruments on the soundstage. 
+
 _____
 
 Conclusions
@@ -192,5 +222,3 @@ To me, this IEM feels like a professionally calibrated computer screen with very
 Of course, one might find this presentation boring and prefer something more colourful, or perhaps a bit imperfect, which is fine. This Cantor IEM wouldn't give you that in the stock tuning, but it's so even across FR so it would be easy to EQ with just a simple 10-band graphical EQ.
 
 I hope this makes some senses
-
-(edit: in short, yes, neutral midrange, extended treble, with tight bass boost) -->
