@@ -119,51 +119,49 @@ The tonality of Cantor is rather difficult to describe due to how *colorless* it
 
 If I try to give a more "technical" description, I would say Cantor has a mild W-shaped sound signature, meaning it emphasises the subbass, midrange, and upper treble with a good sense of separation between these frequencies. In particular, I found that voices and main instruments of most recording tend to be brought forward rather than pushed behind the bass and treble. At the same time, the midrange does not overpower the rest of the response. The accuracy of Cantor's response means that different mixes can have noticeably different instrument balance, rather than sounding similar. 
 
-
 Let's go into details about how Cantor present various types of voices and instruments in some test tracks. The first track is **[Shivers by Ed Sheeran](https://www.youtube.com/watch?v=z2_Lrg6rRks)**, which is invaluable for checking the harshness and sibilance of an IEM, as well as its balance across the midrange frequencies. Cantor does not intensify the harshness in this track, but at the same time it does nothing to reduce the sharp edges either. I quite enjoy the way Cantor renders Ed Sheeran's voice in this track. It does not add a blanket of warmth on this voice but also does not tilt his voice toward upper midrange to make it thin and shrill like some full Harman or diffuse-field based IEMs. 
 
 The next track is **[Kiwi wa Boku ni Niteiru by See-Saw](https://www.youtube.com/watch?v=U6BkF23UPbM)**, which is an excellent song to test the ability of an IEM to handle female vocals in "weeb musics." Cantor does a great job here, making the voice of Chiaki Ishikawa bright and clear, while maintaining enough energy in the lower midrange to avoid making the voice thin and harsh. I also enjoy how *crystal clear* the rest of the mix is, allowing me to hear all other sound elements making up the background of the track. I was quite surprised by the amount of detaild packed into this familiar track when I listened to it with Cantor the first time. 
 
-The next track is **[Now We Are Free by 2CELLOS](https://www.youtube.com/watch?v=74CYIdYoQ5w)**, which assesses an IEM's ability to render lower-midrange, particularly cellos. An IEM with ideal tonal balance should render cellos with a thick and authoritative tone and be able to reproduce the low pitch resonance and "rumble" of the cello body. At the same time, it must avoid cutting the upper midrange and treble to the point of making the cellos sound muffled, muddy, or lacking clear articulation. Here are key observations about how Cantor performs with this track:
+The next track is **[Now We Are Free by 2CELLOS](https://www.youtube.com/watch?v=74CYIdYoQ5w)**, which assesses an IEM's ability to render lower-midrange, particularly cellos. Cantor passes the "2CELLOS" test with flying colour. The main cellos have a thick and authoritative tone with proper "weight" and low-pitched rumble, without sounding muffled or muddy. I'm particularly impressed by the ability to Cantor to handle the lower midrange of this track, which is quite saturated due the presence of two cellos and the cello and doublebass sections of the orchestra. Cantor managed to maintain the definition of and separation between these instruments, preventing frequency region from becoming muddled. 
 
-The next track is **[Playing God by Polyphia](https://www.youtube.com/watch?v=Z5NoQg8LdDk)**. I focus on the tonal quality and the level of energy conveyed by the guitars. This track also helps assess the balance of the bass against the midrange, which is reflected by the relative loudness between the bass guitar and the rest of the music. Here are key observations about how Cantor performs with this track:
+The next track is **[Playing God by Polyphia](https://www.youtube.com/watch?v=Z5NoQg8LdDk)**. I focus on the tonal quality and the level of energy conveyed by the guitars. This track also helps assess the balance of the bass against the midrange, which is reflected by the relative loudness between the bass guitar and the rest of the music. There are two aspects that Cantor impressed me with this track. The first aspect is the sheer texture and detail of the bass guitar. I can hear a distinct low-pitched *growling* of the bass guitar. It's powerful and present whilst also maintaining impressive level of control and details. The second aspect that impressed me was the percussions. The kick drum has clean yet powerful attack. Cymbals and hats are energetic enough and full of micro details without becoming harsh or piercing. At the same time, Cantor does not pull the treble back, so you might find the treble a bit too high if you are after a warmer and milder tonal balance.  
 
-The next track on our list is the aria of **[Bach's Goldberg Variations, recorded by Lang Lang](https://youtu.be/linQUK6jNmg?si=v_2nz6exiNXsZUjU)**. I find that piano is the best instrument to assess the overall tonal balance of an IEM. Simply put, if the piano does not sound even across the frequencies, the midrange of an IEM is imbalanced. Here are key observations about how Cantor performs with this track:
+The next track on our list is the aria of **[Bach's Goldberg Variations, recorded by Lang Lang](https://youtu.be/linQUK6jNmg?si=v_2nz6exiNXsZUjU)**. I find that piano is the best instrument to assess the overall tonal balance of an IEM. Simply put, if the piano does not sound even across the frequencies, the midrange of an IEM is imbalanced. Cantor renders the piano with a great sense of balance across the spectrum. None of the voice unnaturally overpower other voices. Moreover, the sense of clarity and separation is remarkable, making it very easy for me to "zoom" into individual voice and then "zoom" out to hear how all voices interact with each other. In some parts, such as at the end of Variation 2, I can even hear the sounds of mechanisms inside the piano. Another area where Cantor does a great job is the ability to fully convey the dynamic of the recording, smoothly transitioning from piano to forte with all the shades in between. Simply put, the IEM manages to grab my attention and refuses to let go throughout this long piece. 
 
-The next track on our list is **[Ciaccona from Bach's Violin Partita No.2 in D Minor, performed by Kavakos](https://www.youtube.com/watch?v=AtA5DbswJ90)**. This track aims to assess two aspects: the rendition of violin and the reproduction of upper treble energy, which is reflected by the quality and detail of the reverberation and micro details at the decay end of violin notes. Here are key observations about how Cantor performs with this track:
+The next track on our list is **[Ciaccona from Bach's Violin Partita No.2 in D Minor, performed by Kavakos](https://www.youtube.com/watch?v=AtA5DbswJ90)**. This track aims to assess two aspects: the rendition of violin and the reproduction of upper treble energy, which is reflected by the quality and detail of the reverberation and micro details at the decay end of violin notes. Cantor presents the violin with a dry, clean, and textured tone. I like how the violin seems to pop up from a deep black background, surrounded by the reverberation of the recording hall. I particularly enjoy the slower phrases where the main violin notes stop slightly to let the reverberation rings out. The ability of Cantor to render those reverberation cleanly until the fade out does a great job of drawing me into the recording. Another area where Cantor impresses me is ability to convey dynamic variations and contrasts with many shades and gradations. 
 
-The final track on our timbre test is **[Synchro BOM-BA-YE by Tokyo Kosei Wind Orchestra](https://www.youtube.com/watch?v=4lwPiXnOGZ4)**. This track aims to test the tonal balance and timbre of the upper midrange and treble region. There are two cues I focus on in this track: the hand claps at the beginning, and the tonal quality of all brass instruments throughout the track. Here are key observations about how Cantor performs with this track:
+The final track on our timbre test is **[Synchro BOM-BA-YE by Tokyo Kosei Wind Orchestra](https://www.youtube.com/watch?v=4lwPiXnOGZ4)**. This track aims to test the tonal balance and timbre of the upper midrange and treble region. There are two cues I focus on in this track: the hand claps at the beginning, and the tonal quality of all brass instruments throughout the track. Cantor passed this treble timbre test without much difficulty. The hand claps at the beginning sounds natural and detailed. All brass instruments sound like how they should sound. 
 
-
+In summary, I find Cantor to have an **impeccable tonal balance and timbre** that does well across variety of musical content. It does not impose its will nor change the energy level of the recordings. Instead, it does the best job of **getting out of the way** of whatever audio content it reproduces. **5/5 - Outstanding**.
 
 **Bass and perceived dynamic:**
 
-Overview of the bass and dynamic using the soundwheel terminology:
-- Attack
-- Bass precision
-- Punch
-- Powerful
+Many of us in our hobby tend to cringe when hearing the dreaded "BA bass", which is generally rightfully so. I sometimes use the rather impolite term "BA fart" to describe the "classical" sound of BA woofers: clear attack but lacking any sense of "weight", power, or rumble. In other words, bass notes sound like "poof", the bassline feels hollow and truncated without proper texture or detail. Some tuners try to compensate by increasing the midbass, which, in my experience, only exacerbate the problem. Thus, I was skeptical when learning that Cantor relies on sophisticated tubes and crossover to improve BA bass rather than switching to dynamic drivers (DD). 
 
-<!-- Oh, cantor is much snappier. It’s quite similar to the bass of Crimson, but i think cantor’s is a bit more textured and detailed in the subbass rumble. It’s quite accurate though, so if the track is not midbassy, it wouldn’t be midbassy, unlike Anni 2023. -->
+It turned out my concern was unfounded, as the bass response and dynamic are the highlight of my experience with Cantor. Simply put, with Cantor, I don't hear "BA bass" or "DD bass" but the actual percussive and bass instruments in the mix, if that makes sense to you. This impression is supported by two factors. Firstly, the bass attacks have crisp edge, as you would expect from a BA-based design. Where Cantor differs is its ability to provide the **oomph** to the bass attack, thanks to the subbass boost. As a result, Cantor's presentation feels snappy, rhythmic, and dynamic. Or, simply put, it's "toe tapping".
 
-Let's examine the bass and perceived dynamics of Cantor with some test tracks. The first one is **[A Reckoning in Blood from The Ghost of Tsushima OST](https://www.youtube.com/watch?v=kaBMXXo-vdU)**. I'll focus on the crescendo at 01:10, which an ideal dynamic IEM should effectively communicate. Additionally, the beats from 02:50 need to be strong, snappy, and precise, requiring excellent control across the entire frequency range. Here are key observations about how Cantor performs with this track:
+Secondly, the subbass boost plays an important role in pulling the rumble, textures, and details in the bass line out. Perhaps thanks to the agility of BA drivers, Cantor does a great job at pealing the bass line apart and presents all of this information clearly. I particularly enjoy bass guitars, doublebasses, and lower strings of cellos with Cantor: the plucks of these instruments feel weighty and tactile, whilst their textures and decays are clearly presented in a way that not many dynamic driver woofers can convey. 
 
-The next track is **[Strength of a Thousand Men (Live) by Two Steps from Hell](https://www.youtube.com/watch?v=POmTXTBtRZA)**. I'll pay attention to the quality bass accompanying each beat. An IEM with perfect bass handling should convey a sense of "grippiness" and texture in the bass region, making the bass line growl rather than low-pitched hum. Lastly, every beat must be snappy and incisive to capture the marching energy of this track. Here are key observations about how Cantor performs with this track:
+The main limitation of the bass response to me is the amount of bass being presented. Simply put, Cantor has a strong vibe of "it is what it is" when it comes to the amount of bass you can hear. If a track is supposed to be thick and bassy, it will sound thick and bassy, and vice versa. Whilst this approach has merits, there are times when I simply want an excessive amount of bass for pure fun.
+
+Let's examine the bass and perceived dynamics of Cantor with some test tracks. The first one is **[A Reckoning in Blood from The Ghost of Tsushima OST](https://www.youtube.com/watch?v=kaBMXXo-vdU)**. The crescendo at 01:10 highlights the ability to convey dynamic of Cantor. It's like, there is no holding back. The energy level keeps rising steadily from the quiet section at 0:40 to the explosion at 1:10, which gets my blood pumping immediately. The subsequent beats from 02:50 are strong, snappy, and precise, conveying a great sense of rhythm. 
+
+The next track is **[Strength of a Thousand Men (Live) by Two Steps from Hell](https://www.youtube.com/watch?v=POmTXTBtRZA)**. This track highlights both strengths and weaknesses of Cantor's bass response. Regarding bass quality, Cantor continues to shine as it can convey a sense of "grippiness" and texture in the bass region, making the bass line growl rather than low-pitched hum. Thanks to the control over the bass response, Cantor manages to keep the beats snappy and incisive on top of the rumble. However, the amount of bass of Cantor holds it back from a successful rendition of this track. Simply put, whilst I can make sense of the bass line with effort than usual, I don't feel my blood pumping and toe tapping with this track with Cantor. To be fair to Cantor, few IEMs manage to well with this track in my experience. 
+
+So, what is my conclusion about the bass and dynamic of Cantor? I think there are many aspects that Cantor does exceptionally well, such as how it conveys dynamic swings, how it peels apart bass lines, and how it renders the textures and details of bass instruments. Where it tumbles is recordings that are not *that* punchy but we expect them to be punchy. Because Cantor does not boost the midbass significantly, these tracks end up sounding less energetic than what I expect. Still, tracks like these are far and few, and I find the pros to outweight the cons. **5/5 - Outstanding**.
 
 **Resolution:** *To me, "resolution" can be broken down into three components: (1) Sharpness, incisiveness, or "definition" of note attacks (see the figure above). (2) The separation of instruments and vocals, especially when they overlap on the soundstage. (3) The texture and details in the decay side of the notes. The first two give music clarity and make it easy to track individual elements of a mix. The last provides music details and nuances.*
 
 ![](/assets/images/resolution.jpg)
 
-Describe the resolution using the terminology from soundwheel:
-- Clean
-- Presence
-- Clarity
-- Detailed
-- Natural
+Resolution is, without a doubt, the strongest aspect of Cantor. **Transparent and effortless** are the good adjectives to describe Cantor. Across tracks and genres, I find that Cantor always maintain a crystal clear clarity from bass to the treble without resorting to artificial sharpening of note attacks. The resolution on display here is what I call "true resolution." What's does that mean, you ask? It is the sense of effortlessness, when you listen to a dense and complex recording and find yourself able to separate and track individual parts with ease even whey they overlap on the soundstage. Moreover, when you zoom into individual element, you can hear minute details that lend those voices and instruments a great sense of *realism*. 
 
-Let's elaborate on the resolution of Cantor with some test tracks. For the first track, we again listen to **[Ciaccona from Bach's Violin Partita No. 2 in D Minor, performed by Kavakos](https://www.youtube.com/watch?v=AtA5DbswJ90)**. I focus on the micro details such as the bow catching the strings. I also focus on the quality and nuances of the reverberation and decays of the notes. Here are key observations about how Cantor performs with this track and how it compares against other reference IEMs:
+Let's elaborate on the resolution of Cantor with some test tracks. For the first track, we again listen to **[Ciaccona from Bach's Violin Partita No. 2 in D Minor, performed by Kavakos](https://www.youtube.com/watch?v=AtA5DbswJ90)**. As a mentioned previously, Cantor does an outstanding job with this track. I like how the violin seems to pop up from a deep black background. The notes are not overly smoothened, but textured like how I hear my violin in real world practice sessions. I particularly enjoy how the reverberation extends out from the note and slowly fade into the background without being aruptedly cut off. In comparison against the venerable 64 Audio U12T, my benchmark for outstanding resolution, I found Cantor to be slightly more detailed and articulate. However, the gap is quite miniscule. Cantor also compares favourably against modern flagship-class IEMs such as the Canpur CP54E with an array of 4 electrostatic (EST) supertweeters from Sonion. When I listen closely, I find the CP54E to be half step ahead Cantor in terms of the definition and articulation of violin notes as well as the details of the reverberation and decay. 
 
-The next track is the "controlled chaos" **[ABC feat. Sophia Black by Polyphia](https://www.youtube.com/watch?v=Mtd24QIBJ5Y)**. With this track, I focus on an IEM's ability to not crumble under the complexity of overlapping layers in the mix. An IEM with ideal resolution would make it easy for me to hear everything, down to the very faint overdub by Sophia Black on the side channels right from the opening of the track. Here are key observations about how Cantor performs with this track and how it compares against other reference IEMs:
+The next track is the "controlled chaos" **[ABC feat. Sophia Black by Polyphia](https://www.youtube.com/watch?v=Mtd24QIBJ5Y)**. With this track, I focus on an IEM's ability to not crumble under the complexity of overlapping layers in the mix. Cantor breezes through this track, making it easy for me to hear everything, down to the very faint overdub by Sophia Black on the side channels right from the opening of the track. As someone who loses attention quickly, I find Cantor turns these complex tracks into a game: what details can you pick out? Against the U12T, I found that Cantor is at least half step ahead. For instance, the busy section around 01:20 feels more veiled and congested with U12T. Interestingly, the CP54E does not out-resolve Cantor with this track. It's likely that the V-shaped tuning of CP54E overshadows the advantages brought out by its quad EST array. 
+
+In summary, Cantor is an outstandingly resolving IEM that allows you to hear *everything* in the audio content. **5/5 - Outstanding**
 
 **Stereo imaging and soundstage:** *Stereo imaging or "soundstage" is a psychoacoustic illusion that different recording elements appear at various locations inside and around your head. Your brain creates based on the cues in the recording, which are enhanced or diminushed by your IEMs, your DAC, and your amplifier. In rare cases, with some specific songs, some IEMs can trick you into thinking that the sound comes from the environment (a.k.a., "holographic")*
 
@@ -174,22 +172,24 @@ Overview of the soundstage and imaging capability using the soundwheel terminolo
 - Localiation: distance, internality, localisability
 - Reverberation
 
-Let's listen to some test tracks to assess the soundstage and imaging capability of Cantor. The first one is **[Original Sound Effect Track - Memory from Gundam Seed Destiny OST album](https://www.youtube.com/watch?v=PhJWAWqExQs)**. This track compiles all sound effects used in the show, arranged atmospherically and immersively. An IEM with ideal soundstage and imaging should effectively utilize this information to create a diverse soundstage, with sound elements appearing in all three dimensions, offering contrast between near and distant sounds. Many elements on the left and right channels will seem to originate outside the ears. Here are key observations about how Cantor performs with this track and how it compares against other reference IEMs:
+I'm surprised by how much I actually enjoy the soundstage and imaging of Cantor. Why surprise, you ask? It is because AFUL decides to stick to the same soundstage presentation as their previous flagship, the Performner8 (P8), a presentation that I did not enjoy. The best way to describe this soundstage shape of P8 is imaging having the foreground of the soundstage (i.e., singers, main instruments) pushed forward to your face. Because of this presentation, the soundstage can feel closed in and shallow, even if the IEM has great treble extension that can project the background elements far out (i.e., "large" soundstage in traditional sense). What surprised me is that despite sharing the same soundstage style, Cantor somehow manages to side step all of my previous criticism with the P8.   
 
-The next track is **[Shadow of Baar Dau](https://www.youtube.com/watch?v=RXcLuLQ_5oM)**. This one tests an IEM's ability to convincingly convey the sense of distance of background elements, such as the string section at 00:20 on the front left and the vocal chants on the front right at 00:40. An IEM with perfect soundstage and imaging should make this track feel spacious, creating an illusion that some background elements originate outside the head. In essence, it should provide a fully immersive listening experience. Here are key observations about how Cantor performs with this track and how it compares against other reference IEMs:
+Precise and spacious are the best way to describe the soundstage and imaging of Cantor. The soundstage of Cantor can change readily between recordings rather than sticking to a particular shape. If a recording is supposed to sound intimate, Cantor can place the singer right up to the face or even inside the head. If a recording is supposed to sound like a live recording with a band or an orchestra, Cantor can place the voices and instruments as if they spread out in front of me. Depending on the recording, sometimes the height dimension of the soundstage is also used with instruments floating up and above the head. With most recordings in my library, Cantor can comfortably push the background elements of the mix out of the head. In fact, sometimes when I listen to Cantor on commute, I wonder whether other people around me can hear my music, due to how "out of head" the soundstage feels. 
 
+Cantor also makes excellent use of its large soundstage. It is quite adept at conveying the contrast between nearer and further elements of mix, creating a clear sense of layering. The imaging of Cantor is also tack sharp and precise. I'm particularly impressed by how this IEM reveals and convey minute shifting of the positioning of instruments, such as when the soloist moves slightly in front of a stereo mic. Needless to say, gaming is excellent with this IEM. 
+
+Let's listen to some test tracks to assess the soundstage and imaging capability of Cantor. The first one is **[Original Sound Effect Track - Memory from Gundam Seed Destiny OST album](https://www.youtube.com/watch?v=PhJWAWqExQs)**. This track compiles all sound effects used in the show, arranged atmospherically and immersively. Cantor effectively utilizes this information to create a diverse soundstage, with sound elements appearing in all three dimensions, offering contrast between near and distant sounds. Many elements on the left and right channels will seem to originate outside the ears. Against the venerable 64 Audio U12T, my benchmark for outstanding soundstage and imaging, I'm surprised to find how much sharper the positioning of sound elements is with Cantor. Despite not having as much air vent as U12T, Cantor manages to do a similar job at extending the soundstage to outside the ears.  
+
+The next track is **[Shadow of Baar Dau](https://www.youtube.com/watch?v=RXcLuLQ_5oM)**. This one tests an IEM's ability to convincingly convey the sense of distance of background elements, such as the string section at 00:20 on the front left and the vocal chants on the front right at 00:40. Cantor successfully conveys a spacious sensation and creates an illusion that some background elements come from outside the head. I also find that Cantor has sharper instrument positioning than U12T. However, the slightly blurry presentation of U12T some how make the sense of space and distance in this track more "real" to me. 
+
+In summary, Cantor does an outstanding job at conveying a precise and spacious stereo image. Even as a self-proclaimed soundstage connoisseur, there is not much I can fault Cantor. If I really nitpick, I would say the soundstage of Cantor lacks a certain "special sauce" that some IEMs with the so-called Bone Conduction Driver can convey. Perhaps Cantor II? **5/5 - Outstanding**
 
 _____
 
 Driveability
 ===
 
-Apple dongle? 
-
-R3II?
-
-DX300?
-
+Cantor has a moderate impedance of 20ohm and moderate sensitivity of 106dB/mW @ 1kHz. These specifications place it in the sweet spot of most portable DACs and amplifiers. To put in context, it is sensitive enough to avoid pushing amplifiers into current limit, yet insensitive enough to avoid hissing with most sources, even desktop devices like my FiiO K7 on high gain. I do hear an improvement when pairing Cantor with stronger source device, but I don't feel like I sacrifice a lot of sound quality driving Cantor from smaller DAPs like HiBy R3. Alternatively, I can add a battery powered portable amplifier between my DX300 and Cantor to enjoy additional soundstage expansion and dynamic when I enjoy the IEM at home. Such versatility makes Cantor a candidate for a one-IEM setup. 
 
 _____
 
@@ -230,44 +230,34 @@ The next two differences were rather surprisingly to me. The first one was in th
 
 The final difference, or rather lack of difference, between Z1R and Cantor was the soundstage. Both IEMs craft similarly spacious soundstage that expands in all three dimensions. Cantor pushes the main content at the center of the soundstage forward more, whilst Z1R pulls the midrange back a touch, so in terms of the structure of the soundstage, I prefer Z1R's. However, Cantor takes back the lead when it comes to the incisiveness and precision of the placement of instruments on the soundstage. 
 
+**AFUL Cantor vs Canpur CP54E**: The first difference between these IEMs were sensitivity. AFUL consistently requires 5 to 8 more volume notches on my DX300 to reach the sound loudness level from the balanced output. The second major difference was tuning. AFUL is a neutral / flat IEM whilst CP54E is a V-shaped IEM. In practice, CP54E sounds more punchy and energetic with boosted bass punches and sharper note edges. On the other hand, this tuning also casts a warm "veil" over the midrange of most tracks, giving vocals a warm hue that might be you might consider "musical". Another side effect of this warm veil is reducing the sense of separation between instruments in complex track, making CP54E seem less resolving than Cantor. It is really not the case since CP54E actually has sharper note definition and more detailed treble air than Cantor when both IEMs play a sparse recording, such as Bach's violin partitas. 
+
 _____
 
 Conclusions
 ===
 
-Summary
+If it hasn't been clear, I thoroughly enjoyed my time with Cantor. It has been such a journey since the time AFUL teased the bass tube design of Cantor ages ago, and I'm glad the final result turned out as great as it is. Even though it does not break through the barrier of IEM performance set by the current state-of-the-art, it brings state-of-the-art sound to a much lower budget. The care and attention AFUL puts into the design and engineering of Cantor, the packaging that supports it, and, ultimately, the resulting sound quality firmly place Cantor in the pantheon of "TOTL", in the humble opinion of this reviewer. With Cantor, I see the refinement toward perfection, toward the conclusion, of the classical formula of In-ear Monitor: the full-BA multi-driver topology. Now, there are but two questions. The first question is for you: how much do you need a highly technical IEM with a flat tunning in your collection? 
+
+The second question is for AFUL: What's next, now that you are done with the full-BA topology?
 
 **What I like about this IEM:**
 
-- 
+- Ability to peel apart complex recordings
+- Transparent, natural tonality that gets out of the way of music
+- Vocals are realistic yet beautiful
+- Clean and snappy bass transients 
+- Detailed and textured bass notes
+- Large soundstage with laser sharp imaging
+- Comfortable in long listening sessions
+- Excellent accessories, especially the cable 
 
 **What could be improved:**
 
-- 
+- Limited ear tips compatibility due to the built-in metal tube 
+- The bass quantity might be lacking with some tracks
+- The soundstage lacks certain "special sauce" of IEMs with bone conduction drivers
 
 **Absolute Sonic Quality Rating:** 5/5 - Outstanding
 
 **Bias Score:** 5/5 - I love this IEM!
-
-
-<!-- Third day with this gem.
-
-So I have been wearing this IEM almost nonstop since this morning for commute and background music at work. Happy to report that there has been zero pressure build up because, surprise surprise, this IEM does have a pressure release mechanism similar to 64 Audio APEX. At first, I thought it was by sheer luck that I have no pressure build up, until I read the design document of these IEMs.
-
-Despite pressure release, noise isolation is quite a bit above average, to the point it was kinda uncanny when, say, I saw water from the faucet when I do the dishes, but the sound of the water was so faint that it's almost inaudible with music on. Needless to say, this is not a great option when you need situational awareness.
-
-I also received confirmation that Cantor has a 5-way crossover "with minimal overlap". This puts the crossover design in the upper echelons, just behind the crazy 7-way crossover of STORM.
-
-Regarding scaling, I found that this IEM is not tricky to drive (i.e., not Symphonium/Subtonic level), but it's quite sensitive to the source chain somehow. I'm indifferent about how it sounds with my R3II, but feel much more enthusiastic with DX300 and W4. I guess you can call this "scaling"? I don't know. At 22ohm and 106dB, it sits in the sweet spot of most portable DAC/amp.
-
-Sonic-wise, this IEM is extremely resolving, without any forced clarity or treble harshness (deep fit, of course). I like to throw my familiar tracks on this IEM and sit back and try to pick out all elements of the mix, all the details. I picked out many details in the percussion and bass instruments that I didn't notice before with my other IEMs. -->
-
-<!-- It has 2BA for subbass and 2BA for midbass, so midbass is tight and snappy whilst the subbass is rumbling and textured whenever there is subbass in the music. Not as indulging as big DD bass like Anni 2023 but quite satisfying. Yes, this BA bass is better than U12t to me. -->
-
-<!-- Good question. Thanks
-
-To me, this IEM feels like a professionally calibrated computer screen with very high resolution, and very high contrast. It does not boost the vibrancy (ala "V-shaped" tuning), it does not add some sorts of "film simulation" filter (ala "warm", "musical tuning"), and it does not overly sharpen the image to make it appear more detailed (ala "bright" or "analytical" tuning). But, because of the high contrast (ala "bass boost"), the image is still rather striking.
-
-Of course, one might find this presentation boring and prefer something more colourful, or perhaps a bit imperfect, which is fine. This Cantor IEM wouldn't give you that in the stock tuning, but it's so even across FR so it would be easy to EQ with just a simple 10-band graphical EQ.
-
-I hope this makes some senses
