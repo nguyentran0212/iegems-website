@@ -4,7 +4,7 @@ layout: "single"
 excerpts: "Classical formula perfected"
 toc: true
 header:
-    image: "/assets/images/Symphonium-Crimson/Crimson_summary.jpg"
+    image: "/assets/images/AFUL-Cantor/Cantor_summary.jpg"
 ---
 
 
@@ -340,3 +340,5 @@ The second question is for AFUL: What's next, now that you are done with the ful
 **Absolute Sonic Quality Rating:** 5/5 - Outstanding
 
 **Bias Score:** 5/5 - I love this IEM!
+
+![](/assets/images/AFUL-Cantor/Cantor_summary.jpg)
