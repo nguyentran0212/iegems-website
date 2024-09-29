@@ -1,5 +1,4 @@
 ---
-======
 title: "AFUL Cantor - Classical formula perfected"
 layout: "single"
 excerpts: "Classical formula perfected"
@@ -315,7 +314,7 @@ Conclusions
 
 ![](/assets/images/AFUL-Cantor/Cantor_23.png)
 
-If it hasn't been clear, I thoroughly enjoyed my time with Cantor. It has been such a journey since the time AFUL teased the bass tube design of Cantor ages ago, and I'm glad the final result turned out as great as it is. Even though it does not break through the barrier of IEM performance set by the current state-of-the-art, it brings state-of-the-art sound to a much lower budget. The care and attention AFUL puts into the design and engineering of Cantor, the packaging that supports it, and, ultimately, the resulting sound quality firmly place Cantor in the pantheon of "TOTL", in the humble opinion of this reviewer. With Cantor, I see the refinement toward perfection, toward the conclusion, of the classical formula of In-ear Monitor: the full-BA multi-driver topology. **Seal of approval and recommendation without reservation.**
+If it hasn't been clear, I thoroughly enjoyed my time with Cantor. It has been such a journey since the time AFUL teased the bass tube design of Cantor ages ago, and I'm glad the final result turned out as great as it is. Even though it does not break through the barrier of IEM performance set by the current state-of-the-art, it brings state-of-the-art sound to a much lower budget. The care and attention AFUL puts into the design and engineering of Cantor, the packaging that supports it, and, ultimately, the resulting sound quality firmly place Cantor in the pantheon of "TOTL", in the humble opinion of this reviewer. Whilst we might never reach the "ideal" IEM, with Cantor and other IEMs that would inevitably emerge, I say we are getting closer and closer there, one release at a time. **Seal of approval and recommendation without reservation.**
 
 Moving forward, there are but two questions. The first question is for you: how much do you need a highly technical IEM with a flat tunning in your collection? 
 
