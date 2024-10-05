@@ -111,71 +111,36 @@ The V-shaped tuning of Xeno also imparts a coloring on its midrange. All voices 
 
 Moving up the frequency range, we can find a valley at 6kHz where the MEMS driver takes over from the DD. Whilst the treble frequencies look rather unpleasant on the frequency response graph, they are surprisingly less offensive in real world listening. Yes, you can hear certain gaps in the treble, making some parts of high pitched instruments more prominent whilst others are a bit subdued. The imbalance between various frequencies making up the treble response also makes the timbre of Xeno suffer with some tracks. However, there are also positive aspects, such as a lack of the usual 5-6kHz harshness due to the dip in this region. The way you fit Xeno in your ear canal would play a significant role in how you perceive the treble. Another advantage is the sheer quality and resolution of the treble region, which brings about many advantages in terms of "technical performance", which we will discuss further in the following sections.
 
-Where do the tonality of Xeno fits in the grand scheme? To me, the stock tuning, whilst being rather pleasant and interesting, lacks certain refinement due to the uneven treble response. The V-shape colouring of the midrange also negatively impacts some recordings where accuracy is required. In summary, I consider tonality 3/5 (Good).
+Where do the tonality of Xeno fits in the grand scheme? To me, the stock tuning, whilst being rather pleasant and interesting, lacks certain refinement due to the uneven treble response. The V-shape colouring of the midrange also negatively impacts some recordings where accuracy is required. In summary, I consider tonality 3/5 (Good). At the end of the day, it does not really matter given how EQ is so seamless and integrated part of the experience with Xeno. 
 
 **Bass and perceived dynamic:**
 
-Another area where Xeno eschews the modern tuning is the bass response. When most IEMs focus on sub-bass region and ignore the mid-bass, Xeno does the opposite. I presure that this is a necessary trade-off, as full range DD generally does not do subbass well compared to, say, the DD subwoofer used in the flagship HiBy Zeta. Still, the mid-bass focus response does have a few advantages, which are intensified by the nice quality of the 10mm graphene DD. 
+Another area where Xeno eschews the modern tuning is the bass response. **When most IEMs focus on sub-bass region and ignore the mid-bass, Xeno does the opposite**. I presure that this is a necessary trade-off, as full range DD generally does not do subbass well compared to, say, the DD subwoofer used in the flagship HiBy Zeta. Still, the mid-bass focus response does have a few advantages, which are intensified by the nice quality of the 10mm graphene DD. 
 
-The first advantage is the overall sense of precision and incisiveness of bass attacks. Whilst Xeno does not have razor sharp bass transients like the modern Balanced Armature (BA) woofers implementation, Xeno's bass still feels *tight* with minimal smearing. Moreover, the bass of Xeno also feels powerful and punchy, as if every kick, every pluck of the bass guitar has a weight behind it. Unlike sub-bass focused IEMs where kicks create a physical sensation deeper down in my throat, the physical punch of Xeno feels more like air being pushed against my ear drums. Regarding dynamic, I find Xeno to be quite lively and can convey dynamic swings such as the crescendo at 01:10 in **[A Reckoning in Blood from The Ghost of Tsushima OST](https://www.youtube.com/watch?v=kaBMXXo-vdU)**.
+The first advantage is the overall sense of precision and incisiveness of bass attacks. Whilst Xeno does not have razor sharp bass transients like the modern Balanced Armature (BA) woofers implementation, Xeno's bass still feels *tight* with minimal smearing. Moreover, the bass of Xeno also feels powerful and punchy, as if every kick, every pluck of the bass guitar has a weight behind it. Unlike sub-bass focused IEMs where kicks create a physical sensation deeper down in my throat, the physical punch of Xeno feels more like air being pushed against my ear drums. Beside power, Xeno also does a great job at revealing details and textures of the bass line, which are particularly audible with bass guitars and acoustic basses. 
 
+Regarding dynamic, I find Xeno to be quite lively and can convey dynamic swings such as the crescendo at 01:10 in **[A Reckoning in Blood from The Ghost of Tsushima OST](https://www.youtube.com/watch?v=kaBMXXo-vdU)**. Interestingly, the bass quality of Xeno remains consistent across EQ profiles. Speaking of EQ, the Xeno's DD can some boosting, but I found that the best strategy is to lean onto the mid-bass centric nature of the driver rather than trying to push the sub-bass up.  
 
-
-Overview of the bass and dynamic using the soundwheel terminology:
-- Attack
-- Bass precision
-- Punch
-- Powerful
-
-Let's examine the bass and perceived dynamics of Xeno with some test tracks. The first one is **[A Reckoning in Blood from The Ghost of Tsushima OST](https://www.youtube.com/watch?v=kaBMXXo-vdU)**. I'll focus on the crescendo at 01:10, which an ideal dynamic IEM should effectively communicate. Additionally, the beats from 02:50 need to be strong, snappy, and precise, requiring excellent control across the entire frequency range. Here are key observations about how Xeno performs with this track:
-
-The next track is **[Strength of a Thousand Men (Live) by Two Steps from Hell](https://www.youtube.com/watch?v=POmTXTBtRZA)**. I'll pay attention to the quality bass accompanying each beat. An IEM with perfect bass handling should convey a sense of "grippiness" and texture in the bass region, making the bass line growl rather than low-pitched hum. Lastly, every beat must be snappy and incisive to capture the marching energy of this track. Here are key observations about how Xeno performs with this track:
+In summary, even though the bass of Xeno does not offer as much sub-bass rumble as average IEMs in 2024, Xeno still manages to offer a nice bass experience thanks to the punchy, dynamic, and surprisingly textured bass. **3/5 - Great.**
 
 **Resolution:** *To me, "resolution" can be broken down into three components: (1) Sharpness, incisiveness, or "definition" of note attacks (see the figure above). (2) The separation of instruments and vocals, especially when they overlap on the soundstage. (3) The texture and details in the decay side of the notes. The first two give music clarity and make it easy to track individual elements of a mix. The last provides music details and nuances.*
 
 ![](/assets/images/resolution.jpg)
 
-Describe the resolution using the terminology from soundwheel:
-- Clean
-- Presence
-- Clarity
-- Detailed
-- Natural
+Resolution is where the MEMS drivers flex their capability. I'm not talking about the "fake" resolution achieved by adding treble peaks to artificially sharpen the notes (though the stock tuning of Xeno certainly does have quite a few peaks), a trick commonly found in lower-end DD and some full-range planar IEMs. The problem with this "fake" resolution is that it falls apart the moment music gets busy with overlapping elements or when you actually pay attention more than cursory listening. No, I'm talking about the true ability of an IEM to incisively start the note where it starts and end where it ends. 
 
-Let's elaborate on the resolution of Xeno with some test tracks. For the first track, we again listen to **[Ciaccona from Bach's Violin Partita No. 2 in D Minor, performed by Kavakos](https://www.youtube.com/watch?v=AtA5DbswJ90)**. I focus on the micro details such as the bow catching the strings. I also focus on the quality and nuances of the reverberation and decays of the notes. Here are key observations about how Xeno performs with this track and how it compares against other reference IEMs:
+"Precise" would be the most suitable adjective to describe the presentation of Xeno, particularly the way it handles the treble region. Musical notes, especially higher ones in upper midrange and treble region, feel crisp and clear. At the same time, the decay ends of the note is quite rich in detail. Sparse recordings such as **[Ciaccona from Bach's Violin Partita No. 2 in D Minor, performed by Kavakos](https://www.youtube.com/watch?v=AtA5DbswJ90)** is where the MEMS driver flexes these qualities. I quite enjoy micro details such as the bow catching the strings. I am also impressed by the quality and nuances of the reverberation and decays of the violin in the recording hall. It's hard to really convey by words, but the treble response of these MEMS drivers feel effortless and clear with minimal smearing, making them feels "fast". In fact, I found that the incisiveness of trebleof Xeno is very close to, if not slightly better than, my current benchmark, the AFUL Cantor (5/5 in resolution), in back to back A/B tests. In terms of detail retrieval, Xeno starts to fall behind due to both the uneven treble which maskes some details and perhaps also due to the less resolving nature of the full range DD. 
 
-The next track is the "controlled chaos" **[ABC feat. Sophia Black by Polyphia](https://www.youtube.com/watch?v=Mtd24QIBJ5Y)**. With this track, I focus on an IEM's ability to not crumble under the complexity of overlapping layers in the mix. An IEM with ideal resolution would make it easy for me to hear everything, down to the very faint overdub by Sophia Black on the side channels right from the opening of the track. Here are key observations about how Xeno performs with this track and how it compares against other reference IEMs:
+The full range DD of Xeno is, surprisingly, quite competitive against some "mid-fi" IEMs with multi-BA set up. For instance, when I listen to the "controlled chaos" **[ABC feat. Sophia Black by Polyphia](https://www.youtube.com/watch?v=Mtd24QIBJ5Y)**, I find that Xeno does a nice job at separating elements of this busy track, making it rather easy for me to track individual elements. Whilst Xeno does not achieve the same effortlessness of Cantor, I found that it does a better job than my venerable Moondrop Blessing 2 (3/5 in resolution) in back to back A/B tests. 
+
+In summary, I found the MEMS driver in Xeno quite spectacular when it comes to treble quality, but it is held back by the uneven frequency response and the good-but-not-spectacular full range DD. When these kinks are ironed out, MEMS-based IEMs could present a big leap in technical performance over the IEMs performance we know today. **4/5 - Great**.
+
 
 **Stereo imaging and soundstage:** *Stereo imaging or "soundstage" is a psychoacoustic illusion that different recording elements appear at various locations inside and around your head. Your brain creates based on the cues in the recording, which are enhanced or diminushed by your IEMs, your DAC, and your amplifier. In rare cases, with some specific songs, some IEMs can trick you into thinking that the sound comes from the environment (a.k.a., "holographic")*
 
 ![](/assets/images/soundstage.png)
 
-Overview of the soundstage and imaging capability using the soundwheel terminology.:
-- Spatial extent: depth, width, envelopment
-- Localiation: distance, internality, localisability
-- Reverberation
-
-Let's listen to some test tracks to assess the soundstage and imaging capability of Xeno. The first one is **[Original Sound Effect Track - Memory from Gundam Seed Destiny OST album](https://www.youtube.com/watch?v=PhJWAWqExQs)**. This track compiles all sound effects used in the show, arranged atmospherically and immersively. An IEM with ideal soundstage and imaging should effectively utilize this information to create a diverse soundstage, with sound elements appearing in all three dimensions, offering contrast between near and distant sounds. Many elements on the left and right channels will seem to originate outside the ears. Here are key observations about how Xeno performs with this track and how it compares against other reference IEMs:
-
-The next track is **[Shadow of Baar Dau](https://www.youtube.com/watch?v=RXcLuLQ_5oM)**. This one tests an IEM's ability to convincingly convey the sense of distance of background elements, such as the string section at 00:20 on the front left and the vocal chants on the front right at 00:40. An IEM with perfect soundstage and imaging should make this track feel spacious, creating an illusion that some background elements originate outside the head. In essence, it should provide a fully immersive listening experience. Here are key observations about how Xeno performs with this track and how it compares against other reference IEMs:
-
-
-_____
-
-Driveability
-===
-
-Apple dongle? 
-
-R3II?
-
-DX300?
-
-
-_____
-
-Comparisons
-===
+Another area where MEMS driver excel is stereo imaging. Simply put, they are *spectacularly precise* in how they place sound elements within the virtual soundstage, be it left-to-right or near-to-far or low-to-high. For example, when I listen to **[Original Sound Effect Track - Memory from Gundam Seed Destiny OST album](https://www.youtube.com/watch?v=PhJWAWqExQs)**, a compilation of all sound effects used in the show arranged in an atmospheric and immersive way, Xeno makes me feel like I sit in the middle of a busy battleship preparing to enter the battle, with sound effects popping everywhere inside and around my head with a 3D feel to the presentation. The sense of distance is also properly conveyed in tracks such as **[Shadow of Baar Dau](https://www.youtube.com/watch?v=RXcLuLQ_5oM)**, creating a spacious and immersive experience. These qualities also translate to excellent localisation ability in FPS gaming. For example, when I listen to my usual CS:GO recording for testing IEMs, I found that I can pin point both the local and distance of the sound in all direction with a precision level that is rarely achieved by traditional IEMs. **5/5 - Outstanding.**
 
 
 _____
@@ -183,16 +148,23 @@ _____
 Conclusions
 ===
 
-Summary
+In many ways, Xeno is a first gen product, and with it all the pros and cons commonly associated with a first gen product. For instance, the integration between MEMS and other kinds of drivers still needs more refinement. Perhaps the tuning of the MEMS drivers themselves need further refinement so that the treble becomes more even to minimise masking and prevent imbalances that negative impact the timbre naturalness. At the same time, what has been achieved with Xeno is quite impressive and most of the downsides can be mitigated with some effort thanks to the included PEQ ability. 
+
+Who should get Xeno? Whilst HiBy pitches the IEM as a product for casual listeners, I think the most suitable users of Xeno are hardcore IEM fans, especially those who like to tweak and customise IEMs. With Xeno, you have a superb foundation, thanks to the MEMS driver, to tune that dream IEMs that you have been imaging but lacking the clout to make a collaboration IEM with a manufacturer. 
 
 **What I like about this IEM:**
 
-- 
+- Spectacular treble precision and imaging of MEMS driver 
+- The ability to retune the IEM with a PEQ profile
+- Thumpy bass response
 
 **What could be improved:**
 
-- 
+- Quite difficult to fit due to the short nozzles 
+- Treble is uneven, making EQ quite challenging
+- Sub-bass roll off
+- The stock tuning is rather old-school
 
-**Absolute Sonic Quality Rating:** 5/5 - Outstanding
+**Absolute Sonic Quality Rating:** 4/5 - Great
 
-**Bias Score:** 5/5 - I love this IEM!
+**Bias Score:** 4/5 - I like this IEM
