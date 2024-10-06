@@ -4,7 +4,7 @@ layout: "single"
 excerpts: "A glimpse of the future"
 toc: true
 header:
-    image: "/assets/images/Symphonium-Crimson/Crimson_summary.jpg"
+    image: "/assets/images/HiBy-Xeno/Hiby_Xeno_summary.png"
 ---
 
 What would the future of personal audio look like? Yes, we all know true-wireless stereo earphones (TWS) are taking over, pushing wired IEMs further and further into a niche market. But how about the future of wired IEMs themselves? What would be the next step? Today, we look at HiBy Xeno to catch of glimpse of a possible future. 
@@ -193,4 +193,4 @@ Who should get Xeno? Whilst HiBy pitches the IEM as a product for casual listene
 
 **Bias Score:** 4/5 - I like this IEM
 
-![](/assets/images/HiBy-Xeno/Hiby_Xeno_17.png)
+![](/assets/images/HiBy-Xeno/Hiby_Xeno_summary.png)
