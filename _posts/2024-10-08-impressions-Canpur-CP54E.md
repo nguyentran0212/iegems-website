@@ -4,7 +4,7 @@ layout: "single"
 excerpts: "Refined V-shaped Experience"
 toc: true
 header:
-    image: "/assets/images/Symphonium-Crimson/Crimson_summary.jpg"
+    image: "/assets/images/Canpur-CP54E/Canpur_CP54E_summary.png"
 ---
 
 Today we look at CP54E, one of the high-end offering from the Dutch boutique CANPUR.
@@ -62,7 +62,7 @@ The subjective impression is captured using the lexicon in the Sound Wheel below
 
 **Timbre:** *Figure shows the frequency response of CP54E against the Harman in-ear target. Measurements were done with an IEC-711-compliant coupler and might only be compared with other measurements from this same coupler. Above 8kHz, the measurement likely does not match the response at the ear drum. Visit my [graph database](https://nk-tran.com/iegems-graphtool/) for more comparisons.*
 
-![](/assets/images/Symphonium-Crimson/Crimson_Graph_Harman.png)
+![](/assets/images/Canpur-CP54E/Canpur_CP54E_graph.png)
 
 The tonal signature of CP54E can be described as "V-shaped", but leaning more towards the lower frequencies. Across a variety of recordings in my library, I found that bass instruments like kick drums, bass guitars, cellos, and doublebasses are more highlighted and thus sit closer to me in the mix than other instruments. Treble instruments like cymbals, hats, and high brass instruments are also emphasised, though not as forward as the bass. Midrange instruments and vocals sit further back in the mix. Even though the midrange is not offensively recessed across my library, there were a few tracks when I wanted to turn the volume higher to hear the midrange but I couldn't because the entire mix would become uncomfortably loud. On the plus side, this recessed midrange tuning tends to improve the illusion of depth in recordings, which can suit your preference.   
 
@@ -142,3 +142,5 @@ What do I think about CP54E? I admit I feel a bit conflicted. On the one hand, t
 - Soundstage and imaging: 5/5 - Outstanding
 
 **Bias Score:** 3/5 - I am lukewarm about this IEM
+
+![](/assets/images/Canpur-CP54E/Canpur_CP54E_summary.png)
