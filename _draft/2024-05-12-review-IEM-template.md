@@ -12,7 +12,7 @@ Opening phrase
 Forewords
 ===
 
-- What I look for in an IEM is **immersion.** I want to feel the orchestra around my head, track individual instruments, and hear all of their textures and details. I'm not picky about tonality, as long as it is not make the orchestra, violin, cellos, and pianos sound wrong.
+- What I look for in an IEM is **immersion.** I want to feel the orchestra around my head, track individual instruments, and hear all of their textures and details. I'm not picky about tonality, as long as it does not make the orchestra, violin, cellos, and pianos sound wrong.
 - I rate IEMs within with a consistent scale from **1 (Poor) to 3 (Good) to 5 (Outstanding)**. An overall ranking of 3/5 or above is considered positive. 
 - Ranking list and measurement database are on [my IEM review blog](https://iegems.nk-tran.com/).
 - The terminology for subjective impressions in this review is based on the Audio Wheel for reproduced sound defined in the technical report [ITU-R BS.2399-0](https://www.itu.int/pub/R-REP-BS.2399)
@@ -34,7 +34,7 @@ Non-sound Aspects
 
 **Packaging and accessories**
 
-**Ear pieces design**
+**Earpieces design**
 
 **Fit, comfort and isolation**
 
