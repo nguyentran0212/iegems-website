@@ -4,7 +4,7 @@ layout: "single"
 excerpts: "A new house sound?"
 toc: true
 header:
-    image: "/assets/images/Symphonium-Crimson/Crimson_summary.jpg"
+    image: "/assets/images/ISN-H60/ISN_H60_summary.png"
 ---
 
 ISN Audio H60 has received quite a bit of hype across personal audio communities. Finally, this IEM lands on my review desk. Has the hype been justified? Read on, my friends. 
@@ -133,3 +133,5 @@ Writing a conclusion about H60 has been tricky, since it both exceeds and falls 
 - Soundstage and imaging: 4
 
 **Bias Score:** 4/5 - I like this IEM
+
+![](/assets/images/ISN-H60/ISN_H60_summary.png)
