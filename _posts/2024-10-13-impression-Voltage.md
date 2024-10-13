@@ -16,7 +16,7 @@ Forewords
 - I rate IEMs within with a consistent scale from **1 (Poor) to 3 (Good) to 5 (Outstanding)**. An overall ranking of 3/5 or above is considered positive. 
 - Ranking list and measurement database are on [my IEM review blog](https://iegems.nk-tran.com/).
 - The terminology for subjective impressions in this review is based on the Audio Wheel for reproduced sound defined in the technical report [ITU-R BS.2399-0](https://www.itu.int/pub/R-REP-BS.2399)
-- This review is possible thanks to the Australian tour arranged by Audio Geek group. Special thank you to my friend Kevin for making this tour possible. 
+- This review is possible thanks to the Australian tour arranged by my good friend @Tanalasta. Special thank you for making this tour possible! 
 - The unit retails for $1,199 at the time this review was published. Unaffiliated link: [Penon web shop](https://penonaudio.com/PENON-VOLTAGE.html) 
 
 _____
