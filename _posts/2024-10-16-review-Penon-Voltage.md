@@ -7,7 +7,7 @@ header:
     image: "/assets/images/Symphonium-Crimson/Crimson_summary.jpg"
 ---
 
-Opening phrase
+Today, we look at Voltage, a kilobuck entry from Penon. 
 
 Forewords
 ===
