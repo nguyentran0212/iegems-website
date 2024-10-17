@@ -24,21 +24,28 @@ _____
 General Information
 ===
 
-Technology highlights and discussions.
+Voltage is a tribrid IEM. It contains 10 drivers, split into four groups to handle four different parts of the incoming audio signal. The low frequencies are handled by 2 x 8mm dynamic drivers (DD) with hybrid diaphragm design (biofilm dome + flexible surround). The midrange is handled by 2 Sonion Balanced Armature (BA) drivers. The high frequencies are also handled by 2 Sonion BA drivers. The star of the show is the upper-treble, which is handled by 4 Electrostatic drivers from Sonion. 
 
+Voltage includes two tuning switches to allow user fine-tune the sound signature. 
 
 _____
 
 Non-sound Aspects
 ===
 
-**Packaging and accessories**
+**Packaging and accessories** The box of Voltage is surprisingly small and simple for a kilobuck-class IEM. Luckily, the included accessories are quite generous and practical. Inside the box, you would find:
 
-**Earpieces design**
+- A roomy carrying case
+- A pouch to store individual earpieces to prevent them from scratching each other in the case
+- An IEM cable that is soft and easy to handle + leather cable clasp
+- 3 types of silicone ear tips + leather pouch to store all the tips
+- Cleaning tool and utilities for flipping the tuning switches
 
-**Fit, comfort and isolation**
+**Earpieces design** Voltage shares the same shape and design as other Penon IEMs: hollow handmade acrylic shells, medium size, stubby nozzles. 
 
-**Ear tips recommendation:** 
+**Fit, comfort and isolation** I find that the larger nozzles of Voltage do make my ears fatigued after an hour or so of continuous listening. Other than that, I have no fit or comfort problem. These IEMs are well vented, so I did not experience driver flex or pressure build up. Noise isolation is average.
+
+**Ear tips recommendation:** Due the shape of the nozzles, I don't have any particular ear tips recommendation, besides suggesting you to experiment with more types of ear tips than expected to fine a suitable balance between comfort and sound quality.
 
 
 _____
@@ -47,9 +54,9 @@ Sonic Performance
 ===
 
 **Test setup**: 
-- Sources: 
-- Cable: 
-- Ear tips: 
+- Sources: DX300, L&P W4, Topping G5
+- Cable: Stock cable with 4.4mm termination
+- Ear tips: Pentaconn Coreir AL tips in medium size
 
 The subjective impression is captured using the lexicon in the Sound Wheel below. I'll clarify the terminology as I use them. If you want to see more details of the lexicon and related reference, please have a look at the technical report [ITU-R BS.2399-0](https://www.itu.int/pub/R-REP-BS.2399).
 
@@ -105,22 +112,17 @@ My favourite configuration, which I used for the rest of this review article, is
 *On the scale from fair (Moondrop Aria) to good (Moondrop Blessing 2) to great (CFA Andromeda 2020) to outstanding (AFUL Cantor), how resolving is Voltage?* Voltage is outstandingly resolving (again, with bass switch down and treble switch up). 
 
 
-**Stereo imaging and soundstage:** *Stereo imaging or "soundstage" is a psychoacoustic illusion that different recording elements appear at various locations inside and around your head. Your brain creates based on the cues in the recording, which are enhanced or diminushed by your IEMs, your DAC, and your amplifier. In rare cases, with some specific songs, some IEMs can trick you into thinking that the sound comes from the environment (a.k.a., "holographic")*
+**Stereo imaging and soundstage:** *Stereo imaging or "soundstage" is a psychoacoustic illusion that different recording elements appear at various locations inside and around your head. Your brain creates based on the cues in the recording, which are enhanced or diminished by your IEMs, your DAC, and your amplifier. In rare cases, with some specific songs, some IEMs can trick you into thinking that the sound comes from the environment (a.k.a., "holographic")*
 
 ![](/assets/images/soundstage.png)
 
-Overview of the soundstage and imaging capability using the soundwheel terminology.:
-- Spatial extent: depth, width, envelopment
-- Localiation: distance, internality, localisability
-- Reverberation
+*How does Voltage position instruments in a complex, 3D-sounding recording? (Sample tracks: [Original Sound Effect Track - Memory from Gundam Seed Destiny OST album](https://www.youtube.com/watch?v=PhJWAWqExQs))* The soundstage of Voltage feels spacious, but with more width than depth. It means the stereo image of this track feels expanded to the side, even reaching outside the ears, but it does not convey a strong contrast between near and far sound elements. Therefore, it lacks a certain degree of immersion that I expected. On the plus side, the positioning of sound elements on the stage is quite precise. 
 
-*How does Voltage position instruments in a complex, 3D-sounding recording? (Sample tracks: [Original Sound Effect Track - Memory from Gundam Seed Destiny OST album](https://www.youtube.com/watch?v=PhJWAWqExQs))*
+*How does Voltage convey a sense of space in spacious recordings? (Sample tracks: [Shadow of Baar Dau](https://www.youtube.com/watch?v=RXcLuLQ_5oM))* Even though the soundstage is still somewhat "2D" with more width than depth, Voltage still managed to make this recording sounds rather spacious. One of its advantage is the ability to contrast between the foreground elements and the distant background elements in the mix, by pushing the latter further into the, well, background. 
 
-*How does Voltage convey a sense of space in spacious recordings? (Sample tracks: [Shadow of Baar Dau](https://www.youtube.com/watch?v=RXcLuLQ_5oM))*
+*How does Voltage handle sound positioning in FPS games?* The soundstage is still wider and deep. However, thanks to the precise positioning, it is still rather easy to pinpoint the direction of gunshots and footsteps. The ability to gauge distance is not a strong suit of Voltage, but it is passable. 
 
-*How does Voltage handles sound positioning in FPS games?*
-
-*On the scale from good (Blessing 2) to great (CFA Andromeda 2020) to outstanding (AFUL Cantor), how good is the stereo imaging and soundstage of Voltage?*
+*On the scale from good (Blessing 2) to great (CFA Andromeda 2020) to outstanding (AFUL Cantor), how good is the stereo imaging and soundstage of Voltage?* I find Voltage's soundstage and imaging to fall between Blessing 2 and Andromeda 2020. It sounds less 2D than Blessing 2, and its ability to position instruments on the soundstage is as precise, if not more than Andromeda 2020. However, it lacks the perceived depth to shape an immersive "3D" soundstage illusion. 
 
 
 _____
@@ -129,14 +131,14 @@ Driveability
 ===
 
 Specs:
-- Impedance:
-- Sensitivity
+- Impedance: 13 ohm
+- Sensitivity: 106dB
 
-*How sensitive is Voltage? Does it get loud too easily or is it very difficult to drive?*
+*How sensitive is Voltage? Does it get loud too easily or is it very difficult to drive?* Voltage's sensitivity is somewhat in the middle. It does not pick up hissing noise from amplifier nor get loud too quickly. At the same time, it is not hard to drive. 
 
-*How does Voltage sound with a portable DAC/amp or a small music player?*
+*How does Voltage sound with a portable DAC/amp or a small music player?* Voltage sounds surprisingly good with R3II, my primary setup for listening on the go. I don't feel that I lose significant sound quality with this pairing. 
 
-*How does Voltage "scale" with stronger amplifier?*
+*How does Voltage "scale" with stronger amplifier?* Adding Topping G5 as a pure amplifier between Voltage and a good DAC, such as L&P W4, does improve the sense of scale of Voltage's representation noticeably. The soundstage feels more open, as if every element in the mix is more sharply defined and pushed further away from each other. From this perspective, I can say Voltage does "scale."
 
 
 _____
@@ -144,26 +146,37 @@ _____
 Comparisons
 ===
 
+**Vs AFUL Cantor:**
+- Tonality: Cantor feels more even across the midrange whilst Voltage feels like it some edges and dips. The midrange of Voltage does sound slightly warmer.
+- Bass and dynamic: Cantor has more subbass rumble, whilst Voltage has more perceived mid-bass thump. Depending on where the bass is in the mix, one or the other IEM would have more advantage. Personally, I find Cantor to feel more dynamic more often than Voltage, though the difference is slim. 
+- Resolution: Cantor has a slight upper hand when it comes to instrument separation in busy tracks. On the other hand, Voltage has an advantage when it comes to micro details and resolution of upper treble, which are particularly apparent in sparse recordings where I can focus on details.
+- Soundstage and imaging: Cantor sounds more 3D, which makes it more immersive to me. Both IEMs are equally precise in terms of instrument positioning on the soundstage.
 
 _____
 
 Conclusions
 ===
 
-Summary
+After years of holding the "mid-fi" IEM market by offering a unique cozy house sound and great value, Penon is advancing into the high-end IEM realm, with Voltage as one of the vanguards. And, it gets the job done. Voltage offers a slight twist on the classic Penon house sound to deliver a more neutral and, arguably, more correct tonality without removing the expected pleasing midrange. At the same time, the effective tuning switches allow you to get the classical thick sound back, should you prefer it over the neutral tuning. Voltage also does not disappoint on the technical performance front, taking full advantage of its quad EST tweeter array to deliver excellent detail retrieval, provided that you don't turn on the bass switch, which in turn casts a veil across the presentation. The tonality, versatility, and technical performance makes Voltage a safe option for listerers taking the first plunge into the "kilobuck IEM" land. 
 
 **What I like about this IEM:**
 
-- 
+- Midrange tonality, especially for vocal-centric music 
+- Detailed treble, without harshness
+- The way dual DD woofer produces bass content
+- The sense of rhythm
+- Wide soundstage
+- Versatility offered by the effective tuning switches
 
 **What could be improved:**
 
-- 
+- The soundstage is rather flat, lacking immersion
+- This IEM could benefit from a focused sub-bass boost
 
-**Absolute Sonic Quality Rating:** 5/5 - Outstanding
+**Absolute Sonic Quality Rating:** 4.5/5 - Great!
 - Timbre and tonality: 4.5/5 - Great
 - Bass and dynamic: 5/5 - Outstanding
 - Resolution: 5/5 - Outstanding
-- Soundstage and imaging:
+- Soundstage and imaging: 3.5/5 - Good
 
-**Bias Score:** 5/5 - I love this IEM!
+**Bias Score:** 4/5 - I like this IEM
