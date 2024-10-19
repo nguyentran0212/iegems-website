@@ -1,10 +1,10 @@
 ---
-title: "IEM - Tagline"
+title: "Penon Voltage - Safe and Versatile"
 layout: "single"
-excerpts: "Tagline"
+excerpts: "Safe and Versatile"
 toc: true
 header:
-    image: "/assets/images/Symphonium-Crimson/Crimson_summary.jpg"
+    image: "/assets/images/Penon-Voltage/Penon_Voltage_summary.png"
 ---
 
 Today, we look at Voltage, a kilobuck entry from Penon. 
@@ -33,6 +33,9 @@ _____
 Non-sound Aspects
 ===
 
+![](/assets/images/Penon-Voltage/Penon_Voltage_1.png)
+![](/assets/images/Penon-Voltage/Penon_Voltage_2.png)
+
 **Packaging and accessories** The box of Voltage is surprisingly small and simple for a kilobuck-class IEM. Luckily, the included accessories are quite generous and practical. Inside the box, you would find:
 
 - A roomy carrying case
@@ -41,9 +44,14 @@ Non-sound Aspects
 - 3 types of silicone ear tips + leather pouch to store all the tips
 - Cleaning tool and utilities for flipping the tuning switches
 
+![](/assets/images/Penon-Voltage/Penon_Voltage_6.png)
+![](/assets/images/Penon-Voltage/Penon_Voltage_7.png)
+
 **Earpieces design** Voltage shares the same shape and design as other Penon IEMs: hollow handmade acrylic shells, medium size, stubby nozzles. 
 
 **Fit, comfort and isolation** I find that the larger nozzles of Voltage do make my ears fatigued after an hour or so of continuous listening. Other than that, I have no fit or comfort problem. These IEMs are well vented, so I did not experience driver flex or pressure build up. Noise isolation is average.
+
+![](/assets/images/Penon-Voltage/Penon_Voltage_8.png)
 
 **Ear tips recommendation:** Due the shape of the nozzles, I don't have any particular ear tips recommendation, besides suggesting you to experiment with more types of ear tips than expected to fine a suitable balance between comfort and sound quality.
 
@@ -62,11 +70,13 @@ The subjective impression is captured using the lexicon in the Sound Wheel below
 
 ![](/assets/images/sound-wheel.png)
 
-**Timbre:**  *It is helpful to think of an IEM as a filter that sits between the incoming audio signal and your ear drums. This filter makes some parts of the signal (frequencies) louder whilst other parts quieter. This effect can be measured objectively by the squiggly lines below, called Frequency Response (FR) graphs, which measure how loud an IEM is at different frequencies from 20Hz (bass) to 20kHz (upper treble).  Ideally, an IEM should change the signal as least as possible (a.k.a., "flat tuning") to avoid disturbing the balance between fundamental frequencies of instruments and their harmonics to ensure that they sound natural and life-like. Practically, IEM engineers can tune or "voice" an IEM to deviate carefully from the flat tuning to create interesting colouring and effects on the audio content. This voicing or tonal balance of an IEM can be denoted as its sound signature. Subjectivity is how your ears and brain interpret such sound signature and decide whether it is "enjoyable"*
+**Timbre:** *It is helpful to think of an IEM as a filter that sits between the incoming audio signal and your ear drums. This filter makes some parts of the signal (frequencies) louder whilst other parts quieter. This effect can be measured objectively by the squiggly lines below, called Frequency Response (FR) graphs, which measure how loud an IEM is at different frequencies from 20Hz (bass) to 20kHz (upper treble).  Ideally, an IEM should change the signal as least as possible (a.k.a., "flat tuning") to avoid disturbing the balance between fundamental frequencies of instruments and their harmonics to ensure that they sound natural and life-like. Practically, IEM engineers can tune or "voice" an IEM to deviate carefully from the flat tuning to create interesting colouring and effects on the audio content. This voicing or tonal balance of an IEM can be denoted as its sound signature. Subjectivity is how your ears and brain interpret such sound signature and decide whether it is "enjoyable"*
 
 ![](/assets/images/Penon-Voltage/Penon_Voltage_graph.png)
 
 *Figure shows the frequency response of Voltage against the Harman in-ear target. Measurements were done with an IEC-711-compliant coupler and might only be compared with other measurements from this same coupler. Above 8kHz, the measurement likely does not match the response at the ear drum. Visit my [graph database](https://nk-tran.com/iegems-graphtool/) for more comparisons.*
+
+![](/assets/images/Penon-Voltage/Penon_Voltage_3.png)
 
 *How do you describe the overall sound signature of Voltage?* Voltage has 4 different sound signatures thanks to the inclusion of two effective tuning switches. The left switch lifts the entire bass and midrange region below 1kHz by up to 3dB, which essentially double the amount of energy in this region and thus quite audible. The right switch lifts the treble region from around 5kHz by up to 3dB. You can engage both switches at the same time. 
 
@@ -76,6 +86,7 @@ When the right switch is on (denoted as x1 configuration in this article), the t
 
 My favourite configuration, which I used for the rest of this review article, is 01. It strikes a right balance between warmth and correct tonality, whilst highlighting the details and resolution offered by the four EST tweeters. 
 
+![](/assets/images/Penon-Voltage/Penon_Voltage_4.png)
 
 *How does Voltage balance different voices and instruments in a band? (Sample tracks: [ABC feat. Sophia Black by Polyphia](https://www.youtube.com/watch?v=Mtd24QIBJ5Y))* The tonal balance of Voltage, at least in configuration 01, is surprisingly balanced. The singer is highlighted, but not at the expense of the rest of the band. Kick drum and toms sound powerful and prominent. Bass guitar is audible, though not overly highlighted. Cymbals and hats are audible and easily tracked. No part of the band feels recessed that makes me want to change the volume to hear more clearly. 
 
@@ -87,6 +98,7 @@ My favourite configuration, which I used for the rest of this review article, is
 
 *How does Voltage reproduce strings and orchestra? (Sample tracks: [Now We Are Free by 2CELLOS](https://www.youtube.com/watch?v=74CYIdYoQ5w), [Ciaccona from Bach's Violin Partita No.2 in D Minor, performed by Kavakos](https://www.youtube.com/watch?v=AtA5DbswJ90), [Synchro BOM-BA-YE by Tokyo Kosei Wind Orchestra](https://www.youtube.com/watch?v=4lwPiXnOGZ4))* Does voltage handle cellos well? *Rather good.* The main cellos in Now We Are Free sound clear without lacking the low-end *oomph*, at least with the 01 configuration. With the 1x configuration, Voltage makes the cellos too boomy and unrefined. Voltage also does an excellent job with violin, reproducing a clean, clear, somewhat dry and textured tone, that is very close to how violin sounds in real life. The theme of tonal correctness carries over to orchestra and brass. I couldn't detect any tonality problem in Synchro BOM-BA-YE, a track that usually reveals treble problems. 
 
+![](/assets/images/Penon-Voltage/Penon_Voltage_9.png)
 
 **Percussion, Bass, and perceived dynamic:** *In this section, my focus is the not just the bass, but rather the sense of dynamic of an IEM. Can it convey the sense of beat and rhythm? Can it reproduce transients, the fast and large jump of loudness in the music? Simply put, is this IEM toe-tapping? Creating this energy requires all parts of the frequency spectrum working together: treble energy around 4-6kHz conveys snappy attacks of stick hitting percussive instruments at the beginning of a beat, bass energy around 150Hz conveys the punchy sensation of the beat itself, whilst the subbass energy below 60Hz creates the physical rumble sensation that convey power and atmosphere. Weak treble response dulls the attacks. Weak bass makes beats hollow. Too much bass makes bassline blurry and dulls the sense of rhythm. Thus, "dynamic IEM" is a balancing art.*
 
@@ -97,6 +109,7 @@ My favourite configuration, which I used for the rest of this review article, is
 
 *In conclusion, is Voltage ... toe-tapping?* Yes. A bit more bass quantity with the same refinement as the 01 configuration would be nice, but it's okay as is. 
 
+![](/assets/images/Penon-Voltage/Penon_Voltage_10.png)
 
 **Resolution:** *To me, "resolution" can be broken down into three components: (1) Sharpness, incisiveness, or "definition" of note attacks (see the figure below). (2) The separation of instruments and vocals, especially when they overlap on the soundstage. (3) The texture and details in the decay side of the notes. The first two give music clarity and make it easy to track individual elements of a mix. The last provides music details and nuances. Whilst IEMs can "force" clarity by boosting treble to unnatural level, it might still lack resolution as it cannot "peel apart" complex tracks with overlapping instruments*
 
@@ -111,6 +124,7 @@ My favourite configuration, which I used for the rest of this review article, is
 
 *On the scale from fair (Moondrop Aria) to good (Moondrop Blessing 2) to great (CFA Andromeda 2020) to outstanding (AFUL Cantor), how resolving is Voltage?* Voltage is outstandingly resolving (again, with bass switch down and treble switch up). 
 
+![](/assets/images/Penon-Voltage/Penon_Voltage_5.png)
 
 **Stereo imaging and soundstage:** *Stereo imaging or "soundstage" is a psychoacoustic illusion that different recording elements appear at various locations inside and around your head. Your brain creates based on the cues in the recording, which are enhanced or diminished by your IEMs, your DAC, and your amplifier. In rare cases, with some specific songs, some IEMs can trick you into thinking that the sound comes from the environment (a.k.a., "holographic")*
 
@@ -180,3 +194,5 @@ After years of holding the "mid-fi" IEM market by offering a unique cozy house s
 - Soundstage and imaging: 3.5/5 - Good
 
 **Bias Score:** 4/5 - I like this IEM
+
+![](/assets/images/Penon-Voltage/Penon_Voltage_summary.png)
