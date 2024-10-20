@@ -4,7 +4,7 @@ layout: "single"
 excerpts: "Uncanny Valley"
 toc: true
 header:
-    image: "/assets/images/Symphonium-Crimson/Crimson_summary.jpg"
+    image: "/assets/images/DITA-ProjectM/Project_M_summary.jpg"
 ---
 
 Today, we look at Project M, a mid-fi offering from the veteran manufacturer DITA from Singapore.
@@ -28,20 +28,42 @@ Project M is a two-driver hybrid IEM. Its driver topology comprises a 9.8mm dyna
 
 One of the aspects that caught my attention about Project M was the story and the people behind it. I'll let DITA [tell the story themselves](https://www.youtube.com/watch?v=8BeRiBIV0YQ).
 
-
-
 _____
 
 Non-sound Aspects
 ===
 
-**Packaging and accessories**
+![](/assets/images/DITA-ProjectM/Project_M_1.JPG)
+![](/assets/images/DITA-ProjectM/Project_M_2.JPG)
+![](/assets/images/DITA-ProjectM/Project_M_3.JPG)
+![](/assets/images/DITA-ProjectM/Project_M_4.JPG)
+![](/assets/images/DITA-ProjectM/Project_M_5.JPG)
 
-**Earpieces design**
+**Packaging and accessories** The packaging of Project M is rather nice. I like how DITA turn the grid of the frequency response graph into a design element of the box itself. The inner box of Project M also feels refined and ... expensive thanks to the cloth wrap DITA uses on top of the cardboard. 
 
-**Fit, comfort and isolation**
+The show continues with the accessories, which are surprisingly thoughtful. In the box, you will find:
 
-**Ear tips recommendation:** 
+- A systainer3 box from TANOS, acting as the carrying case. It's nifty and tough. 
+- A custom-made IEM cable built from the famous Cardas wires, a highly sought-after conductor for headphones and IEM cables. The cable terminates in an in-house developed interchangeable plug system that feels quite strong and reliable.
+- A full set of special edition Final Type E eartips. The unique feature of these tips is that they can glow in the dark. Sonic wise, they are very similar, if not identical, to the normal Final Audio Type E eartips.
+
+
+![](/assets/images/DITA-ProjectM/Project_M_6.JPG)
+![](/assets/images/DITA-ProjectM/Project_M_7.JPG)
+![](/assets/images/DITA-ProjectM/Project_M_8.JPG)
+![](/assets/images/DITA-ProjectM/Project_M_9.JPG)
+![](/assets/images/DITA-ProjectM/Project_M_10.JPG)
+![](/assets/images/DITA-ProjectM/Project_M_11.JPG)
+![](/assets/images/DITA-ProjectM/Project_M_12.JPG)
+
+**Earpieces design** Project M is one of the most beautiful IEMs I have ever seen in real-life, period. I like how the stainless steel casing of the driver is suspended at an angle in the clear resin shell and connected to the stainless steel nozzle via a semi-clear tube. I also like how DITA hides the wiring for the Knowles tweeter in the nozzles. 
+
+![](/assets/images/DITA-ProjectM/Project_M_13.JPG)
+![](/assets/images/DITA-ProjectM/Project_M_14.JPG)
+
+**Fit, comfort and isolation** Besides the nice look, I'm happy to report that Project M also feels quite comfortable in long listening session. I did not experience pressure build up, driver flex, or any other comfort problem with this IEM.
+
+**Ear tips recommendation:** I recommend going one size smaller than usual with ear tips so that I can can fit these IEMs deeper into your ear canal. It's one way to keep the treble somewhat under control. The stock Final Type E ear tips are a good choice.
 
 
 _____
@@ -60,15 +82,18 @@ The subjective impression is captured using the lexicon in the Sound Wheel below
 
 **Timbre:** *It is helpful to think of an IEM as a filter that sits between the incoming audio signal and your ear drums. This filter makes some parts of the signal (frequencies) louder whilst other parts quieter. This effect can be measured objectively by the squiggly lines below, called Frequency Response (FR) graphs, which measure how loud an IEM is at different frequencies from 20Hz (bass) to 20kHz (upper treble).  Ideally, an IEM should change the signal as least as possible (a.k.a., "flat tuning") to avoid disturbing the balance between fundamental frequencies of instruments and their harmonics to ensure that they sound natural and life-like. Practically, IEM engineers can tune or "voice" an IEM to deviate carefully from the flat tuning to create interesting colouring and effects on the audio content. This voicing or tonal balance of an IEM can be denoted as its sound signature. Subjectivity is how your ears and brain interpret such sound signature and decide whether it is "enjoyable"*
 
-![](/assets/images/Symphonium-Crimson/Crimson_Graph_Harman.png)
+![](/assets/images/DITA-ProjectM/ProjectM_graph.png)
 
 *Figure shows the frequency response of Project M against the Harman in-ear target. Measurements were done with an IEC-711-compliant coupler and might only be compared with other measurements from this same coupler. Above 8kHz, the measurement likely does not match the response at the ear drum. Visit my [graph database](https://nk-tran.com/iegems-graphtool/) for more comparisons.*
+
 
 *How do you describe the overall sound signature of Project M?* U-shaped IEM with **very generous treble boost**. The boost is pushed higher into the 8-12kHz region rather than the usual 5-6kHz, so the impact of this treble boost would be different from the usual shoutiness or "ice-pick" harshness that you usually find on "bright" IEM. **The bass is boosted above neutral, but still feel rather natural**. The midrange is quite flat and neutral compared to the hyped up treble. That said, the midrange of Project M also has a subtle colouring as it feels **warmer and denser than a "flat" or "neutral" tuned IEM**. This warmth comes from a more reserved upper midrange rather than a boosted lower-midrange. 
 
 *How does Project M balance different voices and instruments in a band? (Sample tracks: [ABC feat. Sophia Black by Polyphia](https://www.youtube.com/watch?v=Mtd24QIBJ5Y))* First thing first: holy moly the sibilance! For example around 00:43 where Sophia Black sings "how you hold the bat when you *swing*", I rarely hear such strong "s" sibilance in a modern IEM in the mid-fi price bracket. Regarding tonal balance, I find that cymbals and hats are a touch more emphasised than the rest of the band. However, taken as a whole, Project M presents the band in a balanced manner. 
 
 *How does Project M balance different parts of a piano? (Sample tracks: [Bach's Goldberg Variations, recorded by Lang Lang](https://youtu.be/linQUK6jNmg?si=v_2nz6exiNXsZUjU))* The treble voice is noticeably more emphasised than other voices and can sound harsh when it is played louder. Surprisingly, I also hear a warmth hue cast over the midrange and bass voices. 
+
+![](/assets/images/DITA-ProjectM/Project_M_15.JPG)
 
 *How does the midrange of Project M handle vocals? (Sample tracks: [Dreamland Express by John Denver](https://youtu.be/6pqfoBUTFdk?si=oxKzIDQ42CfgCyuf), [Kiwi wa Boku ni Niteiru by See-Saw](https://www.youtube.com/watch?v=U6BkF23UPbM))* The way Project M presents the voice of John Denver is rather strange. Taken as a whole, Project M presents his voice with a sense of warmth that is rather pleasing. However, such warmth contrast against the abrasive, metallic edge of higher notes. For example, the line "couldn't believe it" around 00:38 feels ... uncanny due the clash between midrange and treble. Higher voices like that of Chiaki Ishikawa of See-Saw fare better with Project M. 
 
@@ -79,6 +104,7 @@ The subjective impression is captured using the lexicon in the Sound Wheel below
 
 **Percussion, Bass, and perceived dynamic:** *In this section, my focus is the not just the bass, but rather the sense of dynamic of an IEM. Can it convey the sense of beat and rhythm? Can it reproduce transients, the fast and large jump of loudness in the music? Simply put, is this IEM toe-tapping? Creating this energy requires all parts of the frequency spectrum working together: treble energy around 4-6kHz conveys snappy attacks of stick hitting percussive instruments at the beginning of a beat, bass energy around 150Hz conveys the punchy sensation of the beat itself, whilst the subbass energy below 60Hz creates the physical rumble sensation that convey power and atmosphere. Weak treble response dulls the attacks. Weak bass makes beats hollow. Too much bass makes bassline blurry and dulls the sense of rhythm. Thus, "dynamic IEM" is a balancing art.*
 
+![](/assets/images/DITA-ProjectM/Project_M_16.JPG)
 
 *How does Project M convey "epic" bass lines? (Sample tracks: [Heart of Courage (Live) by Two Steps From Hell](https://youtu.be/1Qvp-w24z1U?si=44knlswJcyf7Ez2z), [A Reckoning in Blood from The Ghost of Tsushima OST](https://www.youtube.com/watch?v=kaBMXXo-vdU))* To my surprise, Project M does a bloody great job with the big war drum used by Two Steps From Hell at around 00:30. The drum have clean and precise attack with great detail. More importantly, it can convey **impact**. I have the same impressions with the drum line in the Ghost of Tsushima OST. Project M is toe-tapping.
 
@@ -91,13 +117,6 @@ The subjective impression is captured using the lexicon in the Sound Wheel below
 
 ![](/assets/images/resolution.jpg)
 
-Describe the resolution using the terminology from soundwheel:
-- Clean
-- Presence
-- Clarity
-- Detailed
-- Natural
-
 *Can Project M handle complex, overlapping recordings? (Sample tracks: [ABC feat. Sophia Black by Polyphia](https://www.youtube.com/watch?v=Mtd24QIBJ5Y))* Yes, but only to a certain degree. Whilst the mix does not feel too blurry or messy, the separation between instruments does falter as the mix gets more busy.
 
 *Can Project M handle recordings with congested lower frequencies? (Sample tracks: [Now We Are Free performed by 2CELLOS](https://youtu.be/74CYIdYoQ5w?si=QcKrIFSifRzBHt2i))* To my surprise, the presentation of Project M with this track is only fair. When the two main cellos, the cello section, and the doublebasses from the orchestra compete for the same frequency band, the separation between these instruments starts to lose clarity, which in turns bring the perceived resolution of the whole recording down.
@@ -106,19 +125,15 @@ Describe the resolution using the terminology from soundwheel:
 
 *On the scale from fair (Moondrop Aria) to good (Moondrop Blessing 2) to great (CFA Andromeda 2020) to outstanding (AFUL Cantor), how resolving is Project M?* Good. 
 
-
 **Stereo imaging and soundstage:** *Stereo imaging or "soundstage" is a psychoacoustic illusion that different recording elements appear at various locations inside and around your head. Your brain creates based on the cues in the recording, which are enhanced or diminushed by your IEMs, your DAC, and your amplifier. In rare cases, with some specific songs, some IEMs can trick you into thinking that the sound comes from the environment (a.k.a., "holographic")*
 
 ![](/assets/images/soundstage.png)
 
-Overview of the soundstage and imaging capability using the soundwheel terminology.:
-- Spatial extent: depth, width, envelopment
-- Localiation: distance, internality, localisability
-- Reverberation
-
 *How does Project M position instruments in a complex, 3D-sounding recording? (Sample tracks: [Original Sound Effect Track - Memory from Gundam Seed Destiny OST album](https://www.youtube.com/watch?v=PhJWAWqExQs))* Project M does a rather good job. Elements of the mix feel spread out with good sense of space between them. Some front-left and front-right elements feel like they pop out of the head stage to come from the room. I would say the width of the soundstage is strong whilst the illusion of depth is above average.
 
 *How does Project M convey a sense of space in spacious recordings? (Sample tracks: [Shadow of Baar Dau](https://www.youtube.com/watch?v=RXcLuLQ_5oM))* Given the right track, Project M can convey the sense of spaciousness quite well.
+
+![](/assets/images/DITA-ProjectM/Project_M_17.JPG)
 
 *How does Project M handles sound positioning in FPS games?* Surprisingly good. Footsteps and gunshots feel more spreadout and out-of-head. Whilst the soundstage has more width than depth, Project M can still convey the direction and distance of sound with great precision.
 
@@ -168,3 +183,5 @@ Writing the conclusion section of a review article is always the hard part. It's
 - Soundstage and imaging: 3.5/5 - Good
 
 **Bias Score:** 2/5 - I don't like this IEM
+
+![](/assets/images/DITA-ProjectM/Project_M_summary.jpg)
