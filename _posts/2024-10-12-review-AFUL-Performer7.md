@@ -17,7 +17,7 @@ Forewords
 - Ranking list and measurement database are on [my IEM review blog](https://iegems.nk-tran.com/).
 - The terminology for subjective impressions in this review is based on the Audio Wheel for reproduced sound defined in the technical report [ITU-R BS.2399-0](https://www.itu.int/pub/R-REP-BS.2399)
 - **This review is based on a review sample from AFUL, arranged by Hifigo (Thank you!).** I have no affiliation with or financial interest in AFUL and Hifigo. 
-- The unit retails for $xxxx at the time this review was published. Unaffiliated link: [Hifigo web store](https://hifigo.com/products/aful-performer-5-2-performer-7)
+- The unit retails for AUD$366 at the time this review was published. Unaffiliated link: [Hifigo web store](https://hifigo.com/products/aful-performer-5-2-performer-7)
 
 _____
 
@@ -66,17 +66,16 @@ The subjective impression is captured using the lexicon in the Sound Wheel below
 
 *Figure shows the frequency response of Performer 7 against the Harman in-ear target. Measurements were done with an IEC-711-compliant coupler and might only be compared with other measurements from this same coupler. Above 8kHz, the measurement likely does not match the response at the ear drum. Visit my [graph database](https://nk-tran.com/iegems-graphtool/) for more comparisons.*
 
-*How do you describe the overall sound signature of XXXX?* 
+I would describe the tonality of P7 as **"mild V-shape"**. It has a boosted bass, slightly lifted lower midrange, and a certain degree of emphasis in the treble. However, the boosted frequencies are not overly exaggerated, thus keeping the overall tonality and the perceived "contrast" of P7's presentation at a level that I consider neutral. As a result, all recordings across genres sound very balanced and natural with P7. It does not lack bass, yet does not make bass overshadow other parts of the mix. It does make treble stand out, without making treble too pronounced and fatiguing. I did not detect any problem in how P7 balances different sections in a large orchestra, different voices in a piano solo, nor different voices and instruments within a rock band. If I were to really nitpick, I would say the lower voices in piano solos sound a smidgen louder than how they should be. 
 
-*How does XXXX balance different voices and instruments in a band? (Sample tracks: [ABC feat. Sophia Black by Polyphia](https://www.youtube.com/watch?v=Mtd24QIBJ5Y))*
+Where P7 truly shines is how it presents the midrange. Thanks to the subtle lift in the lower midrange and the impeccable balance against the upper midrange, the midrange of P7 has a subtle warmth to make voices and instruments more pleasing (or dare I say... "musical"), I'm particularly impressed by how P7 handles
 
-*How does XXXX balance different parts of a piano? (Sample tracks: [Bach's Goldberg Variations, recorded by Lang Lang](https://youtu.be/linQUK6jNmg?si=v_2nz6exiNXsZUjU))*
 
-*How does the midrange of XXXX handle vocals? (Sample tracks: [Dreamland Express by John Denver](https://youtu.be/6pqfoBUTFdk?si=oxKzIDQ42CfgCyuf), [Kiwi wa Boku ni Niteiru by See-Saw](https://www.youtube.com/watch?v=U6BkF23UPbM))*
+*How does the midrange of P7 handle vocals? (Sample tracks: [Dreamland Express by John Denver](https://youtu.be/6pqfoBUTFdk?si=oxKzIDQ42CfgCyuf), [Kiwi wa Boku ni Niteiru by See-Saw](https://www.youtube.com/watch?v=U6BkF23UPbM))*
 
-*How does XXXX handle sibilant recordings? (Sample tracks: [Shivers by Ed Sheeran](https://www.youtube.com/watch?v=z2_Lrg6rRks))*
+*How does P7 handle sibilant recordings? (Sample tracks: [Shivers by Ed Sheeran](https://www.youtube.com/watch?v=z2_Lrg6rRks))*
 
-*How does XXXX reproduce strings and orchestra? (Sample tracks: [Now We Are Free by 2CELLOS](https://www.youtube.com/watch?v=74CYIdYoQ5w), [Ciaccona from Bach's Violin Partita No.2 in D Minor, performed by Kavakos](https://www.youtube.com/watch?v=AtA5DbswJ90), [Synchro BOM-BA-YE by Tokyo Kosei Wind Orchestra](https://www.youtube.com/watch?v=4lwPiXnOGZ4))*
+*How does P7 reproduce strings and orchestra? (Sample tracks: [Now We Are Free by 2CELLOS](https://www.youtube.com/watch?v=74CYIdYoQ5w), [Ciaccona from Bach's Violin Partita No.2 in D Minor, performed by Kavakos](https://www.youtube.com/watch?v=AtA5DbswJ90), [Synchro BOM-BA-YE by Tokyo Kosei Wind Orchestra](https://www.youtube.com/watch?v=4lwPiXnOGZ4))*
 
 
 **Percussion, Bass, and perceived dynamic:** *In this section, my focus is the not just the bass, but rather the sense of dynamic of an IEM. Can it convey the sense of beat and rhythm? Can it reproduce transients, the fast and large jump of loudness in the music? Simply put, is this IEM toe-tapping? Creating this energy requires all parts of the frequency spectrum working together: treble energy around 4-6kHz conveys snappy attacks of stick hitting percussive instruments at the beginning of a beat, bass energy around 150Hz conveys the punchy sensation of the beat itself, whilst the subbass energy below 60Hz creates the physical rumble sensation that convey power and atmosphere. Weak treble response dulls the attacks. Weak bass makes beats hollow. Too much bass makes bassline blurry and dulls the sense of rhythm. Thus, "dynamic IEM" is a balancing art.*
@@ -87,11 +86,11 @@ Overview of the bass and dynamic using the soundwheel terminology:
 - Punch
 - Powerful
 
-*How does XXXX convey "epic" bass lines? (Sample tracks: [Heart of Courage (Live) by Two Steps From Hell](https://youtu.be/1Qvp-w24z1U?si=44knlswJcyf7Ez2z), [A Reckoning in Blood from The Ghost of Tsushima OST](https://www.youtube.com/watch?v=kaBMXXo-vdU))*
+*How does P7 convey "epic" bass lines? (Sample tracks: [Heart of Courage (Live) by Two Steps From Hell](https://youtu.be/1Qvp-w24z1U?si=44knlswJcyf7Ez2z), [A Reckoning in Blood from The Ghost of Tsushima OST](https://www.youtube.com/watch?v=kaBMXXo-vdU))*
 
-*How does XXXX handle a drum kit and bass guitar? (Sample tracks: [Playing God by Polyphia](https://youtu.be/Z5NoQg8LdDk?si=eEQGevLZb1SE-FVY))*
+*How does P7 handle a drum kit and bass guitar? (Sample tracks: [Playing God by Polyphia](https://youtu.be/Z5NoQg8LdDk?si=eEQGevLZb1SE-FVY))*
 
-*In conclusion, is XXXX ... toe-tapping?*
+*In conclusion, is P7 ... toe-tapping?*
 
 
 **Resolution:** *To me, "resolution" can be broken down into three components: (1) Sharpness, incisiveness, or "definition" of note attacks (see the figure below). (2) The separation of instruments and vocals, especially when they overlap on the soundstage. (3) The texture and details in the decay side of the notes. The first two give music clarity and make it easy to track individual elements of a mix. The last provides music details and nuances. Whilst IEMs can "force" clarity by boosting treble to unnatural level, it might still lack resolution as it cannot "peel apart" complex tracks with overlapping instruments*
@@ -105,13 +104,13 @@ Describe the resolution using the terminology from soundwheel:
 - Detailed
 - Natural
 
-*Can XXXX handle complex, overlapping recordings? (Sample tracks: [ABC feat. Sophia Black by Polyphia](https://www.youtube.com/watch?v=Mtd24QIBJ5Y))*
+*Can P7 handle complex, overlapping recordings? (Sample tracks: [ABC feat. Sophia Black by Polyphia](https://www.youtube.com/watch?v=Mtd24QIBJ5Y))*
 
-*Can XXXX handle recordings with congested lower frequencies? (Sample tracks: [Now We Are Free performed by 2CELLOS](https://youtu.be/74CYIdYoQ5w?si=QcKrIFSifRzBHt2i))*
+*Can P7 handle recordings with congested lower frequencies? (Sample tracks: [Now We Are Free performed by 2CELLOS](https://youtu.be/74CYIdYoQ5w?si=QcKrIFSifRzBHt2i))*
 
-*How does XXXX convey micro details? (Sample tracks: [Ciaccona from Bach's Violin Partita No. 2 in D Minor, performed by Kavakos](https://www.youtube.com/watch?v=AtA5DbswJ90))*
+*How does P7 convey micro details? (Sample tracks: [Ciaccona from Bach's Violin Partita No. 2 in D Minor, performed by Kavakos](https://www.youtube.com/watch?v=AtA5DbswJ90))*
 
-*On the scale from fair (Moondrop Aria) to good (Moondrop Blessing 2) to great (CFA Andromeda 2020) to outstanding (AFUL Cantor), how resolving is XXXX?*
+*On the scale from fair (Moondrop Aria) to good (Moondrop Blessing 2) to great (CFA Andromeda 2020) to outstanding (AFUL Cantor), how resolving is P7?*
 
 
 **Stereo imaging and soundstage:** *Stereo imaging or "soundstage" is a psychoacoustic illusion that different recording elements appear at various locations inside and around your head. Your brain creates based on the cues in the recording, which are enhanced or diminushed by your IEMs, your DAC, and your amplifier. In rare cases, with some specific songs, some IEMs can trick you into thinking that the sound comes from the environment (a.k.a., "holographic")*
@@ -123,13 +122,13 @@ Overview of the soundstage and imaging capability using the soundwheel terminolo
 - Localiation: distance, internality, localisability
 - Reverberation
 
-*How does XXXX position instruments in a complex, 3D-sounding recording? (Sample tracks: [Original Sound Effect Track - Memory from Gundam Seed Destiny OST album](https://www.youtube.com/watch?v=PhJWAWqExQs))*
+*How does P7 position instruments in a complex, 3D-sounding recording? (Sample tracks: [Original Sound Effect Track - Memory from Gundam Seed Destiny OST album](https://www.youtube.com/watch?v=PhJWAWqExQs))*
 
-*How does XXXX convey a sense of space in spacious recordings? (Sample tracks: [Shadow of Baar Dau](https://www.youtube.com/watch?v=RXcLuLQ_5oM))*
+*How does P7 convey a sense of space in spacious recordings? (Sample tracks: [Shadow of Baar Dau](https://www.youtube.com/watch?v=RXcLuLQ_5oM))*
 
-*How does XXXX handles sound positioning in FPS games?*
+*How does P7 handles sound positioning in FPS games?*
 
-*On the scale from good (Blessing 2) to great (CFA Andromeda 2020) to outstanding (AFUL Cantor), how good is the stereo imaging and soundstage of XXXX?*
+*On the scale from good (Blessing 2) to great (CFA Andromeda 2020) to outstanding (AFUL Cantor), how good is the stereo imaging and soundstage of P7?*
 
 
 _____
