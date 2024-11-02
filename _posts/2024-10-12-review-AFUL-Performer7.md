@@ -66,29 +66,20 @@ The subjective impression is captured using the lexicon in the Sound Wheel below
 
 *Figure shows the frequency response of Performer 7 against the Harman in-ear target. Measurements were done with an IEC-711-compliant coupler and might only be compared with other measurements from this same coupler. Above 8kHz, the measurement likely does not match the response at the ear drum. Visit my [graph database](https://nk-tran.com/iegems-graphtool/) for more comparisons.*
 
-Overview of the timbre and tonal balance, with reference to the frequency response. Use the terminology of sound wheel.
-- Timbral balance: dark-bright, full, homogeneous
-- Midrange: nasal? canny? strength?
-- Treble: brilliance, tinny? treble strength?
-- Bass: bass strength? depth? boomy? boxy?
+*How do you describe the overall sound signature of XXXX?* 
 
-Next, let's discuss how Performer 7 present various types of voices and instruments in some test tracks. The first track is **[Shivers by Ed Sheeran](https://www.youtube.com/watch?v=z2_Lrg6rRks)**, which is invaluable for checking the harshness and sibilance of an IEM, as well as its balance across the midrange frequencies. An IEM with ideal tonal balance would be able to control the harshness (e.g., starting from the chorus section) and imbue an emotive "warmth" to Ed's voice without making it muted or muffled. Here are key observations about how Performer 7 performs with this track:
+*How does XXXX balance different voices and instruments in a band? (Sample tracks: [ABC feat. Sophia Black by Polyphia](https://www.youtube.com/watch?v=Mtd24QIBJ5Y))*
 
-The next track is **[Kiwi wa Boku ni Niteiru by See-Saw](https://www.youtube.com/watch?v=U6BkF23UPbM)**, which is an excellent song to test the ability of an IEM to handle female vocals in "weeb musics." An IEM with ideal tonal balance should be able to make the voice of Chiaki Ishikawa bright and clear, while maintaining enough energy in the lower midrange to avoid making the voice thin and harsh (a common problem with many IEMs with too much upper midrange boost). Here are key observations about how Performer 7 performs with this track:
+*How does XXXX balance different parts of a piano? (Sample tracks: [Bach's Goldberg Variations, recorded by Lang Lang](https://youtu.be/linQUK6jNmg?si=v_2nz6exiNXsZUjU))*
 
-The next track is **[Now We Are Free by 2CELLOS](https://www.youtube.com/watch?v=74CYIdYoQ5w)**, which assesses an IEM's ability to render lower-midrange, particularly cellos. An IEM with ideal tonal balance should render cellos with a thick and authoritative tone and be able to reproduce the low pitch resonance and "rumble" of the cello body. At the same time, it must avoid cutting the upper midrange and treble to the point of making the cellos sound muffled, muddy, or lacking clear articulation. Here are key observations about how Performer 7 performs with this track:
+*How does the midrange of XXXX handle vocals? (Sample tracks: [Dreamland Express by John Denver](https://youtu.be/6pqfoBUTFdk?si=oxKzIDQ42CfgCyuf), [Kiwi wa Boku ni Niteiru by See-Saw](https://www.youtube.com/watch?v=U6BkF23UPbM))*
 
-The next track is **[Playing God by Polyphia](https://www.youtube.com/watch?v=Z5NoQg8LdDk)**. I focus on the tonal quality and the level of energy conveyed by the guitars. This track also helps assess the balance of the bass against the midrange, which is reflected by the relative loudness between the bass guitar and the rest of the music. Here are key observations about how Performer 7 performs with this track:
+*How does XXXX handle sibilant recordings? (Sample tracks: [Shivers by Ed Sheeran](https://www.youtube.com/watch?v=z2_Lrg6rRks))*
 
-The next track on our list is the aria of **[Bach's Goldberg Variations, recorded by Lang Lang](https://youtu.be/linQUK6jNmg?si=v_2nz6exiNXsZUjU)**. I find that piano is the best instrument to assess the overall tonal balance of an IEM. Simply put, if the piano does not sound even across the frequencies, the midrange of an IEM is imbalanced. Here are key observations about how Performer 7 performs with this track:
-
-The next track on our list is **[Ciaccona from Bach's Violin Partita No.2 in D Minor, performed by Kavakos](https://www.youtube.com/watch?v=AtA5DbswJ90)**. This track aims to assess two aspects: the rendition of violin and the reproduction of upper treble energy, which is reflected by the quality and detail of the reverberation and micro details at the decay end of violin notes. Here are key observations about how Performer 7 performs with this track:
-
-The final track on our timbre test is **[Synchro BOM-BA-YE by Tokyo Kosei Wind Orchestra](https://www.youtube.com/watch?v=4lwPiXnOGZ4)**. This track aims to test the tonal balance and timbre of the upper midrange and treble region. There are two cues I focus on in this track: the hand claps at the beginning, and the tonal quality of all brass instruments throughout the track. Here are key observations about how Performer 7 performs with this track:
+*How does XXXX reproduce strings and orchestra? (Sample tracks: [Now We Are Free by 2CELLOS](https://www.youtube.com/watch?v=74CYIdYoQ5w), [Ciaccona from Bach's Violin Partita No.2 in D Minor, performed by Kavakos](https://www.youtube.com/watch?v=AtA5DbswJ90), [Synchro BOM-BA-YE by Tokyo Kosei Wind Orchestra](https://www.youtube.com/watch?v=4lwPiXnOGZ4))*
 
 
-
-**Bass and perceived dynamic:**
+**Percussion, Bass, and perceived dynamic:** *In this section, my focus is the not just the bass, but rather the sense of dynamic of an IEM. Can it convey the sense of beat and rhythm? Can it reproduce transients, the fast and large jump of loudness in the music? Simply put, is this IEM toe-tapping? Creating this energy requires all parts of the frequency spectrum working together: treble energy around 4-6kHz conveys snappy attacks of stick hitting percussive instruments at the beginning of a beat, bass energy around 150Hz conveys the punchy sensation of the beat itself, whilst the subbass energy below 60Hz creates the physical rumble sensation that convey power and atmosphere. Weak treble response dulls the attacks. Weak bass makes beats hollow. Too much bass makes bassline blurry and dulls the sense of rhythm. Thus, "dynamic IEM" is a balancing art.*
 
 Overview of the bass and dynamic using the soundwheel terminology:
 - Attack
@@ -96,11 +87,14 @@ Overview of the bass and dynamic using the soundwheel terminology:
 - Punch
 - Powerful
 
-Let's examine the bass and perceived dynamics of Performer 7 with some test tracks. The first one is **[A Reckoning in Blood from The Ghost of Tsushima OST](https://www.youtube.com/watch?v=kaBMXXo-vdU)**. I'll focus on the crescendo at 01:10, which an ideal dynamic IEM should effectively communicate. Additionally, the beats from 02:50 need to be strong, snappy, and precise, requiring excellent control across the entire frequency range. Here are key observations about how Performer 7 performs with this track:
+*How does XXXX convey "epic" bass lines? (Sample tracks: [Heart of Courage (Live) by Two Steps From Hell](https://youtu.be/1Qvp-w24z1U?si=44knlswJcyf7Ez2z), [A Reckoning in Blood from The Ghost of Tsushima OST](https://www.youtube.com/watch?v=kaBMXXo-vdU))*
 
-The next track is **[Strength of a Thousand Men (Live) by Two Steps from Hell](https://www.youtube.com/watch?v=POmTXTBtRZA)**. I'll pay attention to the quality bass accompanying each beat. An IEM with perfect bass handling should convey a sense of "grippiness" and texture in the bass region, making the bass line growl rather than low-pitched hum. Lastly, every beat must be snappy and incisive to capture the marching energy of this track. Here are key observations about how Performer 7 performs with this track:
+*How does XXXX handle a drum kit and bass guitar? (Sample tracks: [Playing God by Polyphia](https://youtu.be/Z5NoQg8LdDk?si=eEQGevLZb1SE-FVY))*
 
-**Resolution:** *To me, "resolution" can be broken down into three components: (1) Sharpness, incisiveness, or "definition" of note attacks (see the figure above). (2) The separation of instruments and vocals, especially when they overlap on the soundstage. (3) The texture and details in the decay side of the notes. The first two give music clarity and make it easy to track individual elements of a mix. The last provides music details and nuances.*
+*In conclusion, is XXXX ... toe-tapping?*
+
+
+**Resolution:** *To me, "resolution" can be broken down into three components: (1) Sharpness, incisiveness, or "definition" of note attacks (see the figure below). (2) The separation of instruments and vocals, especially when they overlap on the soundstage. (3) The texture and details in the decay side of the notes. The first two give music clarity and make it easy to track individual elements of a mix. The last provides music details and nuances. Whilst IEMs can "force" clarity by boosting treble to unnatural level, it might still lack resolution as it cannot "peel apart" complex tracks with overlapping instruments*
 
 ![](/assets/images/resolution.jpg)
 
@@ -111,9 +105,14 @@ Describe the resolution using the terminology from soundwheel:
 - Detailed
 - Natural
 
-Let's elaborate on the resolution of Performer 7 with some test tracks. For the first track, we again listen to **[Ciaccona from Bach's Violin Partita No. 2 in D Minor, performed by Kavakos](https://www.youtube.com/watch?v=AtA5DbswJ90)**. I focus on the micro details such as the bow catching the strings. I also focus on the quality and nuances of the reverberation and decays of the notes. Here are key observations about how Performer 7 performs with this track and how it compares against other reference IEMs:
+*Can XXXX handle complex, overlapping recordings? (Sample tracks: [ABC feat. Sophia Black by Polyphia](https://www.youtube.com/watch?v=Mtd24QIBJ5Y))*
 
-The next track is the "controlled chaos" **[ABC feat. Sophia Black by Polyphia](https://www.youtube.com/watch?v=Mtd24QIBJ5Y)**. With this track, I focus on an IEM's ability to not crumble under the complexity of overlapping layers in the mix. An IEM with ideal resolution would make it easy for me to hear everything, down to the very faint overdub by Sophia Black on the side channels right from the opening of the track. Here are key observations about how Performer 7 performs with this track and how it compares against other reference IEMs:
+*Can XXXX handle recordings with congested lower frequencies? (Sample tracks: [Now We Are Free performed by 2CELLOS](https://youtu.be/74CYIdYoQ5w?si=QcKrIFSifRzBHt2i))*
+
+*How does XXXX convey micro details? (Sample tracks: [Ciaccona from Bach's Violin Partita No. 2 in D Minor, performed by Kavakos](https://www.youtube.com/watch?v=AtA5DbswJ90))*
+
+*On the scale from fair (Moondrop Aria) to good (Moondrop Blessing 2) to great (CFA Andromeda 2020) to outstanding (AFUL Cantor), how resolving is XXXX?*
+
 
 **Stereo imaging and soundstage:** *Stereo imaging or "soundstage" is a psychoacoustic illusion that different recording elements appear at various locations inside and around your head. Your brain creates based on the cues in the recording, which are enhanced or diminushed by your IEMs, your DAC, and your amplifier. In rare cases, with some specific songs, some IEMs can trick you into thinking that the sound comes from the environment (a.k.a., "holographic")*
 
@@ -124,9 +123,13 @@ Overview of the soundstage and imaging capability using the soundwheel terminolo
 - Localiation: distance, internality, localisability
 - Reverberation
 
-Let's listen to some test tracks to assess the soundstage and imaging capability of Performer 7. The first one is **[Original Sound Effect Track - Memory from Gundam Seed Destiny OST album](https://www.youtube.com/watch?v=PhJWAWqExQs)**. This track compiles all sound effects used in the show, arranged atmospherically and immersively. An IEM with ideal soundstage and imaging should effectively utilize this information to create a diverse soundstage, with sound elements appearing in all three dimensions, offering contrast between near and distant sounds. Many elements on the left and right channels will seem to originate outside the ears. Here are key observations about how Performer 7 performs with this track and how it compares against other reference IEMs:
+*How does XXXX position instruments in a complex, 3D-sounding recording? (Sample tracks: [Original Sound Effect Track - Memory from Gundam Seed Destiny OST album](https://www.youtube.com/watch?v=PhJWAWqExQs))*
 
-The next track is **[Shadow of Baar Dau](https://www.youtube.com/watch?v=RXcLuLQ_5oM)**. This one tests an IEM's ability to convincingly convey the sense of distance of background elements, such as the string section at 00:20 on the front left and the vocal chants on the front right at 00:40. An IEM with perfect soundstage and imaging should make this track feel spacious, creating an illusion that some background elements originate outside the head. In essence, it should provide a fully immersive listening experience. Here are key observations about how Performer 7 performs with this track and how it compares against other reference IEMs:
+*How does XXXX convey a sense of space in spacious recordings? (Sample tracks: [Shadow of Baar Dau](https://www.youtube.com/watch?v=RXcLuLQ_5oM))*
+
+*How does XXXX handles sound positioning in FPS games?*
+
+*On the scale from good (Blessing 2) to great (CFA Andromeda 2020) to outstanding (AFUL Cantor), how good is the stereo imaging and soundstage of XXXX?*
 
 
 _____
