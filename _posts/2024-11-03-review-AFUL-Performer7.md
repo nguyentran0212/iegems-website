@@ -4,12 +4,12 @@ layout: "single"
 excerpts: "Dawn of a New Era"
 toc: true
 header:
-    image: "/asset/images/AFUL-Performer7/AFUL_P7_summary.png"
+    image: "/assets/images/AFUL-Performer7/AFUL_P7_summary.png"
 ---
 
 In 2022, which feels like an eon ago in the fast moving world of IEMs, the original Performer5 was released and brought the mysterious IEM manufacturer AFUL into the limelight. Three years and a steady supply of memorable releases later, AFUL is no longer a stranger but a well-known and admired IEM R&D powerhouse within portable audio communities. And now, three years, they finally return to revamp and update their first release, the beginning of their epoch. Today, we will take a look at the brand new Performer5+2 and catch a glimpse of a new era. 
 
-![](/asset/images/AFUL-Performer7/AFUL_P7_20.png)
+![](/assets/images/AFUL-Performer7/AFUL_P7_20.png)
 
 Forewords
 ===
@@ -39,22 +39,22 @@ _____
 Non-sound Aspects
 ===
 
-![](/asset/images/AFUL-Performer7/AFUL_P7_1.png)
-![](/asset/images/AFUL-Performer7/AFUL_P7_2.png)
-![](/asset/images/AFUL-Performer7/AFUL_P7_3.png)
-![](/asset/images/AFUL-Performer7/AFUL_P7_4.png)
-![](/asset/images/AFUL-Performer7/AFUL_P7_14.png)
-![](/asset/images/AFUL-Performer7/AFUL_P7_15.png)
+![](/assets/images/AFUL-Performer7/AFUL_P7_1.png)
+![](/assets/images/AFUL-Performer7/AFUL_P7_2.png)
+![](/assets/images/AFUL-Performer7/AFUL_P7_3.png)
+![](/assets/images/AFUL-Performer7/AFUL_P7_4.png)
+![](/assets/images/AFUL-Performer7/AFUL_P7_14.png)
+![](/assets/images/AFUL-Performer7/AFUL_P7_15.png)
 
 **Packaging and accessories** P7 comes in the usual packaging of AFUL: thick cardboard box with outer sleeve, custom foam cutout inserts to hold the content. Accessories have been upgraded comparing to P5. The plastic puck case to carry the IEM is now slightly flatter to increase the storage space within. The 8-wire IEM cable is way softer and easier to handle than the older cable. The types of included ear tips were also increased from 2 to 3. Each type has a different degree of hardness, and all of them provides the optimal length for fit P7 at the appropriate depth within the ear canal. 
 
-![](/asset/images/AFUL-Performer7/AFUL_P7_6.png)
-![](/asset/images/AFUL-Performer7/AFUL_P7_7.png)
+![](/assets/images/AFUL-Performer7/AFUL_P7_6.png)
+![](/assets/images/AFUL-Performer7/AFUL_P7_7.png)
 
 **Earpieces design** Very similar. The earpieces of P7 are on the smaller end of the spectrum. They are well contoured with no sharp edge. The nozzles of P7 are also smaller and longer than average.
 
-![](/asset/images/AFUL-Performer7/AFUL_P7_8.png)
-![](/asset/images/AFUL-Performer7/AFUL_P7_9.png)
+![](/assets/images/AFUL-Performer7/AFUL_P7_8.png)
+![](/assets/images/AFUL-Performer7/AFUL_P7_9.png)
 
 **Fit, comfort and isolation** Due to the smaller design, I find P7 to be very comfortable, even in long listening session that lasts hours. I did not experience pressure build up or driver flex in my tests, indicating that the pressure release mechanism works well. Interestingly, despite the pressure release, the isolation of P7 is rather strong, to the point that I regularly use P7 as earplugs for commute. 
 
@@ -87,7 +87,7 @@ I would describe the tonality of P7 as **"mild V-shape"**. It has a boosted bass
 
 Where P7 truly shines is how it presents the midrange. Thanks to the subtle lift in the lower midrange and the impeccable balance against the upper midrange, **the midrange of P7 has a subtle warmth to make voices and instruments more pleasing** (or dare I say... "musical"), I'm particularly impressed by how P7 handles the voice of Ed Sheeran even in sibilant recordings like [Shivers](https://www.youtube.com/watch?v=z2_Lrg6rRks). I pick this recording to discuss because it’s rather difficult. “Full Harman” IEMs would make his voice to thin and sharp to the point of being unlistenable. On the other hand, IEMs can add too much warmth or subdue the upper midrange so much that makes Ed’s voice muffled. Whilst P7 does nothing to remove the sharp sibilant of this recording, it does not intensify this undesirable characteristics. Where P7 impresses is how it imbues a subtle warmth to the voice of Ed, making it natural and rather pleasing. 
 
-![](/asset/images/AFUL-Performer7/AFUL_P7_16.png)
+![](/assets/images/AFUL-Performer7/AFUL_P7_16.png)
 
 Other vocals are also handled with finesses. For example, [Dreamland Express by John Denver](https://youtu.be/6pqfoBUTFdk?si=oxKzIDQ42CfgCyuf) and [Kiwi wa Boku ni Niteiru by See-Saw](https://www.youtube.com/watch?v=U6BkF23UPbM) both have pleasing vocals with pleasant tone and a great deal of nuances and details with P7. Cellos and strings (e.g., [Now We Are Free by 2CELLOS](https://www.youtube.com/watch?v=74CYIdYoQ5w), [Ciaccona from Bach's Violin Partita No.2 in D Minor, performed by Kavakos](https://www.youtube.com/watch?v=AtA5DbswJ90)) also sound natural and pleasing with proper sense of body and weight, and a great deal of nuances and details. I’m particularly enjoy how P7 handles the changes in dynamic in Bach’s Violin Sonatas and Partitas. If I were to nitpick, I would say P7‘s tonality is a bit coloured, as if it is a bit “sweater” than what is dictated by a recording. Whether I prefer this presentation or a dryer presentation depends on the mood of the day. 
 
@@ -97,7 +97,7 @@ Other vocals are also handled with finesses. For example, [Dreamland Express by 
 
 The bass response of P7 strikes **a balance between precision and power**. The attack of bass transient is controlled and ”tight”, though not laser-sharp like the bass of BA woofers, such as the ones in AFUL Cantor. Noted that by “bass transient”, I’m not talking about the “snap” at the beginning of a bass note, such as when the drum stick hits the skin of a floor tom. That part is actually handled by treble, primarily the 4-6kHz region. I’m talking about the bass thump that immediately comes after the initial stick impact. Clean and tight transient means P7 can immediately go from pitch black background with no bass to full tilt “oomph!” without any smearing or sense of delay. And it does so without sacrificing the amount of oomph like some “reference-tuned” IEMs. Here, you have a full strength bass attack that goes from 0 to 100 quickly. The bass transient also dissipates quickly from the peak, but not too quick to trigger the uncanny “BA bass” sensation. 
 
-![](/asset/images/AFUL-Performer7/AFUL_P7_18.png)
+![](/assets/images/AFUL-Performer7/AFUL_P7_18.png)
 
 Another advantage of P7 is the **texture, or more precisely, the detail of the bass**. For example, when I listen to bass guitars or cellos, I can hear the inner details, the smaller vibrations that make up the notes of these bass instruments. As a result, I can hear and follow the pitch of bass line, rather than hearing only “boom boom boom”. 
 
@@ -112,7 +112,7 @@ Coming to P7 immediately after the extensive testing of the flagship AFUL Cantor
 
 First, let’s talk about what I dub “macro resolution”, the overall incisiveness and definition of musical notes, especially important in complex recordings. **P7 does a great job on this front indeed**. It handles complex, overlapping instrumentations in tracks such as [ABC feat. Sophia Black by Polyphia](https://www.youtube.com/watch?v=Mtd24QIBJ5Y) better than expected. It was rather easy for me to track and follow individual parts, including fainter overdubs on the sides of the stage. The dual DD woofers also handle recordings with congested lower frequencies such as [Now We Are Free performed by 2CELLOS](https://youtu.be/74CYIdYoQ5w?si=QcKrIFSifRzBHt2i) without any drama. Whilst the resolution on display here is not as effortless as the current top-class IEMs like Cantor, P7’s resolution would not be out of place from the pack of good “kilobuck IEMs” from a few years back. What more impressive is that I made these observations primarily from the HiBy R3II, a budget mini music player, and primarily on the go.
 
-![](/asset/images/AFUL-Performer7/AFUL_P7_21.png)
+![](/assets/images/AFUL-Performer7/AFUL_P7_21.png)
 
 The “micro resolution”, or simply the sheer detail retrieval ability, is where the new planar driver of P7 shines. **I’m impressed by the ability of this IEM to presents nuances in the music**, particularly noticeable in sparse recording such as [Ciaccona from Bach's Violin Partita No. 2 in D Minor, performed by Kavakos](https://www.youtube.com/watch?v=AtA5DbswJ90). The violin has a lot of small details, and the decay end of the notes and reverberation are confidently conveyed. Cymbals, hi-hats, and brass instruments are also where P7 do a great job. I like how cymbals and hats have details and texture rather than simply high-pitched splashy sounds with P7. 
 
@@ -128,7 +128,7 @@ One area where I didn't expect P7 to excel was the soundstage and imaging. The r
 
 First, let's talk about the shape of the soundstage. Now, of course, the soundstage illusion would change across recordings, depending on how they are produced, so I'm going to talk about the "soundstage" of P7 from an aggregated view across multiple recordings. To me, **the stage of P7 feels expansive, but not exaggeratedly so**. The positioning of instruments starts from a "phantom centre" in the middle of my head, slightly behind the eyes and expands outward in all directions, including above and behind the ears. Higher pitches sounds, such as from cymbals and hi-hats tend to be positioned high above the ears in a way that feels like I can reach out and grab them. The positioning of singer moves from being strictly in the head at the phantom centre to hovering in front my face depending on the recording. However, singers and main instruments are rarely positioned too far away in the mix. Depending on your preference, this placement can be good or bad. 
 
-![](/asset/images/AFUL-Performer7/AFUL_P7_23.png)
+![](/assets/images/AFUL-Performer7/AFUL_P7_23.png)
 
 Tracks with interesting imaging such as Grandpa's Theme from Stardew Valley soundtrack by ConcernedApe is where P7 shines. When the guitar tremolo comes around 0:40, I can position this sound as coming from slightly outside, behind my ears, whilst most other actions happen around the phantom center or in front of my head. In another track from the same album called "Settling In", P7 can create multiple layers of sound at different distance: the keyboard at around 0:51 is positioned further to the back of my head, the main guitar is right at the center of the stage but slightly higher up, the bass guitar around 01:10 is also center but slightly tilted to the right and positioned lower in the stage. Finally, the string section joining at 0:38 is pushed further away, outside the soundstage, tricking me into thinking that it comes from the room outside the IEM. 
 
@@ -151,7 +151,7 @@ _____
 Comparisons
 ===
 
-![](/asset/images/AFUL-Performer7/AFUL_P7_10.png)
+![](/assets/images/AFUL-Performer7/AFUL_P7_10.png)
 
 **Vs AFUL Cantor:** 
 - P7 is noticeably easier to driver than Cantor.
@@ -184,7 +184,7 @@ Comparisons
 - The soundstage of P7 feels more expansive and immersive next to P8.
 - I find P7 an upgrade to P8. It's time for AFUL to upgrade the P8 as well. 
 
-![](/asset/images/AFUL-Performer7/AFUL_P7_13.png)
+![](/assets/images/AFUL-Performer7/AFUL_P7_13.png)
 
 **Vs AFUL P5:**
 - P7 is better on all fronts. 
@@ -195,7 +195,7 @@ _____
 Conclusions
 ===
 
-![](/asset/images/AFUL-Performer7/AFUL_P7_23.png)
+![](/assets/images/AFUL-Performer7/AFUL_P7_23.png)
 
 Performer5+2 (P7) was a surprise. Hot on the heel of the highly anticipated flagship Cantor, P7 suddenly appears with almost no rumours, no fanfares. And what a surprise it was. For the first time, AFUL brings a new driver type (micro planar) and a new driver topology (tribrid) to their product line, yet the end result was anything but experimental. It's a full-packaged IEM, retailed with a surprisingly accessible price tag. In many senses, to me, P7 marks the dawn of a new era. For the IEM market as a whole, it's the sign that we are breaking into a new price/performance territory. The expectation for IEMs above $250 has been raised. 
 
@@ -226,4 +226,4 @@ For AFUL, it's the dawn of a new "round." What do you have in store for us this 
 
 **Bias Score:** 5/5 - I love this IEM!
 
-![](/asset/images/AFUL-Performer7/AFUL_P7_summary.png)
+![](/assets/images/AFUL-Performer7/AFUL_P7_summary.png)
