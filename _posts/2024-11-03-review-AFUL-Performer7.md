@@ -4,7 +4,7 @@ layout: "single"
 excerpts: "Dawn of a New Era"
 toc: true
 header:
-    image: "/assets/images/Symphonium-Crimson/Crimson_summary.jpg"
+    image: "/asset/images/AFUL-Performer7/AFUL_P7_summary.png"
 ---
 
 In 2022, which feels like an eon ago in the fast moving world of IEMs, the original Performer5 was released and brought the mysterious IEM manufacturer AFUL into the limelight. Three years and a steady supply of memorable releases later, AFUL is no longer a stranger but a well-known and admired IEM R&D powerhouse within portable audio communities. And now, three years, they finally return to revamp and update their first release, the beginning of their epoch. Today, we will take a look at the brand new Performer5+2 and catch a glimpse of a new era. 
@@ -226,3 +226,4 @@ For AFUL, it's the dawn of a new "round." What do you have in store for us this 
 
 **Bias Score:** 5/5 - I love this IEM!
 
+![](/asset/images/AFUL-Performer7/AFUL_P7_summary.png)
