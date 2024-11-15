@@ -24,22 +24,33 @@ _____
 General Information
 ===
 
-PULA is another mysterious manufacturer from China whose IEMs are available via the retailer HiFiGo. That said, PULA is not without fans thanks to the success of previous releases, including the PA02 hybrid IEM. This time, PULA is back with ANVIL114, a **6-driver tribrid IEM** equipped with an **11 mm Bone Conduction Driver (BCD)** (For brevity, I'll call this IEM Anvil in the rest of this article)
+PULA is another mysterious manufacturer from China whose IEMs are available via the retailer HiFiGo. That said, PULA is not without fans thanks to the success of previous releases, including the PA02 hybrid IEM. This time, PULA is back with ANVIL114, a **6-driver tribrid IEM** equipped with an **11 mm Bone Conduction Driver (BCD)** (For brevity, I'll call this IEM Anvil in the rest of this article). 
 
+As the name implies, ANVIL114 has a 1+1+4 driver configuration, consisting of a 10mm dynamic driver (DD) with a bio diaphragm handling the bass frequencies, 11mm bone conduction driver (BCD) offering a full-range response, and 4 balanced armature (BA) drivers, 2 of which handle the midrange whilst the others handle the treble. 
 
+The star of the show is undoubtedly the new 11mm bone conduction driver. Unfortunately, no additional technical information is available about these drivers. Given that we know the diameter of the BCD, it's likely that Anvil is equipped with a piezoelectric bone conduction unit, which operates similarly to the ones inside the acclaimed MEST series IEM from Unique Melody. The only indicator of the existence of the BCD inside Anvil is the unique "spring ping" sound whenever I tap the earpieces.
 
 _____
 
 Non-sound Aspects
 ===
 
-**Packaging and accessories**
+**Packaging and accessories** The box of Anvil is surprisingly less decorated than usual. It's completely devoid of artworks and audio related motifs, thus reminding me of a tea box rather than an IEM box. Fortunately, it's the content that count, and Anvil comes with quite hefty set of accessories that is unexpected given the price tag. In the box, you would find: 
 
-**Earpieces design**
+- The earpieces themselves
+- 3 different types of eartips, including double-flanged ones
+- IEM cable with interchangeable plug system. All three options (3.5mm, 2.5mm, and 4.4mm) are provided
+- A roomy carrying case with felt lining. This is essentially the same carrying case that comes with some high-end IEMs like AFUL Cantor and Canpur CP54E. 
 
-**Fit, comfort and isolation**
+**Earpieces design** This area is where I have quite a bit of problem with Anvil. Let's talk about the positive aspects first: the faceplate of this IEM is absolutely beautiful. They are made up stabilized wood pieces, dyed in a purple paint, and covered with a thick layer of acrylic, polished to a glossy finish. This glossy layer is thicker than that of most IEMs landed on my review desks so far.  
 
-**Ear tips recommendation:** 
+Where I have problem with Anvil is the design of the earpieces, particularly the nozzles. Simply put, Anvil has the most tricky combination of characteristics for the nozzles: thick and long. Whilst the metal tube that we call "nozzles" is not longer than average, we need to also account for the plastic part behind the metal tube, protruding from the base of the earpieces. Due to this design, the base of the earpieces do not sit flush against the concha area of my ears, which is not a good thing for BCD which relies on solid contact with the concha for optimal performance. Fitting the nozzles deeper into the ear canal is out of question for me, due to the thickness of the nozzle. 
+
+**Fit, comfort and isolation** I had to try quite a few types of eartips in my collection to find one that fits well and do not put too much pressure on the ears in long listening sessions. When finding the right eartips, I can achieve a stable and comfortable fit with Anvil. The noise isolation is quite good, yet I did not experience any pressure build up or driver flex problem during my tests. 
+
+In order to maximize the performance of the BCD, I gently press the back of the earpieces against the antihelix of my ears. I hear a slight but interesting change in the side channels of the soundstage when the earpieces have solid contact with the antihelix, so I guess that the BCD works as intended.
+
+**Ear tips recommendation:** Quite tricky. Ideally, you need shorter and sticky eartips. However, I couldn't get stable seal with my trusty Velvet eartips. Inthe end, I settled for Tri Clarion eartips. 
 
 
 _____
