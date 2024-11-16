@@ -4,7 +4,7 @@ layout: "single"
 excerpts: "Forging new value"
 toc: true
 header:
-    image: "/assets/images/Symphonium-Crimson/Crimson_summary.jpg"
+    image: "/assets/images/Pula-Anvil/anvil_summary.jpg"
 ---
 
 The forth quarter of 2024 is full of surprise in the personal audio market. Today, the surprise continues with a new release from PULA, a tribrid IEM named ANVIL114.
@@ -196,3 +196,5 @@ So, should you add Anvil to your collection? There are but two questions you nee
 - Soundstage and imaging: 5/5
 
 **Bias Score:** 4/5 - I like this IEM
+
+![](/assets/images/Pula-Anvil/anvil_summary.jpg)
