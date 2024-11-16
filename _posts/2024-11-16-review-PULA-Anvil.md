@@ -84,18 +84,18 @@ The treble and bass region are where Anvil deviates from the V-shaped signature 
 
 **Percussion, Bass, and perceived dynamic:** *In this section, my focus is the not just the bass, but rather the sense of dynamic of an IEM. Can it convey the sense of beat and rhythm? Can it reproduce transients, the fast and large jump of loudness in the music? Simply put, is this IEM toe-tapping? Creating this energy requires all parts of the frequency spectrum working together: treble energy around 4-6kHz conveys snappy attacks of stick hitting percussive instruments at the beginning of a beat, bass energy around 150Hz conveys the punchy sensation of the beat itself, whilst the subbass energy below 60Hz creates the physical rumble sensation that convey power and atmosphere. Weak treble response dulls the attacks. Weak bass makes beats hollow. Too much bass makes bassline blurry and dulls the sense of rhythm. Thus, "dynamic IEM" is a balancing art.*
 
-Percussion and dynamic are where Anvil flexes. But first, let's talk about the rather strange bass of Anvil. Simply put, Anvil has less bass quantity that other recent releases with V-shaped or U-shaped tuning, yet it can convey a great sense of impact with each beat in the music. Practically, having less bass quantity means when I listen to tracks with strong low-pitched rumble, such as the opening theme of Skyrim, I found the rumble to be rather faint and de-emphasised. Moreover, the perception of bass impacts tend to happen at the "phantom centre" in the middle of my head or at the ear drums rather than being pushed down to the throat or even the chest like what I hear with sub-bass focused IEM. 
+Percussion and dynamic are where Anvil flexes. But first, let's talk about the rather strange bass of Anvil. Simply put, Anvil has **less bass quantity that other recent releases** with V-shaped or U-shaped tuning, yet it can convey a great sense of impact with each beat in the music. Practically, having less bass quantity means when I listen to tracks with strong low-pitched rumble, such as the opening theme of Skyrim, I found the rumble to be rather faint and de-emphasised. Moreover, the perception of bass impacts tend to happen at the "phantom centre" in the middle of my head or at the ear drums rather than being pushed down to the throat or even the chest like what I hear with sub-bass focused IEM. 
 
-The more restrained bass quantity of Anvil has an advantage: it makes the bassline of Anvil sounds dry, crisp, and "fast". This dryer presentation is also aided by rather great *quality* of the bass. It means textures and details of the bass guitars, double basses, lower notes of cellos are well preserved and presented. 
+The more restrained bass quantity of Anvil has an advantage: it makes the **bassline of Anvil sounds dry, crisp, and "fast"**. This dryer presentation is also aided by rather great *quality* of the bass. It means textures and details of the bass guitars, double basses, lower notes of cellos are well preserved and presented. 
 
-Where Anvil shines the brightest is how it presents drums and beats. The best way to visualise the presentation of Anvil is imaging the sound of a hammer striking a piece of red hot steel on an anvil. Anvil does a great job of scaling from a pitch-black background to the full drum hit and then come back to zero in an incisive and impactful way. As a result, Anvil sounds tactile and physical, despite not having a large amount of bass. This presentation is particularly suited for faster kick drums in Polyphia's albums. At the same time, Anvil also conveys the energy of "epic" soundtracks from video games with finesse. Agile, tactile, and impactful. It's a toe-tapping IEM.
+Where Anvil shines the brightest is how it presents drums and beats. The best way to visualise the presentation of Anvil is imaging the sound of a hammer striking a piece of red hot steel on an anvil. Anvil does a great job of scaling from a pitch-black background to the full drum hit and then come back to zero in an incisive and impactful way. As a result, Anvil sounds **tactile and physical**, despite not having a large amount of bass. This presentation is particularly suited for faster kick drums in Polyphia's albums. At the same time, Anvil also conveys the energy of "epic" soundtracks from video games with finesse. Agile, tactile, and impactful. It's a toe-tapping IEM.
 
 
 **Resolution:** *To me, "resolution" can be broken down into three components: (1) Sharpness, incisiveness, or "definition" of note attacks (see the figure below). (2) The separation of instruments and vocals, especially when they overlap on the soundstage. (3) The texture and details in the decay side of the notes. The first two give music clarity and make it easy to track individual elements of a mix. The last provides music details and nuances. Whilst IEMs can "force" clarity by boosting treble to unnatural level, it might still lack resolution as it cannot "peel apart" complex tracks with overlapping instruments*
 
 ![](/assets/images/resolution.jpg)
 
-Anvil is a quite resolving IEM in the grand scheme and outright impressive if we consider its price tag. The incisiveness of its presentation, combined with the retrained bass quantity ensures that the midrange feels clean and present. The rather great treble quality that I described previous help Anvil conveys a great sense of details and nuances in the music. Whilst Anvil is not entirely "effortless" when handling complex recordings such as [ABC feat. Sophia Black by Polyphia](https://www.youtube.com/watch?v=Mtd24QIBJ5Y) (meaning it takes some deliberate effort from my side to identify and track individual elements in the mix), it does a better job than the venerable Moondrop Blessing 2 in A/B tests, despite having thicker lower midrange. The overall sense of separation detail retrieval in this track is identical to, if not better than my Andromeda 2020, the "gatekeeper" of "great resolution" in my system.
+Anvil is a **quite resolving** IEM in the grand scheme and outright impressive if we consider its price tag. The incisiveness of its presentation, combined with the retrained bass quantity ensures that the midrange feels clean and present. The rather great treble quality that I described previous help Anvil conveys a great sense of details and nuances in the music. Whilst Anvil is not entirely "effortless" when handling complex recordings such as [ABC feat. Sophia Black by Polyphia](https://www.youtube.com/watch?v=Mtd24QIBJ5Y) (meaning it takes some deliberate effort from my side to identify and track individual elements in the mix), it does a better job than the venerable Moondrop Blessing 2 in A/B tests, despite having thicker lower midrange. The overall sense of separation detail retrieval in this track is identical to, if not better than my Andromeda 2020, the "gatekeeper" of "great resolution" in my system.
 
 Recordings with congested lower frequencies such as [Now We Are Free performed by 2CELLOS](https://youtu.be/74CYIdYoQ5w?si=QcKrIFSifRzBHt2i) does trip Anvil up as the presentation feels a bit too boomy and lacking definition for me. This result is somewhat inevitable due to the tuning choice of Anvil. On the plus side, sparse recordings such as [Ciaccona from Bach's Violin Partita No. 2 in D Minor, performed by Kavakos](https://www.youtube.com/watch?v=AtA5DbswJ90) sound great with Anvil. I like the clean, dry tone of violin and the clear reproduction of reverberation. 
 
@@ -104,18 +104,13 @@ Recordings with congested lower frequencies such as [Now We Are Free performed b
 
 ![](/assets/images/soundstage.png)
 
-Overview of the soundstage and imaging capability using the soundwheel terminology.:
-- Spatial extent: depth, width, envelopment
-- Localiation: distance, internality, localisability
-- Reverberation
+Let's face it: the expected "magic sauce" in the soundstage and stereo imaging is the main reason why you look for an IEM with BCD. Thus, the make-or-break of Anvil would be the soundstage illusion that it can convey. Despite some hiccups at the beginning, Anvil ultimately delivers on the soundstage front. 
 
-*How does Anvil position instruments in a complex, 3D-sounding recording? (Sample tracks: [Original Sound Effect Track - Memory from Gundam Seed Destiny OST album](https://www.youtube.com/watch?v=PhJWAWqExQs))*
+Before we talk about "soundstage of BCD", let's get two disclaimers out of the way. Firstly, no, **this IEM does not sound like a pair of stereo speakers or Dolby Atmos spatial audio**. It would not magically transport you to a concert hall. It does not push the singer outside the phantom centre in your head to place them in front of you. Secondly, **the effectiveness of BCD relies heavily on the fit**. Simply put, you need to have as much contact between the shells and your ears as possible. An additional point is that it is rather impossible to say with any certainty whether the soundstage effect I describe here is actually caused by the BCD, since there is no way to turn off the BCD and compare. So, it's possible that it's simply the case that the shell design and the tuning of Anvil gives it a nice soundstage. 
 
-*How does Anvil convey a sense of space in spacious recordings? (Sample tracks: [Shadow of Baar Dau](https://www.youtube.com/watch?v=RXcLuLQ_5oM))*
+With the disclaimers out of the way, let's talk about Anvil's soundstage. **Spacious and uncanny** would be two keywords that I use. Recordings feel expansive, as if there is no "wall" at the outer bound of the stage that limits the sound from travelling outward. This effect is the most prominent with spacious recordings such as [Shadow of Baar Dau](https://www.youtube.com/watch?v=RXcLuLQ_5oM), which can trigger the illusion that the music expands outward to fill in the environment around me. Left-to-right extension of the soundstage is quite strong, as Anvil regularly triggers the illusion that the side channels of the mix come from outside the ears. The illusion of depth and layering is also strong, thanks to the clear contrast between the center of the soundstage and the background elements such as the string or choral section, generally placed further away at front-left and front-right of the stage. There are also instances when the sound elements seem to be placed behind my ears or towards the back of my head. The height illusion is not as prominent, but competent enough to complete an **"orbital soundstage" illusion** with the right recording. 
 
-*How does Anvil handles sound positioning in FPS games?*
-
-*On the scale from good (Blessing 2) to great (CFA Andromeda 2020) to outstanding (AFUL Cantor), how good is the stereo imaging and soundstage of Anvil?*
+Positioning of instruments in complex, 3D-sounding recordings like [Original Sound Effect Track - Memory from Gundam Seed Destiny OST album](https://www.youtube.com/watch?v=PhJWAWqExQs) or trippy recordings from Yosi Horikawa is also pretty good, though not laser sharp. In other words, Anvil can take advantage of the large soundscape that sometimes expand beyond the head to create an interesting, immersive IEM soundstage that is not commonly heard. It's those moments when the sound pans to the sides or the "detach" of background elements from the foreground elements of the mix that makes the soundstage of Anvil more special than that of other highly competent IEMs. 
 
 
 _____
@@ -123,40 +118,45 @@ _____
 Driveability
 ===
 
-Specs:
-- Impedance: 16.5 ohm
-- Sensitivity: 105dB/mW
-
-Anvil is quite sensible when it comes to sensitivity. It is not too sensitive that it hisses with every DAC/amp, yet it is sensitive enough to avoid pushing portable DAC/amp to distortion. 
-
-*How sensitive is Anvil? Does it get loud too easily or is it very difficult to drive?*
-
-*How does Anvil sound with a portable DAC/amp or a small music player?*
-
-*How does Anvil "scale" with stronger amplifier?*
-
+Anvil is quite sensible when it comes to sensitivity, clocking at 16.5ohm and 105dB/mW (likely at 1kHz, as the spec sheet did not elaborate on this detail). It is not too sensitive that it hisses with every DAC/amp, yet it is sensitive enough to avoid pushing portable DAC/amp to distortion. To put in context, Anvil requires almost the same volume level as the AFUL Performer5+2, much higher volume level than Andromeda 2020, and less volume level than AFUL Cantor with both my DX300 and HiBy R3II. I found that Anvil sounds competent enough with R3II and thus can recommend this pairing for a (relatively) affordable daily-driver setup. However, I do notice quite more incisive instrument separation and even more spreadout soundstage when pairing Anvil with my DX300 + Topping G5 (used as a pure amplifier). Therefore, I would say there is room for "scaling" Anvil, though such scaling is not necessary nor making "day-and-night" differences. 
 
 _____
 
 Comparisons
 ===
 
+**Vs AFUL Performer5+2:**
+
+- Performer5+2 is much more comfortable and easy to fit for me, thanks to the smaller shell and thinner nozzles.
+- Performer5+2 sounds more even across the midrange, whilst Anvil sounds more boomy in the lower frequencies and more forward in the upper midrange. On the other hand, Anvil is more tamed in the 4-6kHz region. In short, Performer5+2 is less shouty but can be more edgy in the treble, whilst Anvil is can be more shouty but less edgy. 
+- Subjectively, Performer5+2 has an organic and "musical" tone in the midrange that works especially well with slower vocals and acoustic music, whilst Anvil does not give me that. 
+- Performer5+2's bass has more bloom and organic decay whilst Anvil is dryer and crisper. Both IEMs render drum kits very well but in different ways. 
+- Both IEMs have the same degree of precision and control in terms of instrument placement in the soundstage, but the soundstage of Anvil expands further than that of Performer5+2.
+- At a glance, Anvil feels more incisive and more "resolving" thanks to the more lively and dry presentation. However, when facing busy tracks, especially the ones with congested lower midrange, Performer5+2 pulls ahead in terms of how easy it is to track individual elements in the mix. These results persisted even when I pair Anvil with DX300+G5 and P5+2 with R3II.
 
 _____
 
 Conclusions
 ===
 
-Summary
+As the year closes, I would like to direct your attention to the accelerated progress of "ChiFi" IEM world. Around this time last year, if you tell me something like Anvil would exist with the $200 retail price tag, I would say "keep dreaming." It's not dreaming anymore. It's here, and it delivers. 
+
+So, should you add Anvil to your collection? There are but two questions you need to ask yourself. Firstly, do you have any problem with large and protruding IEM nozzles? It's not only about comfort, but also about getting the most out of Anvil. Secondly, how much do you value an even midrange. Would you be listening to a lot of piano and string quartets with this IEM? If your question is "no" for both, Anvil is worth consideration.
+
 
 **What I like about this IEM:**
 
-- 
+- Impressive, uncanny soundstage and imaging
+- Tactile, agile, and impactful percussion reproduction
+- Good resolution
+- Generally good tonality
+- Well-controlled sibilant
 
 **What could be improved:**
 
 - The nozzles should be thinner and less protruding from the shells 
 - Flatter midrange could improve the reproduction of piano and cello recordings
+
 
 **Absolute Sonic Quality Rating:** 4.5/5 - Outstanding
 - Timbre and tonality: 4/5
