@@ -32,9 +32,9 @@ Non-sound Aspects
 ===
 
 
-![](/assets/images/Hidizs-ST2/Hidizs_ST2_reviews_12.png)
+![](/assets/images/Hidizs-ST2/Hidizs_ST2_review_12.png)
 
-![](/assets/images/Hidizs-ST2/Hidizs_ST2_reviews_11.png)
+![](/assets/images/Hidizs-ST2/Hidizs_ST2_review_11.png)
 
 The earpieces of ST2 are definitely designed for cost-effectiveness. It consists of two injection molded plastic pieces snapped and glued together to form a hollow shell for the driver. On the plus side, the nozzles are constructed from metal and feature a lip to help retaining the ear tips. 
 
@@ -50,15 +50,15 @@ Sonic Performance
 
 **Timbre:** 
 
-![](/assets/images/Hidizs-ST2/Hidizs_ST2_reviews_10.png)
+![](/assets/images/Hidizs-ST2/Hidizs_ST2_review_10.png)
 
-![](/assets/images/Hidizs-ST2/Hidizs_ST2_reviews_9.png)
+![](/assets/images/Hidizs-ST2/Hidizs_ST2_review_9.png)
 
-![](/assets/images/Hidizs-ST2/Hidizs_ST2_reviews_8.png)
+![](/assets/images/Hidizs-ST2/Hidizs_ST2_review_8.png)
 
-![](/assets/images/Hidizs-ST2/Hidizs_ST2_reviews_7.png)
+![](/assets/images/Hidizs-ST2/Hidizs_ST2_review_7.png)
 
-![](/assets/images/Hidizs-ST2/Hidizs_ST2_reviews_6.png)
+![](/assets/images/Hidizs-ST2/Hidizs_ST2_review_6.png)
 
 ST2 has a rather unique sound signature that does not align with any other IEM in my database. The best way to describe it is a bass-focused V-shaped sound signature. In other words, ST2 is unabashedly "casual." It does not aim for a "neutral" "audiophile-approved" tuning nor does it aim for a sub-bass focused tuning so that "you can feel the bass without bass bleed." No, this IEM embraces mid-bass and utilises a surprisingly capable dynamic driver to execute that vision. ST2 is punchy, thumpy, and unabashedly recessed and boomy. 
 
@@ -67,22 +67,22 @@ At the same time, Hidizs shows restrain and maturity with the tuning of the othe
 
 **Percussion, Bass, and perceived dynamic:** 
 
-![](/assets/images/Hidizs-ST2/Hidizs_ST2_reviews_5.png)
+![](/assets/images/Hidizs-ST2/Hidizs_ST2_review_5.png)
 
 Bass response, particularly mid-bass, is the highlight of ST2 sound signature. The frequency response of ST2 ensures that the sounds listeners commonly associate with "bass" such as kick drums and the slaps and plucks of bass guitars are highlighted over other elements in the mix. The exaggerated amount of bass is accompanied by surprisingly competent bass quality to create impactful bass line that also feels "tight" and snappy. The only aspect where the bass of ST2 falters is the sub-bass extension. Simply put, this IEM does not "growl" or "rumble" as much as you would expect when you compare to modern IEMs with a sustained boost below 50Hz. As a result, if your music relies on sub-bass rather than mid-bass, you might find the bass somewhat lacking. 
 
 **Resolution:** 
 
-![](/assets/images/Hidizs-ST2/Hidizs_ST2_reviews_4.png)
+![](/assets/images/Hidizs-ST2/Hidizs_ST2_review_4.png)
 
 ST2 does not break the mold of a single DD in terms of both instrument separation and detail retrieval. Weak extension into the upper treble is an expected weakness that pulls down the perceived technical performance. The tuning choice to emphasise bass and recess the midrange also negatively impact the perceived clarity of this IEM. That said, ST2 does not fall behind the expected level of good DD from yester-years such as the venerable Moondrop Aria 2021. The snappy, tactile physical sensation from the bass also gives this IEM a slight boost in the *perceived* incisiveness. 
 
 
 **Stereo imaging and soundstage:** 
 
-![](/assets/images/Hidizs-ST2/Hidizs_ST2_reviews_3.png)
+![](/assets/images/Hidizs-ST2/Hidizs_ST2_review_3.png)
 
-![](/assets/images/Hidizs-ST2/Hidizs_ST2_reviews_2.png)
+![](/assets/images/Hidizs-ST2/Hidizs_ST2_review_2.png)
 
 The soundstage of ST2 is rather unusual due to its tuning. The thick mid-bass and lower-midrange emphasis does narrow down the soundstage, but exaggerates the depth illusion in return. For example, on some tracks, the front-left and front-right elements in the mix can feel like they pop out from the stage to hover slightly in front of my face, to the sides. Moreover, this IEM tends to place sound elements further toward the back of my head. It's hard to say whether this presentation is better or worse, but it's a bit different, making it interesting. 
 
