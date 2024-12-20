@@ -40,6 +40,8 @@ The earpieces of ST2 are definitely designed for cost-effectiveness. It consists
 
 Comfort-wise, I had quite a bit of problem with the stock silicone ear tips that come with my pre-production unit. Simply put, the short and soft ear tips do not work well with the relatively short nozzles of ST2, making it quite tricky to achieve a stable seal. For IEMs like ST2, in my experience, you should use ear tips with a longer stem and sticky nozzles to compenstate for the nozzle length. I opted for Pentaconn Coreir AL ear tips for the rest of my listening tests with ST2. 
 
+The key "accessory" of ST2 is, of course, the USB DAC cable. Simply put, you can think of it as an Apple dongle with built-in IEM cable. I will discuss this cable later in this review.
+
 _____
 
 Sonic Performance
@@ -82,45 +84,41 @@ ST2 does not break the mold of a single DD in terms of both instrument separatio
 
 ![](/assets/images/Hidizs-ST2/Hidizs_ST2_reviews_2.png)
 
-The soundstage of ST2 is rather unusual, due to its tuning.
+The soundstage of ST2 is rather unusual due to its tuning. The thick mid-bass and lower-midrange emphasis does narrow down the soundstage, but exaggerates the depth illusion in return. For example, on some tracks, the front-left and front-right elements in the mix can feel like they pop out from the stage to hover slightly in front of my face, to the sides. Moreover, this IEM tends to place sound elements further toward the back of my head. It's hard to say whether this presentation is better or worse, but it's a bit different, making it interesting. 
+
+Where ST2 really shines is in FPS gaming. ST2 is one of the rare IEMs that can convey the illusion of gunshots coming from the front of the head. Whilst ST2 does not have tack sharp positioning of sound elements, I find this IEM to be quite competent for gaming. If you are skilled, you might be able to gain competitive advantage with ST2. 
 
 _____
 
-Driveability
+USB DAC Cable
 ===
 
-NX8 is relatively easy to drive. It requires a few extra volume notches compared to easy-to-drive IEMs like AFUL Performer5+2, but it's not difficult enough to cause any problem for a small DAP like HiBy R3II. I did not hear substantial "scaling" when moving from smaller DAP to larger DAP and desktop DAC/amp setup besides a slight improvement in soundstage size. 
+As I mentioned, ST2 is packed with a USB DAC cable. The immediate question would be whether the cable "transparent" or it has some sorts of baked in EQ. As you can see from the frequency response measurement below, the response of ST2 remains unchanged when swapped to an analog cable. This result suggests that the USB DAC cable is "transparent." 
 
-_____
+![](/assets/images/Hidizs-ST2/ST2_graph_DSP.jpg)
 
-Comparisons
-===
+Regarding the DAC itself, I found the cable to sound clearer, more spacious, and more dymamic than the plain old Apple dongle. According to the official spec sheet, it seems that ESS ES9281AC PRO chip provides both DAC and amplification. The volume curve seems to be set quite aggressively, similarly to other USB DAC cables on the market, meaning this DAC gets very loud even at low volume with all of my devices, from HiBy R3II to MacBook. 
 
-
-**Vs AFUL Performer5+2 (P7):**
-
-- Despite having identical graphs, NX8 sounds like a bass-focused IEM whilst P7 sounds more open and "lighter". 
-- The midrange *tonal balance* of P7 and NX8 are nearly identical. That said, the timbre of the midrange of P7 and NX8 are different. I found that NX8 lacks some richness and density in the midrange. This phenomenon is particularly noticeable with cellos and male vocals. 
-- The bass of NX8 sounds thicker and with seemingly longer decay, whilst P7 sounds more "bouncy" and elastic. The amount of bass is quite similar, but the "slower" bass of NX8 makes it feels more bassy, if not slightly "bleeding" over the midrange.
-- P7 has an advantage when it comes to overall clarity and detail retrieval.
-- The soundstage of P7 spreads out more and feels more open than that of NX8.
 
 _____
 
 Gallery
 ===
 
-![](/assets/images/Hidizs-ST2/Hidizs_ST2_10.jpg)
+![](/assets/images/Hidizs-ST2/Hidizs_ST2_1.JPG)
 
-![](/assets/images/Hidizs-ST2/Hidizs_ST2_9.jpg)
+![](/assets/images/Hidizs-ST2/Hidizs_ST2_2.JPG)
 
-![](/assets/images/Hidizs-ST2/Hidizs_ST2_8.jpg)
+![](/assets/images/Hidizs-ST2/Hidizs_ST2_3.JPG)
 
-![](/assets/images/Hidizs-ST2/Hidizs_ST2_7.jpg)
+![](/assets/images/Hidizs-ST2/Hidizs_ST2_4.JPG)
 
-![](/assets/images/Hidizs-ST2/Hidizs_ST2_6.jpg)
+![](/assets/images/Hidizs-ST2/Hidizs_ST2_5.JPG)
 
-![](/assets/images/Hidizs-ST2/Hidizs_ST2_5.jpg)
+![](/assets/images/Hidizs-ST2/Hidizs_ST2_6.JPG)
+
+![](/assets/images/Hidizs-ST2/Hidizs_ST2_7.JPG)
+
 
 _____
 
@@ -130,13 +128,15 @@ Conclusions
 
 **What I like about this IEM:**
 
-- Indulgent, thick bass response
-- Comfortable fit due to small shells and small nozzles
-- Good tonal balance and overall technical performance to complement the bass
+- Punchy, impactful mid-bass
+- The USB DAC cable has the highest handling and comfort so far
+- Interesting soundstage shape with some content
+
 
 **What could be improved:**
 
-- The soundstage could be more spread out and open to take advantage of the good imaging
-- Printed faceplates do not stand up well to closer inspection
+- Recessed and rather boomy midrange
+- Vocals lack a sense of vibrancy and "shine"
+
 
 ![](/assets/images/Hidizs-ST2/Hidizs_ST2_review_1.png)
