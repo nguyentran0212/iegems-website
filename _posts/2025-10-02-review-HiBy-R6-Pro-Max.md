@@ -1,7 +1,7 @@
 ---
-title: "HiBY R6 Pro Max - "
+title: "HiBY R6 Pro Max - The Cheatcode"
 layout: "single"
-excerpts: ""
+excerpts: "The Cheatcode"
 toc: true
 header:
     image: "/assets/images/R3II/Thumbnails.jpg"
@@ -44,10 +44,41 @@ The Android-side of R6 Pro Max is driven by the venerable **Snapdragon 665 SoC, 
 
 
 
-Functionality and User Experience
+Functionality 
 ===
 
+What can R6 Pro Max do? This device offers 4 operating modes, accessible via the "Working Mode" option in the pull down menu. 
+
+**Android Mode**: As you would expect from an Android-based music player, there is a variety of things you can do with this device beyond playing local music files. Whilst the Snapdragon 665 is nearly 6 years old, it is still capable enough to provide a smooth experience when navigating the OS, browsing web, watching Full HD YouTube videos, and, of course, streaming music from TIDAL. You can even emulate retro games on this device up to Playstation Portable at native resolution. That said, the chip is showing its age as more bleeding edge use cases such as running a large language model locally is beyond its reach. For example, when I use MLC Chat application to run small language models such as Phi3.5-Mini on the device, the application crashes before finishing to load the model. It is unknown whether the problem is caused by lack of software libraries in the custom Android implementation of Hiby, lack of hardware features in the Snapdragon 665, or simply the lack of system RAM. Still, if you stay away from bleeding edge use cases and stick to music and video streaming, R6 Pro Max is perfectly adequate and would likely to remain so for a while.
+
+**Pure Audio Mode**: If you want to get away from the distraction of Android and focus on music, this mode is for you. It locks R6 Pro Max to the HiBy music app and prevents you from switching away, meaning you cannot access your Tidal or YouTube app. However, you can still setup Tidal and Qobuz streaming from inside HiBy music app should you need it. I'm unable to hear any practical change in the sonic performance of R6 Pro Max when switching from Android to Pure Audio Mode. Since the Android pull down menu is still accessible inside Pure Audio Mode, I'm inclined to believe that Pure Audio Mode is simply a tweaked version of Android mode rather than a reboot into a different operating system, and thus unlikely to produce any sonic difference.
+
+**USB DAC Mode**: As the name implies, this mode turns R6 Pro Max in a USB DAC for your computer. I tested this feature sucessfully with my MacBook Pro with M1 chip and latest version of macOS. Whilst the audio quality is indeed good, R6 Pro Max still has the same problem that plagued other Android DAP when used as a USB DAC: latency. There is a noticeable gap between the visual content on the screen and the audio content from the DAP, limiting the usefulness of this combination to pure audio playback. This drawback is to be expected, but I still find it rather disappointing as something like R6 Pro Max could be an all-in-one solution for both desktop and portable uses.
+
+**Bluetooth Mode**: R6 Pro Max can send audio to bluetooth headphones as well as receiving bluetooth audio from your phone or computer. It supports UAT, LDAC, SBC, and AAC for both input and output. In addition to these codecs, it can also output aptX and aptX HD. When I tested the bluetooth receiving mode with my iPhone XR, I found the connection via AAC to be quite stable, even when the DAP is a few drywalls away from from the phone. However, the latency was very bad, nullifying the possibility of using R6 Pro Max as a bluetooth DAC for media consumption. 
+
+Battery Life
+===
+
+Some of the most notable aspects of R6 Pro Max would be its thickness and weight, which are necessary to accommodate a large 8200mAh battery. Does this large battery translate to stellar battery life? Mostly yes.
+
+**Runtime:** To assess the battery of R6 Pro Max, I use the AccuBattery application to gather detailed energy consumption data of the device during a test workload that lasted for an hour. This workload features a mixed usage of HD video streaming via the official YouTube application, offline music playback using HiBy Music, and hi-res streaming via Tidal. The onboard amplifier was set to medium gain at the volume level of 27/100, which was enough to reach moderate loudness via the balanced 4.4mm output. For this test, I used Pula ANVIL114, an average IEM in terms of impedance (16.5ohm) and sensitivity (105dB/mW). 
+
+By the end of the mixed usage test, AccuBattery reported a combined usage of 1014mAh or 11.2 percentage, leading to a predicted runtime of up to 9 hours. This figure precisely matches the 9 hours estimation of HiBy and a significant improvement over the 5-7 hours runtime of the previous R6 Pro 2. That said, 
+
+AccuBattery shows a combined usage of 1014mAh or 11.2 percentage per hour, leading to a predicted runtime of up to 9 hours. This usage includes a combination of full screen YouTube videos, offline music playback using HiBy music app, and hi-res streaming via Tidal. The amplifier was set to medium gain, volume 27/100 and output to a normal IEM in terms of impedance and sensitivity (Pula ANVIL114) via balanced output. This figure falls within the estimation from HiBy. Subjectively, 9 hours of runtime is enough to avoid giving me battery anxiety. That said, given the size of R6 Pro Max, I was, perhaps unreasonably, hoping for ultra-long battery life like the 19 hours endurance of the R3II. That's certainly not the case here.
+
+**Standby:** An aspect where R6 Pro Max absolutely impressed me was the standby time. Let me give you an anecdote. I picked up this device from the post in a hurry on 29/12 started a long international trip with this device on the following day. Out of the box, R6 Pro Max had around 80% battery. I used the device on and off, half an hour here, 15 minutes there, once in every other days, and left the device on standby for the remaining time. It took two weeks with this workload for me to drain R6 Pro Max down to 20%. With that being said, I have also seen battery dropping over 10% overnight due to the constant polling of some applications, preventing the device from going into deep sleep state. It is not a frequent problem, fortunately.
+
+**Charging:** Another aspect where R6 Pro Max impresses is the charging time. When I connect R6 Pro Max to my 100W charger to let it draws as much power as it can, AccuBattery reported the max battery charging rate at over 35W, or about 87% per hour. On average, the charging rate seems to stabilize around 25W. In general, you can top up quite a bit of listening time with a short charging session, you can fill up the entire battery within 2 hours. If you are worried about wear and tear on the battery, you can also set a charge limit within the battery settings of the device. 
+
+
 Sonic Performance
+===
+
+How does R6 Pro Max sound?
+
+Experience
 ===
 
 Concluding Remarks
