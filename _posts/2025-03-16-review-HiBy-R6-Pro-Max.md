@@ -60,10 +60,9 @@ Functionality
 
 What can R6 Pro Max do? This device offers 4 operating modes, accessible via the "Working Mode" option in the pull down menu. 
 
-![](/assets/images/R6-Pro-Max/R6ProMax_25.jpg)
-![](/assets/images/R6-Pro-Max/R6ProMax_26.jpg)
-
 ![](/assets/images/R6-Pro-Max/R6ProMax_13.jpg)
+![](/assets/images/R6-Pro-Max/R6ProMax_25.png)
+![](/assets/images/R6-Pro-Max/R6ProMax_26.png)
 
 **Android Mode**: As you would expect from an Android-based music player, there is a variety of things you can do with this device beyond playing local music files. Whilst the Snapdragon 665 is nearly 6 years old, it is still capable enough to provide a smooth experience when navigating the OS, browsing web, watching Full HD YouTube videos, and, of course, streaming music from TIDAL. You can even emulate retro games on this device up to Playstation Portable at native resolution. That said, the chip is showing its age as more bleeding edge use cases such as running a large language model locally is beyond its reach. For example, when I use MLC Chat application to run small language models such as Phi3.5-Mini on the device, the application crashes before finishing to load the model. It is unknown whether the problem is caused by lack of software libraries in the custom Android implementation of Hiby, lack of hardware features in the Snapdragon 665, or simply the lack of system RAM. Still, if you stay away from bleeding edge use cases and stick to music and video streaming, R6 Pro Max is perfectly adequate and would likely to remain so for a while.
 
@@ -86,20 +85,20 @@ R6 Pro Max runs a customised version of Android 12 modified by HiBy. Unlike some
 The main customisation done by HiBy lies in the audio stack. Like other Android DAPs, R6 Pro Max features system-wide *bypass* of Android's resampling (i.e., [Sample Rate Conversion or SRC](https://source.android.com/docs/core/audio/src)), meaning the digital audio content coming out from whatever app you use, be it the built-in music playing app of HiBy, Tidal, or YouTube, are faithfully transferred to the DACs rather than being converted to 48kHz sample rate by Android. Another advantage of this implementation by HiBy is the possibility of applying equalizers and various DSP plugins on any digital audio content coming out of any app the device. It means you can set a system-wide EQ for a particular pair of IEM and be sure that this EQ would be applied consistently regardless of what app you use. 
 
 ![](/assets/images/R6-Pro-Max/R6ProMax_9.jpg)
-![](/assets/images/R6-Pro-Max/R6ProMax_28.jpg)
-![](/assets/images/R6-Pro-Max/R6ProMax_29.jpg)
+![](/assets/images/R6-Pro-Max/R6ProMax_28.png)
+![](/assets/images/R6-Pro-Max/R6ProMax_29.png)
 
 **Audio Settings:** You control the audio stack of R6 Pro Max by accessing the "Audio settings" menu within the Settings. In terms of the settings for the audio hardware, your options are limited to setting the gain of the amplifier and setting the low-pass antialiasing filter for the DAC. Keen readers would find that the ability to switch between class A and class AB amplifier from the previous generation R6 Pro II is no longer present with R6 Pro Max. Of course, all of the interesting filters and harmonic control of DARWIN DACs found on RS6 and RS8 are also not available on R6 Pro Max. From this perspective, R6 Pro Max is surprisingly straightforward and less customisable compared to the usual standard of HiBy DAPs. Whether this is a pro or a con is up to you. 
 
-![](/assets/images/R6-Pro-Max/R6ProMax_30.jpg)
+![](/assets/images/R6-Pro-Max/R6ProMax_30.png)
 
 Whilst the hardware options are scaled back, the whole suite of software tweaks are present here. You would find HiBy's famous MSEB system, which is essentially a parametric EQ cleverly disguised as a set of sliders to adjust different subjective aspects of sound like "cool" or "warm" sound temperature, recessed or forward voices. The latest version of MSEB allows you to save and share your MSEB profiles. HiBy themselves provide four profiles: (1) "Hot Monster Output" for folks who like treble, (2) "Analog" for warm and oldschool sound, (3) Ultra Hifi for a powerful "W-shaped" sound signature (big subbass, subdued midbass, forward midrange, controlled treble, a lot of upper treble "air"), and finally (4) "Digital" which makes very slight adjustments toward a mid-centric signature. 
 
-![](/assets/images/R6-Pro-Max/R6ProMax_32.jpg)
+![](/assets/images/R6-Pro-Max/R6ProMax_32.png)
 
 If you find MSEB too abstract and obscure with all the "audiophile lingos", or you need to EQ very precisely to correct an error of your IEM, you can use the full 10-band parametric EQ (PEQ) instead. The PEQ implementation, to me, is a highlight of the audio suite of R6 Pro Max and simply one of the best PEQ I have ever used. I'm not just talking about the actually algorithm under the hood to implement the PEQ, which I find to be perfectly "transparent". No, the highlight of HiBy's PEQ implementation here is the interactive and well-designed user interface. As you know, a PEQ profile is made up of multiple filters, which would interact with each other to form the final, composite effect on the frequency response of an IEM. Where HiBy's PEQ implementation does so well how easy and responsive it is to place and adjust the filters, just by swiping the sliders, and see the combined effect of the filters updated in real time. Moreover, HiBy is sensible enough to put a proper frequency response graph with clearly labeled X and Y axis, making it very easy to see how wide or narrow each filter is. Thus, the act of setting up a PEQ for an IEM becomes somewhat like an interactive and addicting game.
 
-![](/assets/images/R6-Pro-Max/R6ProMax_31.jpg)
+![](/assets/images/R6-Pro-Max/R6ProMax_31.png)
 
 The DSP plugins are another way your can adjust the sound of IEMs with R6 Pro Max. The stars of the show here are "Convolution filter" and "DRX10K Dynamics". The former allows you to apply interesting effects such as speaker virtualisation, which can trick you into hearing sound coming from outside the head (pretty uncanny, beyond the limit of what IEM "soundstage" can do). The latter is a form of dynamic adjustment that kicks in only when transients (jumps in loudness) happen to boost or cut some frequencies during those transients. It means you can avoid adding bass all the time and making the midrange "muddy", yet you can still have a precise bass boost only when bass attacks happen to make your IEMs thumpy and lively. Usually, you need to change the amplifier if you want to improve the dynamic, but with DRX10K plugin, you can mimic that effect purely from software. I find this plugin a game changer for smaller DAPs such as HiBy R4. However, I did not find the need to use DRX10K with R6 Pro Max, given the prowess of its amplifier circuitry. 
 
