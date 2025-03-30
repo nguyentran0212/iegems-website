@@ -1,7 +1,7 @@
 ---
-title: "HiBy FD5 - 2-in-1"
+title: "HiBy FD5 - Analogue and Powerful"
 layout: "single"
-excerpts: "2-in-1"
+excerpts: "Analogue and Powerful"
 toc: true
 header:
     image: "/assets/images/R6-Pro-Max/R6ProMax_Summary.jpg"
