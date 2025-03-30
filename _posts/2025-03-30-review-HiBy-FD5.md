@@ -55,8 +55,37 @@ Sonic Performance
 
 *Note: Comparisons in this section were based on A/B tests where participating devices were volume-matched to 73dB with a coupler using pink noise. Unless mentioned otherwise, AFUL Cantor was used as the IEM in the comparisons.*
 
+Before we talk about the sonic performance of FD5, it's important to talk about its ability to switch between class A and class AB, which is quite an impact on the sound signature of FD5. Simply put, class AB sounds crisper, as if every elements on the soundstage has more precise "size" and positioning. However, the soundstage in class AB feels smaller and more in-the-head. Class A mode of FD5 creates the opposite effect: every elements in the mix feel a bit smoother and somewhat less precise, but the soundstage feels larger and more enveloping. This difference is quite easy to spot with more spacious tracks such as [Shadow of Baar Dau](https://tidal.com/browse/track/74631156?u), if you pay attention to the female voice in the background. Class AB makes the voice sharper and "nearer", whilst class A sounds more "atmospheric" and immersive. The difference is not day-and-night, like when you flip on an EQ profile. However, it is the small things, like the rendition of the background vocals that I described, combined together over the course of many songs that completely changed how I feel and engage with the content. Your preference would determine whether A or AB is better. Personally, I think my IEMs sound better with Class A amplifier of FD5. The rest of this discussion about sonic performance of FD5 would be based on Class A. 
 
+In Class A mode, the sound of FD5 can be described as large, enveloping, powerful, and somewhat analogue. The "large" and "enveloping" subjective impressions of the FD5 is readily expressed in recordings with a strong sense of space and atmosphere, such as the OST album of The Elder Scrolls Online that I linked above. Simply put, if a recording is mixed to convey a sphere of sound around you, FD5 would be able to convey that sensation as well as you would expected from a desktop-class device. It should be noted that FD5 does not do any DSP shenanigans behind the scene, so if a recording places the phantom center of the soundstage (e.g., where the singer usually stands) upfront, inside your head, FD5 would not try to bring the center out to the front of your face. If that sorts of "large" soundstage you are looking for, you need to use DSP rather than changing a DAC or amplifier. 
+
+The "somewhat analogue" aspect of FD5 seems to stem from the Class A amplifier. By "analogue", I mean FD5 does not present the mix in an edgy or harsh way. Instead, all the transients (e.g., note attacks) as well as the placement of sound elements on the soundstage has a "softened" sensation. I use the term "somewhat" here because FD5 does not goes all the way in making the sound hazy or warm. It's just not extremely snappy or edgy. This presentation has pros and cons. The pros side is easy to see: a more atmospheric and easy-going impression that suits longer listening session. The cons is that FD5 does not feel particularly precise or detailed, especially when I compare it to some digital audio players (DAPs) with strong detail retrieval. Just to be clear, I'm not saying that FD5 sounds blurry or mushy or lacks details. It's simply not a super crisp and detailed DAC+amp combo. 
+
+One aspect where FD5 does surprisingly well is the bass, particularly subbass. I was caught off-guard by the subbass a quite a few times when listening to some familiar tracks in my library or watching some old videos, didn't realise these content actually has a pronounced subbass element. The quality of the bass, reflected by the details and the perceived "textures" in the bass notes and subbass rumbles, is also very good with FD5. That said, due to the "somewhat analogue" presentation of FD5, this device does not feel particularly bass boosted or overtly dynamic. Instead, it always feel "lowkey" but authoritative when needed.
+
+**Pairing with Special IEMs**: FD5 works *okay* with sensitive IEMs. When the music plays, I couldn't hear the background hissing noise with sensitive IEMs like AFUL Performer5+2 or HiBy Yacht10. However, ultra-sensitive IEMs like Campfire Audio Andromeda 2020 will reveal a faint hissing noise that's constantly in the background, which reminds me of watching old TVs. My brain filters out that noise quickly, but it's always there. On the plus side, there is no problem with FD5 getting overly loud when driving Andromeda, which is great. Andromeda also benefits from the powerful bass presentation of FD5, so I can live with the hiss. 
+
+On the opposite end of the spectrum, FD5 has no problem handling IEMs and earbuds with high impedance or ultra-low sensitivity. It drives the notorious Final Audio E5000 with authority, creating a thick and controlled bass line and great sense of depth. Sennheiser HD560S also sounds quite decent with FD5 thanks to the slightly better bass and the "somewhat analogue" presentation.
+
+**Comparisons**:
+
+- HiBy R3II (Micro DAP): Despite having the "somewhat analogue" characteristic, FD5 still comfortably out-does R3II in terms of the sense of clarity and precision of the presentation of sonic elements in the mix. Another noticeable difference between FD5 and R3II is the bass, particularly the subbass. Simply put, FD5 rumbles more and its bass lines are more controlled and refined in direct comparison against R3II. Perhaps thanks to the better bass response, music also sounds like they have more near-to-far perception (a.k.a., "depth") compared to R3II.
+- L&P W4 (High-end USB DAC): This comparison is perhaps the most critical one for FD5. Surprisingly, the result was more one-sided than I expected: FD5 comfortably outshines W4 due to the way it handles bass. For instance, when I listen to Shadow of Baar Dau, the way FD5 makes the bass line *rumbles* lends a sense of power and atmosphere to the track. Meanwhile, W4 feels *flat* and lifeless in comparison as it cannot do the bass like FD5. As a result, even though W4 might be more detailed and precise, I find the sense of power conveyed by FD5 a worthy trade-off. 
+- HiBy R6 Pro Max (High-end DAP): I found the FD5 and R6 Pro Max trade blows in soundstage size. FD5's stage is slightly larger and more open. The perceived bass power is similar, but FD5 lacks the incisiveness of transients, resulting in a less pitch black background and more "analog" sounding presentation. In other words, FD5 is more about rumble and an analogue sensation, whilst R6 Pro Max has an upper hand in terms of the punchiness and dynamic. R6 Pro Max also sounds more precise and more detailed than FD5. Since my preference leans towards resolution, precision, and dynamic, I prefer R6 Pro Max in this comparison, but your preference might lean towards the analogue and powerful sound of FD5 might be more suitable.
 
 Concluding Remarks
 ===
 
+What I like about this device: 
+
+- Design, machining, and build quality
+- The sense of power coming from strong and controlled subbass
+- The sense of space and envelopment with most recordings
+- Two sound signatures within one package
+- Minimal delay in Bluetooth mode
+- Price
+
+What could be improved:
+
+- Still use barrel plug instead of USB-C for power supply
+- Could be a bit more crisp and resolving
