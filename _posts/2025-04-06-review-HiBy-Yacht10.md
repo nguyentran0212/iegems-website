@@ -71,6 +71,22 @@ Sonic Performance
 
 **Stereo imaging and soundstage:** 
 
+
+_____
+
+Comparisons
+===
+
+**Moondrop Aria 2021:** We start our comparisons with one of the classics. Using Folsom Blue by Johnny Cash (live at Folsom Prison in January 1968) as the test track, four differences stand out: (1) Yacht10 is much more sensitive than Aria (volume 26/100 vs 37/100), (2) the voice of Johnny Cash is much more emphasised, crisp, and detailed with Yacht10, (3) the drum line feels much more "snappy" on Yacht10, (4) the background is cleaner with more space between sounds in the mix with Yacht10, making the stage more open and holographic. Unless you prefer a more mild and soft sonic presentation, I would say this comparison is a one-sided battle favouring Yacht10.
+
+**Moondrop Blessing 2:** Let's continue our comparisons with another classic. For this comparison, I listened to Man in Black by Johnny Cash. Right of the bat, I found three differences: (1) Yacht10 is, again, more sensitive than Blessing 2 (27/100 vs 37/100), (2) the bass notes are noticeably more snappy and tactile on Yacht10, and (3) the tone of Johnny's voice is very different. His voice sounds a bit thin and shouty on Blessing 2, and more natural on Yacht10. In terms of detail retrieval in the midrange region and the separation of instruments, I found Yacht10 and Blessing 2 practically identical. 
+
+**Simgot EA1000:** For the next comparison, let's visit one of the high-performing DD-based IEM from Simgot, the famed EA1000. For this comparison, I continue my journey through the songs of Johnny Cash with the funny "I've Been Everywhere." For the first time in this comparison, we have an IEM more sensitive than Yacht10: EA1000 requires 30/100 on my R6 Pro Max whilst Yacht10 requires 32/100. In terms of tonality, I found Johnny's voice a bit thin and edgy with EA1000 and more natural and enjoyable with Yacht10. The bass is another area where Yacht10 has a clear edge over EA1000. The bass line is just "bigger", more impactful and noticeably more toe-tapping with Yacht10, compared to the more reserved presentation bass presentation of EA1000. Both IEMs aim for a snappy and tight bass presentation, but Yacht10 just a step ahead. On the other hand, the position of instruments on the stage feels slightly more focused with EA1000. The passive radiator firing against the concha of the ears in EA1000 also creates an interestingly uncanny sensation with instruments panned hard to the side channels. Still, in general, I would say EA1000 and Yacht10 are practically identical in terms of technical performance. 
+
+**KiwiEars Singolo:** Singolo is a pretty interesting IEM, at least in theory, with a filter-less design and 3D printed bass tube. For this comparison, I listen to one of my favourites, "I Walk The Line" by Johnny Cash. Firstly, Yacht10 is much more sensitive than Singolo (30/100 vs 38/100). Secondly, the voice of Johnny as well as the present of all instruments in the mix are noticeably more incisive, with more details with Yacht10. Interestingly, the bassline of Singolo does not fall behind Yacht10 noticeably in both quality and quantity. However, when I consider the whole sonic presentation, I think Yacht10 offers a more compelling and refined sound. 
+
+
+
 _____
 
 Conclusions
