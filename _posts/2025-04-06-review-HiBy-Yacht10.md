@@ -42,8 +42,11 @@ Non-sound Aspects
 ===
 
 ![](/assets/images/HiBy-Yacht10/Yacht10_65.jpg)
+
 ![](/assets/images/HiBy-Yacht10/Yacht10_64.jpg)
+
 ![](/assets/images/HiBy-Yacht10/Yacht10_63.jpg)
+
 ![](/assets/images/HiBy-Yacht10/Yacht10_62.jpg)
 
 Yacht10 comes in an attractive box that carries the same "cyberpunk" design of recent HiBy releases, the R4 and FD5. Inside the box, you would find a familiar set of accessories:
@@ -75,9 +78,13 @@ Sonic Performance
 ===
 
 ![](/assets/images/HiBy-Yacht10/Yacht10_59.jpg)
+
 ![](/assets/images/HiBy-Yacht10/Yacht10_58.jpg)
+
 ![](/assets/images/HiBy-Yacht10/Yacht10_57.jpg)
+
 ![](/assets/images/HiBy-Yacht10/Yacht10_56.jpg)
+
 ![](/assets/images/HiBy-Yacht10/Yacht10_55.jpg)
 
 **Timbre and tonality:** The tonality of Yacht10 was surprisingly delightful to me. It has just the right amount of energy in the lower midrange to gives most voices from deep bass voice of Johnny Cash to higher voice of Ed Sheeran and sense of richness. At the same time, it never overcooks this region and thus avoids any sense of muddiness or overtly colouring. Looking at the graph, we immediately see the reason of this excellent midrange: Yacht10 shares the same lower midrange tuning with one of my favourite and arguably the best midrange I have ever tested, the 7th Acoustic Supernova.
@@ -97,6 +104,7 @@ The treble of Yacht10 is probably the weakest point in its response. One of the 
 The details within the midrange, especially voices, are also well presented by Yacht10. I think the overall detail retrieval is only held back by the weak treble extension, which dimmed the nuances and the "ambience" built into detail-rich recordings. 
 
 ![](/assets/images/HiBy-Yacht10/Yacht10_52.jpg)
+
 ![](/assets/images/HiBy-Yacht10/Yacht10_51.jpg)
 
 **Stereo imaging and soundstage:** Let's start with the positive: Yacht10 has wide and open soundstage. Listening to this IEM feels like sitting in a room with open windows. It's breezing, comfortable, spacious. Where Yacht10 tumbles, for me, is the depth illusion of the stage. Simply put, the contrast between near and far elements in a mix are not strong. As a result, the soundstage feels like a 2D plane between two ears rather than a 3D sphere around and within the head. As a result, I find it's rather hard to use Yacht10 in FPS games, as it does not convey and distinguish the position of sounds coming from the front very well. 
