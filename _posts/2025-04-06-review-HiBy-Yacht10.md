@@ -34,7 +34,7 @@ Of course, the drivers themselves are just a part of the equation when designing
 
 The entire earpiece of Yacht10 is machined from the T6063 aluminium alloy. Each earpiece is made up of two metal parts, snap-fitted together. You can see a seamline on the side of the earpieces where the parts are joined. 
 
-The nozzles of Yacht10 are molded into the earpieces. They have protruding lips at the top to prevent eartips from slipping off. The nozzle measures at 5.3mm at the narrowest point and 6.0mm at the widest point at the lips. The nozzle length is 5.1mm, meaning it can fit most eartips. The total protrusion from the base of the earpieces to the tip of the nozzles measure at 10mm. 
+The nozzles of Yacht10 are molded into the earpieces. They have protruding lips at the top to prevent eartips from slipping off. The nozzle measures at 5.2mm at the narrowest point and 6.1mm at the widest point at the lips. The nozzle length is 5.1mm, meaning it can fit most eartips. The total protrusion from the base of the earpieces to the tip of the nozzles measure at 10mm. 
 
 _____
 
