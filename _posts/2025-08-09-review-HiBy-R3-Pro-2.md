@@ -38,10 +38,8 @@ And then there’s the back with the striking *Ultrasuede* felt plate in the sam
 Now, the obvious question: durability. You would be right to concern because high-tech fabric or not, at the end of the day, it's still your greasy hands against a piece of fuzzy fabric. That said, after weeks of use with no case, no gloves, no ritualistic hand-washing, I’ve seen no wear, no fraying, no discoloration. Even when I accidentally spilled a bit of cleaning spray on it, there were no stains nor blemishes. If you’re nervous about the durability, HiBy’s kind enough to include a plastic case in the box. Or, for the slightly more indulgent, you can buy a proper leather one from them. But honestly? The felt back is one of the best things about this DAP. It makes it feel like something you’d actually *want* to hold. Therefore, I'm going to live dangerously and use the DAP bare.
 
 
-Experience
+Functionality and Software
 ===
-
-So, how does it *feel* to use this DAP? Well, I’ve been daily driving this DAP for many weeks before writing this review (probably many more weeks than HiBy ever expected). It’s not just a review unit; it’s now a cohabitant. A tiny, thicc cohabitant that insists on being in my pocket, my bag, and occasionally my dreams.
 
 **Functionality**: Let’s get practical. What *can* you actually *do* with this thing? It’s not just a music player. It’s a Swiss Army knife of audio. Here’s the full spread:
 
@@ -83,6 +81,48 @@ On the plus side, R3 Pro 2 handles multi-CD albums far better than HiBy’s own 
 - **NOS (non-oversampling)**: A toggle between oversampling and non-oversampling modes. NOS is technically less ideal from a signal fidelity standpoint—it’s not the cleanest reconstruction—but some listeners find it more “relaxed” or “musical”. I find that NOS works better with hi-res files.  
 
 Now, here’s the reality: deeper DSP tools, like dynamic extenders and convolutional filters, are missing. This is likely due to the limitation of the processor on R3 Pro 2. And because the R3 Pro 2 uses off-the-shelf CS DACs instead of HiBy’s custom DARWIN circuits, fine-grained control over DAC performance isn’t available either.  
+
+
+Experience
+===
+
+So, how does it *feel* to use this DAP? Well, I’ve been daily driving this DAP for many weeks before writing this review (probably many more weeks than HiBy ever expected). It’s not just a review unit; it’s now a cohabitant. A tiny, *thicc* cohabitant that insists on being in my pocket, my bag, and occasionally my dreams.
+
+What I love most about the R3 Pro 2 is its versatility — it’s not just a music player; it’s a multi-role tool that fits neatly into my day. At work, it acts as a USB DAC for my Linux desktop, streaming lofi background music from YouTube. On short walks or during my commute? It switches to an offline playback device, running tracks straight from my SD card. And when I’m relaxing at home and watching videos on my Android phone, it drops into Bluetooth DAC mode — clean, stable, and reliable.
+
+Functionally, it nails all of this without fuss. The only real gripe is audio latency in USB mode — which is oddly worse than in Bluetooth. That’s a bit baffling given how well the rest of it performs. It's quite jarring when you’re listening to something with tight timing, like live percussion or dialogue-heavy content.
+
+Battery life? Solid. I had a bit of battery anxiety the first few days before I constantly checked the battery percentage number. Now, after weeks of living this device, i'm quite relaxed now. It lasts forever, and it charges in a flash. And that chunky, satisfying feel in your hand? A joy. The fuzzy felt back panel makes R3 Pro 2 a joy to hold. And the loud orange colour of my unit ensures it’s not the kind of device you’d forget to carry.  
+
+Button layout is where it truly improves over its more expensive sibling, the R6 Pro Max. Back then, I was constantly frustrated by the placement: buttons on the wrong side for right-handed users (a boon for left-handers, to think about it). The R3 Pro 2 fixes this completely (and ruin the party for left-handers). Hold it in your right hand and your middle finger lands on volume controls, thumb on playback — natural, intuitive. You can operate it blindfolded, even when tucked in your coat pocket. And yes, the loss of the physical volume knob wasn’t a dealbreaker. In fact, it was a relief — no more fumbling, no more accidental power-offs from a finger brushing against it. Buttons are less sexy than knobs? Sure. But they work reliably.  
+
+Of course, all this means nothing if the sound’s off. And honestly, we’re both audiophiles, we know that we care about music quality more than logic. I'm not stranger to our audiophile ... quirks since I’ve carried the R6 Pro Max around like it was a Swiss Army knife for audio since late 2024. It’s heavy, bulky, but I don't care because it sounds so good.  
+
+So here’s the moment: **with the R3 Pro 2, I finally have the confidence to leave the R6 Pro Max at home**.
+
+That's it. That's my review of the R3 Pro 2 sound. 
+
+Just kidding! Let’s actually talk about sound. (I guess you’ve been waiting for this since paragraph one.)  
+
+Before we move on, let's have one quick detour to talk about DAP's sound quality. It’s hard to *hear* what a DAP does because it’s not the star of the show. The DAP is the stage, the frame — your baseline when listening through IEMs. If an IEM sounds muddy to piercing, do you blame the earpiece or the source device? That’s the problem: we can’t judge DAP sound on its own without comparing it across multiple IEMs and long-term use to extract that *invariant* factor.
+
+So what makes a good DAP objectively? It should reconstruct and amplify audio faithfully — with minimal noise, distortion, and lightning-fast response to transients. Most modern DAPs meet these benchmarks in specs: clean measurements, near-zero noise floors, distortion well below the threshold of human hearing. But that doesn’t always translate into *sound*. You’ll still hear differences, despite a superficial glance at the spec sheet saying otherwise. Thus, as usual with personal audio, we need to venture into the cloudy world of subjectivity.
+
+To me, a good DAP is **resolving**, **dynamic**, and **spacious**. All of which, I believe, are proxies for and reflection of objective engineering excellence. 
+
+**Resolving** means you can hear the quietest details — breaths between notes, reed vibrations, a finger tap on a string — all the way down into silence. A good DAP doesn’t just fade out; it sustains clarity. When the volume drops, when the notes fade out, that's where the difference in resolution between DAPs speaks louder. 
+
+**Dynamic** means it can handle volume swings with accuracy and punch. Not loud all the time or quiet all the time — but capable of going from silence to thunderclap in a single note. Some DAPs sound compressed, like music is being squeezed into a cardboard box. Others lack excitement — even with strong IEMs and powerful tracks, they just don’t *slam*. That’s not dynamic.
+
+**Spacious** means it helps your IEM recreate the spatial cues in recordings — instruments spread out, not clustered together in your head. Some DAPs make everything feel close, muddled, like a band playing in a cramped room. A spacious one opens up the mix: instruments seem to *pop* from empty space. That comes down to three things:  
+
+- Excellent treble extension — so high frequencies stay sharp and clear;  
+- Tidy, snappy transients — keeping everything defined and separated;  
+- A pitch-black background — giving the impression that sound emerges from nothing.  
+
+And here’s a final note on synergy: most DAPs are neutral in tone, but some shift the colour of your IEMs noticeably — making them brighter, darker, warmer or colder. Small bumps in frequency response can change how an IEM feels entirely. This is where pairing matters. A bright, edgy IEM might thrive with a warm, gummy DAP, while a warm and gummy IEM could shine under a crisp, clean signal. But synergy is subjective — and I don’t evaluate DAPs on it. I just observe what happens when the two work together.  
+
+With this framework in mind, let's talk about R3 Pro 2. 
 
 
 
