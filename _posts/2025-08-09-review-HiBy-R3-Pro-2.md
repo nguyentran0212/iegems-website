@@ -60,33 +60,30 @@ Now, the surprise: **the (lack of) Bluetooth latency**. This is where the R3 Pro
 
 **Battery:** Before we dive into the software, let’s talk battery. HiBy stuffed it with a 4000mAh cell that is supposed to be good enough for 21+ hours of playback and 900 hours of standby. Now, 900 hours standby? That’s only possible if you turn the thing off. But the rest? *Accurate*. With my usage that includes all-day USB DAC mode, about an hour of offline playback, an hour of Bluetooth streaming, I’m getting at least *four days* of real-world use before needing a top-up. In fact, I charged so rarely that I can barely recall the last time I charge this device during my weeks of testing. When it's time to charge, R3 Pro 2 is blazingly fast thanks to the PD2.0 fast charging. I generally just plug this device to my 100W laptop charger and go deal with other house chores and come back to a fully charged device, ready for another week.
 
-**Software features:** Offline playback works—just not beautifully. Tap the "Music" button on the main menu, and you’re handed a six-option interface: *All*, *Files*, *Albums*, *Artists*, *Genres*, and *Album Artist*. The last one’s a quiet win; long-sought-after in earlier versions, it finally groups tracks by album artist rather than just performer. The rest is standard: albums, artists, genres—all the expected bits.   
+**Software features:** Offline playback works—just not beautifully. Tap the "Music" button on the main menu, and you’re handed a six-option interface: *All*, *Files*, *Albums*, *Artists*, *Genres*, and *Album Artist*. The last one’s a long-sought-after feature in earlier versions, given by the number of questions I received after publishing reviews of DAPs based on the older HiBy OS.    
 
 At the top-right corner of that page sits a gear icon—your gateway to playback and DSP settings. It’s all mixed together here: gapless playback, repeat modes, folder-based playthroughs, plus HiBy’s signature MSEB EQ, a 10-band graphical EQ, and stereo expander plugin. DAC controls are also present—selectable low-pass filters, oversampling (OS) vs non-oversampling (NOS), and DSD handling options.
 
-It’s not bad—but it’s not polished either. The interface could use better grouping. You’ll want to turn on *gapless playback* and *automatically slide to the playback interface* for smoother transitions; those two make a noticeable difference in real-world use.  
+Feature-wise, it’s not bad. However, the interface could use better grouping. You’ll want to turn on *gapless playback* and *automatically slide to the playback interface* for smoother transitions; those two make a noticeable difference in real-world use.  
 
-There are occasional hiccups: album art might fail to load, or the song list won’t update when you skip tracks. These small glitches were mostly resolve after the first firmware update. Still, one nagging issue remains: no progressive JPEG support. Same SD card? On an Android DAP, your album art is full and crisp. On the R3 Pro 2, they are often missing. A shame.  
+There are occasional hiccups in daily uses. For example, album art might fail to load, or the song list won’t update when you skip tracks. These small glitches were mostly resolve after the first firmware update. Still, one nagging issue remains: no progressive JPEG support. Same SD card? On an Android DAP, your album art is full and crisp. On the R3 Pro 2, they are often missing, which is a shame as the album arts that actually show up looks quite lovely on the 3.3 inch screen.
 
-On the plus side, it handles multi-CD albums far better than HiBy’s own mobile app does—so yes, you win some, lose some. 
+On the plus side, R3 Pro 2 handles multi-CD albums far better than HiBy’s own mobile app does—so yes, you win some, lose some. 
 
-**Sound tweaking options:** It's a HiBy DAP, so you know that you will have quite a bit of options to tweak the sound. Here are what are available:
-- MSEB: it's essentially a parametric EQ with a fixed set of filters. It allows you to broadly tweak the subjective aspects of sound without having to know which part of the frequency response is responsible for those subjective aspects. In particular, MSEB allows you to change:
-    - Overall tonal "temperature" between cold bright and warm dark
-    - Bass extension (in particular, how much subbass there is): light or deep
-    - Bass texture (mostly control the mid-bass region): fast or thumpy
-    - Note thickness (mostly lower midrange): crisp or thick
-    - Vocals (mostly mid-midrange): recessed or forward
-    - Female overtone (mostly upper midrange): "detox" or vivid.
-    - Lower sibilance: soft or crisp
-    - Higher sibilance: soft or crisp
-    - Impulse response (somewhere around 8-12kHz): slow and musical or fast and hard.
-    - Treble air: soft or crisp
-- Equalizer: the normal 10-band graphical EQ, spreading from 31Hz to 16kHz. 
-- Soundfield: stereo extender, modifying the music to make left and right channel more separated, can make the soundstage feels wider. Noted that this is not the complex DSP plugin that is available on Android DAP of HiBy.
-- Gain: low or high gain. 
-- NOS: oversampling vs non-oversampling. Essentially, you control the way the DAC circuitry reconstruct the signal. Technically, NOS is an inferior approach from a signal reproduction perspective, but it can give a roll-off sound that some listenres find relaxing and more "musical". You should try and see which one vibe with you. I found that NOS works better with high-res files. 
-- Unfortunately, more interesting DSP plugins on HiBy's Android DAP such as dynamic extender are not available, likely due to the lack of processing power. Deep tweaking of the DAC circuitry is also not available, because R3 Pro 2 uses off-the-shelf CS DACs rather than HiBy's discrete DARWIN DAC circuitry. 
+**Sound tweaking options:** Yes, it’s a HiBy DAP—so you’re going to find plenty of tools to shape the sound. Here’s what’s on offer:  
+
+- **MSEB**: A parametric EQ with pre-set filters that lets you adjust the overall tonal character without needing to know exactly which frequencies drive certain feelings. You can dial in a range of effects—like shifting from cold and bright to warm and dark, adjusting bass depth (light or deep), changing mid-bass texture (fast or thumpy), tweaking note clarity (crisp or thick), placing vocals either recessed or forward, shaping female vocal overtones ("detox" or vivid), softening or sharpening sibilance across the spectrum, and controlling how much air and body you get in the upper treble (slow and musical vs fast and hard). It’s not precise engineering—it’s more about mood. And it works.  
+
+- **10-band graphical EQ**: Runs from 31Hz to 16kHz. Standard stuff. Gives you fine control where you need it, but doesn’t go deep into psychoacoustic territory.  
+
+- **Soundfield**: A simple stereo extender that widens the stereo image by pushing left and right channels further apart. It makes the soundstage feel artificially wider, but it’s not anything the speakervirtualisation plugin available on HiBy’s Android DAPs.   
+
+- **Gain**: Two options—low or high. I did not hear much, if any, sonic difference this time, so I leave the DAP at low gain.
+
+- **NOS (non-oversampling)**: A toggle between oversampling and non-oversampling modes. NOS is technically less ideal from a signal fidelity standpoint—it’s not the cleanest reconstruction—but some listeners find it more “relaxed” or “musical”. I find that NOS works better with hi-res files.  
+
+Now, here’s the reality: deeper DSP tools, like dynamic extenders and convolutional filters, are missing. This is likely due to the limitation of the processor on R3 Pro 2. And because the R3 Pro 2 uses off-the-shelf CS DACs instead of HiBy’s custom DARWIN circuits, fine-grained control over DAC performance isn’t available either.  
+
 
 
 Concluding Remarks
