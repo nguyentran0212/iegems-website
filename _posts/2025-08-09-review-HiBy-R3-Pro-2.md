@@ -50,7 +50,7 @@ Software Functionality and Battery Life
 - Bluetooth: use it as a wireless DAC/amp for your phone or laptop. Alternatively, you can connect your earbuds to R3 Pro 2 and listen to the audio coming out from the DAP.  
 - USB-C: plug it into your laptop or PC and it becomes a USB DAC. Or, you can have it digital audio to a separate DAC, essentially turning R3 Pro 2 into a digital transport.  
 
-And yes, you can read books on it. I don’t know why. A 3.3-inch screen? For a novel? It's like trying to read War and Peace on a postage stamp. You’ll finish it, but you’ll question your life choices.
+And yes, you can read books on it. I don’t know why. A 3.3-inch screen? For a novel? It's like trying to read War and Peace on a postage stamp. You’ll finish it, but your eyes would fall off by the end.
 
 For most of my testing, I used it as a USB DAC for my Linux workstation during the work hours and play local files while commuting. You can choose to charge it while it’s plugged in. I didn’t. Why? Superstition: I didn’t want to overcharge the battery. The sound in USB DAC indistinguishable from the local audio playback. **But here’s the rub: latency in USB DAC mode.** It’s noticeable. Not terrible, but enough to make you twitch if you’re syncing audio with video. And yes, *all* DAPs I’ve tested so far, Android or Linux, have this same problem. It’s not unique. It’s disappointing that it's still there on the R3 Pro 2. 
 
