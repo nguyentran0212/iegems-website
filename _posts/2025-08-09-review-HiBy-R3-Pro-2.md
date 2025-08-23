@@ -38,7 +38,7 @@ And then there’s the back with the striking *Ultrasuede* felt plate in the sam
 Now, the obvious question: durability. You would be right to concern because high-tech fabric or not, at the end of the day, it's still your greasy hands against a piece of fuzzy fabric. That said, after weeks of use with no case, no gloves, no ritualistic hand-washing, I’ve seen no wear, no fraying, no discoloration. Even when I accidentally spilled a bit of cleaning spray on it, there were no stains nor blemishes. If you’re nervous about the durability, HiBy’s kind enough to include a plastic case in the box. Or, for the slightly more indulgent, you can buy a proper leather one from them. But honestly? The felt back is one of the best things about this DAP. It makes it feel like something you’d actually *want* to hold. Therefore, I'm going to live dangerously and use the DAP bare.
 
 
-Functionality and Software
+Software Functionality and Battery Life
 ===
 
 **Functionality**: Let’s get practical. What *can* you actually *do* with this thing? It’s not just a music player. It’s a Swiss Army knife of audio. Here’s the full spread:
@@ -66,7 +66,7 @@ Feature-wise, it’s not bad. However, the interface could use better grouping. 
 
 There are occasional hiccups in daily uses. For example, album art might fail to load, or the song list won’t update when you skip tracks. These small glitches were mostly resolve after the first firmware update. Still, one nagging issue remains: no progressive JPEG support. Same SD card? On an Android DAP, your album art is full and crisp. On the R3 Pro 2, they are often missing, which is a shame as the album arts that actually show up looks quite lovely on the 3.3 inch screen.
 
-On the plus side, R3 Pro 2 handles multi-CD albums far better than HiBy’s own mobile app does—so yes, you win some, lose some. 
+On the plus side, R3 Pro 2 handles multi-CD albums far better than HiBy’s own mobile app does. For instance, I have a multi-CD album that HiBy Android App keeps displaying as multiple albums. Such problem does not exist in any version of HiBy OS. So, yeah, you win some, you lose some.
 
 **Sound tweaking options:** Yes, it’s a HiBy DAP—so you’re going to find plenty of tools to shape the sound. Here’s what’s on offer:  
 
@@ -83,28 +83,39 @@ On the plus side, R3 Pro 2 handles multi-CD albums far better than HiBy’s own 
 Now, here’s the reality: deeper DSP tools, like dynamic extenders and convolutional filters, are missing. This is likely due to the limitation of the processor on R3 Pro 2. And because the R3 Pro 2 uses off-the-shelf CS DACs instead of HiBy’s custom DARWIN circuits, fine-grained control over DAC performance isn’t available either.  
 
 
-Experience
+Experience and Sound Quality
 ===
 
 So, how does it *feel* to use this DAP? Well, I’ve been daily driving this DAP for many weeks before writing this review (probably many more weeks than HiBy ever expected). It’s not just a review unit; it’s now a cohabitant. A tiny, *thicc* cohabitant that insists on being in my pocket, my bag, and occasionally my dreams.
 
-What I love most about the R3 Pro 2 is its versatility — it’s not just a music player; it’s a multi-role tool that fits neatly into my day. At work, it acts as a USB DAC for my Linux desktop, streaming lofi background music from YouTube. On short walks or during my commute? It switches to an offline playback device, running tracks straight from my SD card. And when I’m relaxing at home and watching videos on my Android phone, it drops into Bluetooth DAC mode — clean, stable, and reliable.
+**Day-to-day Usage Experience**: Here’s how my day looks with the R3 Pro 2:
 
-Functionally, it nails all of this without fuss. The only real gripe is audio latency in USB mode — which is oddly worse than in Bluetooth. That’s a bit baffling given how well the rest of it performs. It's quite jarring when you’re listening to something with tight timing, like live percussion or dialogue-heavy content.
+In the morning, I grab it from my desk, next to my phones, wallet, and notebook, before heading out. If I’m wearing a casual blazer, it slips neatly into the chest pocket. A real suit? It stays in the briefcase on top of the laptop. Honestly, its thickness does mess with the clean lines of a jacket. But for a scruffy blazer? Not an issue.
 
-Battery life? Solid. I had a bit of battery anxiety the first few days before I constantly checked the battery percentage number. Now, after weeks of living this device, i'm quite relaxed now. It lasts forever, and it charges in a flash. And that chunky, satisfying feel in your hand? A joy. The fuzzy felt back panel makes R3 Pro 2 a joy to hold. And the loud orange colour of my unit ensures it’s not the kind of device you’d forget to carry.  
+I might take it (the DAP, of course) out on public transport if I decide I want to listen to something. When I do, it’s a breeze: turn it on, pop in my wired IEMs, select a song, check volume, put the earpieces in my ears and slide the DAP back into the pocket. Buttons are tactile so I can control volume and playback without taking the DAP out of the pocket.
 
-Button layout is where it truly improves over its more expensive sibling, the R6 Pro Max. Back then, I was constantly frustrated by the placement: buttons on the wrong side for right-handed users (a boon for left-handers, to think about it). The R3 Pro 2 fixes this completely (and ruin the party for left-handers). Hold it in your right hand and your middle finger lands on volume controls, thumb on playback — natural, intuitive. You can operate it blindfolded, even when tucked in your coat pocket. And yes, the loss of the physical volume knob wasn’t a dealbreaker. In fact, it was a relief — no more fumbling, no more accidental power-offs from a finger brushing against it. Buttons are less sexy than knobs? Sure. But they work reliably.  
+At the office, the first thing I do is to unpack my laptop, remove the DAP from my jacket, and connect it to the laptop with the laptop's USB-C charging cable. It auto-turns on and docks as a USB storage device. Here’s where it gets slightly annoying: I need to manually switch out of storage mode, click into USB DAC mode, and choose "not charging" before R3 Pro 2 appears on the laptop as a USB-C DAC device. My Archlinux laptop detects the devices automatically with zero issue, so kudos to Hiby's software engineers. I leave the DAP alone for the day and connect to wired IEM to it whenever I want to listen to something from my laptop. When I take a short walk, I just unplug the DAP and it reverts to local playback mode automatically.
 
-Of course, all this means nothing if the sound’s off. And honestly, we’re both audiophiles, we know that we care about music quality more than logic. I'm not stranger to our audiophile ... quirks since I’ve carried the R6 Pro Max around like it was a Swiss Army knife for audio since late 2024. It’s heavy, bulky, but I don't care because it sounds so good.  
+Back home? I stash it where I found it in the morning. If needed, I plug it into my USB-C laptop charger to top it up.
+
+At night, I might pick it up once more and pair it wirelessly to my phone. It remembers the connection, so every time I switch to Bluetooth DAC mode, it pairs automatically with the right codec (LDAC). No Wi-Fi streaming or file transfers in my daily use. I didn’t need them. But it's there if you do.
+
+As you can see, R3 Pro 2 is quite versatile. Yet, it’s simple. Mostly invisible. This is where it differs from big and fancy R6 Pro Max.
+
+**Sound quality:** Of course, all this means nothing if the sound’s off. And honestly, we’re both audiophiles, we know that we care about music quality more than logic. I'm not stranger to our audiophile ... quirks since I’ve carried the R6 Pro Max around like it was a Swiss Army knife for audio since late 2024. It’s heavy, bulky, but I don't care because it sounds so good.  
 
 So here’s the moment: **with the R3 Pro 2, I finally have the confidence to leave the R6 Pro Max at home**.
 
 That's it. That's my review of the R3 Pro 2 sound. 
 
+.
+.
+.
+.
+
 Just kidding! Let’s actually talk about sound. (I guess you’ve been waiting for this since paragraph one.)  
 
-Before we move on, let's have one quick detour to talk about DAP's sound quality. It’s hard to *hear* what a DAP does because it’s not the star of the show. The DAP is the stage, the frame — your baseline when listening through IEMs. If an IEM sounds muddy to piercing, do you blame the earpiece or the source device? That’s the problem: we can’t judge DAP sound on its own without comparing it across multiple IEMs and long-term use to extract that *invariant* factor.
+**A quick detour about DAP's sound quality:** Before we move on, let's have one quick detour to talk about DAP's sound quality. It’s hard to *hear* what a DAP does because it’s not the star of the show. The DAP is the stage, the frame — your baseline when listening through IEMs. If an IEM sounds muddy to piercing, do you blame the earpiece or the source device? That’s the problem: we can’t judge DAP sound on its own without comparing it across multiple IEMs and long-term use to extract that *invariant* factor.
 
 So what makes a good DAP objectively? It should reconstruct and amplify audio faithfully — with minimal noise, distortion, and lightning-fast response to transients. Most modern DAPs meet these benchmarks in specs: clean measurements, near-zero noise floors, distortion well below the threshold of human hearing. But that doesn’t always translate into *sound*. You’ll still hear differences, despite a superficial glance at the spec sheet saying otherwise. Thus, as usual with personal audio, we need to venture into the cloudy world of subjectivity.
 
@@ -122,7 +133,8 @@ To me, a good DAP is **resolving**, **dynamic**, and **spacious**. All of which,
 
 And here’s a final note on synergy: most DAPs are neutral in tone, but some shift the colour of your IEMs noticeably — making them brighter, darker, warmer or colder. Small bumps in frequency response can change how an IEM feels entirely. This is where pairing matters. A bright, edgy IEM might thrive with a warm, gummy DAP, while a warm and gummy IEM could shine under a crisp, clean signal. But synergy is subjective — and I don’t evaluate DAPs on it. I just observe what happens when the two work together.  
 
-With this framework in mind, let's talk about R3 Pro 2. 
+
+**R3 Pro 2 Sound Quality:**
 
 
 
