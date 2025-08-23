@@ -100,7 +100,11 @@ Back home? I stash it where I found it in the morning. If needed, I plug it into
 
 At night, I might pick it up once more and pair it wirelessly to my phone. It remembers the connection, so every time I switch to Bluetooth DAC mode, it pairs automatically with the right codec (LDAC). No Wi-Fi streaming or file transfers in my daily use. I didn’t need them. But it's there if you do.
 
-As you can see, R3 Pro 2 is quite versatile. Yet, it’s simple. Mostly invisible. This is where it differs from big and fancy R6 Pro Max.
+As you can see, R3 Pro 2 is quite versatile. Yet, it’s simple. Mostly invisible. This is where it differs from R6 Pro Max in daily use, *to me*. Listening to the big, expensive R6 Pro Max feels like you’ve lit a candle in a quiet room — a ritual. You pause. You sit. You make sure the chair is comfortable, the drink is chilled, and there’s no noise. It’s not just playback; it’s reverence. A moment of focus. Something you treat with respect, as if the music itself deserves your full attention.  
+
+The R3 Pro II? That’s different. It doesn’t demand ceremony. You don’t need a chair or a playlist named “Sacred Moments.” It slips into your day like a well-worn coat — useful, present, just there. No fuss. No candle. Just music in the background of commuting, cooking, or scrolling through your feed. It’s utilitarian. Casual. Part of the rhythm, not the highlight.  
+
+You don’t *feel* it as special — you just use it. And that’s fine too. 
 
 **Sound quality:** Of course, all this means nothing if the sound’s off. And honestly, we’re both audiophiles, we know that we care about music quality more than logic. I'm not stranger to our audiophile ... quirks since I’ve carried the R6 Pro Max around like it was a Swiss Army knife for audio since late 2024. It’s heavy, bulky, but I don't care because it sounds so good.  
 
@@ -134,15 +138,48 @@ To me, a good DAP is **resolving**, **dynamic**, and **spacious**. All of which,
 And here’s a final note on synergy: most DAPs are neutral in tone, but some shift the colour of your IEMs noticeably — making them brighter, darker, warmer or colder. Small bumps in frequency response can change how an IEM feels entirely. This is where pairing matters. A bright, edgy IEM might thrive with a warm, gummy DAP, while a warm and gummy IEM could shine under a crisp, clean signal. But synergy is subjective — and I don’t evaluate DAPs on it. I just observe what happens when the two work together.  
 
 
-**R3 Pro 2 Sound Quality:**
+**Sound quality:** Simply put, the R3 Pro 2 is a surprisingly — if not *shockingly* — competent DAP when it comes to sound quality. Give it an IEM that can deliver rich space and dynamic range, and it’ll bring out those qualities with near-equal confidence to my R6 Pro Max.
+
+Take Bach’s Violin Partitas by Itzhak Perlman — the 1988 recordings, on Yu9 Que IEMs. The soundstage is breathtaking: the violin seems to spill beyond the head into the empty street as I walk home at night. That sense of spatial expansion isn’t just wide — it feels real, immersive. Old recordings like this are notoriously tough for micro DAPs and even mid-tier gear to get right. Most devices only stretch the stage sideways; they don’t project it *into* the environment. The flagship DAPs A&K SP2000 and iBasso DX300 were some of the first DAP I heard that showed me the possible staging information that I missed. Now, micro DAPs like the R3 Pro 2 can do it too.
+
+To be fair, micro DAPs have been improving in staging. The older R3II already had a noticeable upgrade over its predecessor in projecting space from IEMs. The R3 Pro 2 builds on that, but not by much. Given how well the R3II already performed, this is a modest step up — still, it puts the R3 Pro 2 firmly in the same league as bigger beasts like the R6 Pro Max or the DX300.
+
+Same album, same IEM: resolution is where the R3 Pro 2 really stands out. Compared to fancy quad-DAC topologies or fully discrete designs from flagship DAPs, the dual CS DAC chips inside R3 Pro 2 seem rather ... quaint. Yet, this does not stop R3 Pro 2 from digging below the surface-level details. This DAP is fully capable of revealing subtle textures: the tap of a finger on a stringboard, the faint vibration of a bow grazing the wood, that sharp *crunch* when the bow bites, slight reverb, small details on the side-channel. All this lives in a pitch-black background — stable even with ultra-sensitive IEMs like the Campfire Audio Andromeda 2020. Notes emerge from silence like they’re popping out of thin air. The only exception? When connected to a noisy USB-C port on my laptop or desktop — then, the background hiss and buzz can be heard.
+
+Dynamics are where R3 Pro 2 gets curious. Yes, it can slam. Hand an epic orchestral piece and a dynamic IEM, and you get a proper thunderclap. In fact, in this regard, the R3 Pro 2 outperforms my ex-flagship DX300 — which is surprising given how much more expensive and complex that device was.
+
+But it’s also *soft* in the upper mids and treble. Pair it with a sharp, energetic IEM like the Effect Audio Gaea, and suddenly the edges get tamed. It doesn’t just smooth them; it actively *reduces* their bite. The effect is consistent across multiple IEMs. And yes, I tested with no EQ, no DSP, and no NOS mode. It's just how this DAP was tuned. That softness is the key difference between the R3 Pro 2 and the R6 Pro Max in my experience. I wouldn't say it's a pro or con.
+
+In short, this is an extremely capable DAP that can mostly match big players in performance — especially when paired with dynamic IEMs. I suspect HiBy took inspiration from the R6 Pro Max’s amplification circuitry and applied it here, creating a compact powerhouse. A little pocket rocket.
+
+(And just for completeness: I did test it with the notoriously fussy Final Audio E5000. It drives it cleanly — no gain needed. But the result is unpleasant. The E5000 is already soft and sluggish in the treble, so R3 Pro 2’s taming makes it even more lifeless. On the flip side, bass remains fully expressive and under control — which I found too much for my ears.)
 
 
 
 Concluding Remarks
 ===
 
-What I like about this device: 
+I’ve always believed there’s an inefficiency in how portable DACs and amps are designed — especially for IEMs. It makes no sense that devices drawing only a few milliwatts need hundreds of milliwatts of output just to sound spacious or dynamic (that audiophile phrase, *scaling*).  
+
+HiBy seems to be solving this quietly, step by step. With the R3II and now the R3 Pro 2, they’re closing the gap between micro DAPs and full-sized players, through engineering efforts. The result? A tiny device that delivers sound quality I once thought only big gear could deliver.  
+
+R3 Pro 2 is impressive in more ways than one. It’s versatile, reliable, and feels genuinely pleasant to use — like a well-worn tool you reach for without thinking. More importantly, it gives me the confidence to leave my R6 Pro Max at home.  
+
+If you’re hunting for a micro-DAP, there are not many options out there. I’ve tested every HiBy R3 model so far, and none come close to R3 Pro 2. The R4? It’s a full Android device with more features, but it's much larger and, frankly, I still think R3 Pro 2 sound better.  
+
+Final verdict? **Recommendation without reservation.**
 
 
-What could be improved:
+---
 
+**What I like:**  
+- Sonically confident performance, matching big DAPs in resolution, staging, and dynamic range  
+- Tactile, satisfying build with a bold design that feels intentional 
+- Excellent Bluetooth latency — making video playback *tolerable*   
+- Clean, stable pitch-black background even with ultra-sensitive IEMs  
+- Versatility: works as local player, USB DAC, streaming device, and wireless DAC/amp  
+
+**What could be improved:**  
+- Fix USB DAC latency — it’s noticeable and undermines its utility in synced audio scenarios  
+- Add progressive JPEG support for better album art rendering on microSD cards  
+- Consider a more refined interface grouping to reduce confusion during daily use (e.g., gapless playback, auto-slide)  
