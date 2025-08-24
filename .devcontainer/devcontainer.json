@@ -1,21 +1,31 @@
-// For format details, see https://aka.ms/devcontainer.json. For config options, see the
-// README at: https://github.com/devcontainers/templates/tree/main/src/ruby
 {
-	"name": "Ruby",
-	"image": "mcr.microsoft.com/devcontainers/ruby:0-3-bullseye"
-
-	// Features to add to the dev container. More info: https://containers.dev/features.
-	// "features": {},
-
-	// Use 'forwardPorts' to make a list of ports inside the container available locally.
-	// "forwardPorts": [],
-
-	// Use 'postCreateCommand' to run commands after the container is created.
-	// "postCreateCommand": "ruby --version",
-
-	// Configure tool-specific properties.
-	// "customizations": {},
-
-	// Uncomment to connect as root instead. More info: https://aka.ms/dev-containers-non-root.
-	// "remoteUser": "root"
+  "name": "Dotfile Setup",
+  "remoteUser": "devcontainer",
+  "image": "ghcr.io/nguyentran0212/my-dev-container:main",
+  "build": {
+    "dockerFile": "./Dockerfile",
+    "context": ".."
+  },
+  "containerEnv": {
+    "OPENAI_API_KEY": "${localEnv:OPENAI_API_KEY}",
+    "GEMINI_API_KEY": "${localEnv:GEMINI_API_KEY}",
+    "DISPLAY": "${localEnv:DISPLAY}",
+    "WAYLAND_DISPLAY": "${localEnv:WAYLAND_DISPLAY}",
+    "XDG_RUNTIME_DIR": "${localEnv:XDG_RUNTIME_DIR}"
+  },
+  "forwardPorts": [
+    3000
+  ],
+  "mounts": [
+    "source=${localEnv:HOME}/.gitconfig,target=/home/devcontainer/.gitconfig,type=bind,consistency=cached",
+    "source=${localEnv:HOME}/.ssh,target=/home/devcontainer/.ssh,type=bind,consistency=cached",
+    "source=life-engineer-frontend-node_modules,target=/workspaces/life-engineer/frontend/node_modules,type=volume"
+  ],
+  "postStartCommand": "bundle install",
+  "runArgs": [
+    "--mount=type=bind,source=/tmp/.X11-unix,target=/tmp/.X11-unix",
+    "--mount=type=bind,source=${localEnv:XDG_RUNTIME_DIR},target=${localEnv:XDG_RUNTIME_DIR}",
+    "--add-host=host.docker.internal:host-gateway",
+    "--publish", "3000:3000"
+  ]
 }
