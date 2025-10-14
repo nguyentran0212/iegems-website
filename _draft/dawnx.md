@@ -2,14 +2,15 @@ Product type: IEM
 Product name: DawnX
 Company: AFUL
 Product link (Hifigo web store): https://hifigo.com/products/aful-dawn-x?variant=46671495594223
+Price: $1300
 
 -----
 
-# Tech specs
+# General Info
 
->1DD+8BA+4EST+1BCD 14-Driver Each Side Quad-Brid Configuration.
+DawnX is the current flagship IEM of the Chinese manufacturer AFUL. It's a quadbrid IEM (1DD+8BA+4EST+1BCD 14-Driver Each Side)
 
-Technical Specifications:-
+## Specs
 
 >Impedance: 15Ω±13%.
 
@@ -19,19 +20,7 @@ Technical Specifications:-
 
 >Connectors: 0.78mm 2-Pin Connectors.
 
->Termination Plug: 3.5mm or 4.4mm Plugs.
-
-## AFUL's own description of acoustic technology they developed to build DawnX
-
-3D Micro-Resonance Acoustic Path Technology: AFUL has designed a specially developed 3D micro-resonance acoustic path technology. They have designed complex acoustic structures based on the characteristics of dynamic drivers, balanced armature drivers, electrostatic drivers, and bone conduction driver units. Through precise calculations and ongoing experimental adjustments, DAWN-X achieves seamless integration between drivers, ensuring crystal clear sound with ultra-low multi-driver distortion.
-
-Wideband Electrostatic Technology: Most EST-based IEMs have the EST implementation only in the ultra-high frequency response above 9kHz. Through a unique acoustic structure, AFUL enables the electrostatic driver setup to operate effectively across a wide 5K to 20K and above frequency range. This gives the Dawn-X a distinctive EST character; the pair not only sounds super detailed, but also has a silky smooth, effortless character.
-
-Multi-Dimensional Six-Way Frequency Crossover: Again, using AFUL’s innovative multi-dimensional crossover system, the DAWN-X combines a unique six-way crossover featuring both six-way electronic as well as six-way physical crossover design. It brings a new level of performance to the IEM market, making a new standard for flagship IEMs. Using AFUL’s innovative RLC network frequency division correction technology, each driver operates on a directly assigned frequency range. This effectively suppresses resonance peaks, especially in the high-frequency region and results in smoother, effortless sound.
-
-High-Damping Air-Pressure Balance System: AFUL DAWN-X features the highly-acclaimed high-damping pressure balancing system that AFUL introduced in the Performer 8. This unique technology manages the air pressure buildup inside your ears and provides you with a super comfortable wearing experience. Furthermore, with proper air pressure management, the Dawn-X delivers a fascinating Bass texture with an elastic, deep-diving bass response.
-
-## My opinion and thoughts about the technology inside DawnX
+## Technologies inside DawnX (as described by AFUL)
 
 The way AFUL implements various approaches to solve specific engineering problem to achieve a target sound has always interest me over the years. This IEM is no differnce.
 
@@ -43,9 +32,10 @@ What's new with AFUL this time is the EST driver, in particular, how they do the
 
 What puzzles me is the lack of details regarding the BCD. From the schematic, it seems that AFUL uses something similar to the BA-type BCD from Sonion. However, at this point, we have no confirmation. Quite puzzling. I certainly wish to know more about how AFUL implements BCD in DawnX.
 
+
 -----
 
-# Content in th box
+# Content in the box
 
 IEM itself
 
@@ -61,15 +51,20 @@ paper work
 
 
 
+
 -----
 
-# Assorted collection of my listening impressions and opinions
+# Impressions and experience
 
-## Impression
+I have been using this IEM daily for more than a month now before writing this review.
 
-Alright, first impression. To ensure that I don't rush to the conclusion, I try to take my time before yapping, have a meal, and then go through all the test tracks in across variety of genres in my library before writing down.
+I think I’m at the point when I’m very familiar with this dawnX IEM now. I just put it in the bag next to cantor, no case, and use it whenever and wherever needed. It feels more like a cozy warm hug vs Cantor. But both have a homely vibe, mostly because they don’t look for feel that expensive. I always felt uneasy to use high end IEMs like Anni and Spec because they felt … precious. These AFUL feel like “my IEMs”. I also like the utilitarian vibe of 64 audio IEMs. Tools, not “my preciousssss”
 
-tl;dr: this IEM is epic. Epic presentation. Epic tuning. Simply put: it's one of the best IEMs I have ever listened in my short few years in this hobby. Plain and simple. No if, no but, and we don't need to lean on the "great value" to buffer it against the big shots like what I did with Cantor.
+I think it’s easy to like, difficult to hate, and has the technical performance expected from a multi-kilobuck class IEM despite the low key presentation.
+
+$1300 set that is safe, correct, and high technical performance is actually gold for most people who want a multi kilobuck but cannot audition before buying. Better safe than sorry.
+
+## First Impressions
 
 First, let's talk about the easy part of the impression: tuning. It's easy to talk about because it is an AFUL IEM. It's tuned exactly like how you would expect an AFUL IEM to sound: forward midrange (the voice is rarely buried in the mix, unless it is the artist's design), natural and, dare I say, beautiful midrange. The bass is bigger than usual this time, but not by much. The treble is easier on the ears this time, despite scary-looking 6kHz on my rig. Either my rig over emphasise the 6kHz vs the calibrated rig of AFUL, or the EST drivers lend a softness to the treble. In this regard, Dawn-X behaves exactly like Anni 2023 in this region: generous treble, but not grainy or harsh or piercing. I tested 2 albums of Ed Sheeran and did not detect any sibilance or harshness problem.
 
@@ -97,12 +92,6 @@ I guess we simply cannot have thin and narrow nozzles like usual given the numbe
 Edit: forgot to mention: this IEM is quite insensitive. I need quite a bit higher volume level than usual. That said, R3 Pro II handles this IEM easily.
 
 
-## Impression
-
-Yeah, I was shocked to see how high the treble of Dawn-X on graph. It does not sound like it has a lot of 6kHz. I'm hunting for harsh music to test, but can't get the harshness to become overbearing. So, either my rig is not right, or the EST treble is indeed built different :dt880smile:
-
-You are right, there is a sense of softness from top of bottom. Not soft like "fuzzy" or blurry, but soft like not rigid. Cantor definitely feels more glass-like rigid in comparison. But it's fine. I like both. But the presentation of Dawn-X feels less "try hard", if that makes sense to you.
-
 
 ## Description of accessories plus my opinion
 
@@ -115,11 +104,9 @@ But more than $500 for an IEM is not practical decision at all. So you are right
 Btw, that solomon packaging is even more extra than Spectrumica 👀
 
 
-## Some other short opinions and comments I shared on forum
+## Some other thoughts and experiments
 
 Personally, it’s exactly how I want my endgame IEM to be. Tone is spot on. Treble is finally not that dependent on fit and it really does not sound like usual BA supertweeters. Noticeably more detailed and better separation than my current collection. And it has a really holographic stage now. Can’t fault it.
-
-Is it STORM like in my mind? Not sure. STORM is STORM. Subtonic team built a great IEM and also built such an “aura” to it that I personally cannot separate where the top notch performance of that IEM ends and where my “idolisation” starts. But do I put this in the same level as Spec and Anni23? Definitely. Do I like it more than Spec and Anni23? Definitely. Because not only it has good tech, it’s my preferred sound signature too.
 
 The only thing left I want more is the design and the cable. I wish it has a more signature design like Cantor rather than a generic black and red resin shell with generic looking chrome hardware. Cantor’s cable hardware is actually more elaborated.
 
@@ -127,25 +114,12 @@ I only listen to Polyphia so, I can’t say much about those heavy genres. But d
 
 Using DawnX to listen to some lofi mixed with rain sound. It’s immersive AF 🤭 The rain was recorded under an umbrella, and the IEM picks up the spatial cue, so it feels like rain drops on my head.
 
-I think I’m at the point when I’m familiar with this dawnX IEM now. I just put it in the bag next to cantor, no case, and use it whenever and wherever needed. It feels more like a cozy warm hug vs Cantor. But both have a homely vibe, mostly because they don’t look for feel that expensive. I always felt uneasy to use Anni and Spec because they felt … precious. These AFUL feel like “my IEMs”. I also like the utilitarian vibe of 64 audio IEMs. Tools, not “my preciousssss”
-
 That said, when I’m a bit mentally tired, lofi plus dawnX is like lullaby. I’m sleepy 😂
-
-This is where the Cantor or Anni or my Gaea would be a good choice. Those are like “wake the F up”
 
 I find this IEM quite relaxing, but it draws my attention due to how it does bass, imaging, and details. Not quite suitable for background at work, since it’s harder to “tune out” than cantor to me.
 
 Yeah, I think it’s easy to like, difficult to hate, and has the tech expected from a multi-kilobuck class despite the low key presentation.
 
-## Reply to another comment
-
-I don’t know, it hits like a mule with my soundtrack and OST albums. If it’s 💩 with my OST albums, I would be first one to give it a mediocre rating and rant about it all day here.
-
-But it’s not.
-
-$1300 set that is safe, correct, and high tech is actually gold for most people who want a multi kilobuck but cannot audition before buying. Better safe than sorry.
-
-My 0.02.
 
 -----
 
@@ -159,12 +133,33 @@ Hard to say which part of this IEM i like more, but I think the bass is no1 high
 
 This IEM does not pull the midrange back to make the stage bigger like some MEST and some 64 audio. But, likely due to the treble extension, it expands the edge of the stage far into the room around me. Particularly when I listen to orchestral recording with horn or string or choral section in the background. There is a unique sense of holography to the soundstage. Kinda like I can reach out and grab some of the elements in the mix. 
 
-## Against AFUL Performer 7
+## Against AFUL Performer 5+2
 
-Why this comparison? Because I expected DawnX to be a direct upgrade of Performer 7.
+Why this comparison? Because I expected DawnX to be a direct upgrade of Performer 5+2 (let's call it P7 for short)
 
+First thing I notice when A/B DawnX and P7 using my MuseHifi M6 Double DAC on tube mode is how insensitive DawnX is. I need to increase from 10 to 15 volume clicks to have perceptively matching loudness level. 
 
+Sonic wise, I would say the tonality and overall tonal balance is quite close. DawnX is much closer to P7 than Cantor on this particular aspect. P7 feels quite a bit more trebly than DawnX.
 
+Technical performance is, unsurprisingly, lean heavily towards DawnX. The best to way describe the difference is that DawnX is more precise on both micro details, instrument separation, and instrument placement on the virtual soundstage across the frequency spectrum. It's like moving from a 1080p to 1440p or 4k footage. You can see everything with 1080p, and the footage was quite sharp. But there is just more of that clarity and separation and micro details with the 4k footage. And I need to emphasise that DawnX achieves that information again without making the sound harsh or piercing in the treble region.
+
+Speaking of treble, I found that trble of P7 feels significantly more "metallic" and harsh, yet revealing less nuances and detail than the 4 EST in DawnX
+
+The stage of P7 does not have that cool "wrap around", "bubble aorund head" illusion like DawnX.
+
+Of course, at this point, it's important to remember that P7 is still the "1080p" footage in this context. It's not a blurry, low-res IEM.
+
+## Against 64 Audio U12T
+
+This IEM was my benchmark for technical performance of IEM for years. How does it compare against DawnX?
+
+The difference in tonality immediately stands out. DawnX feels like a smooth, cozy, even sound. U12T feels thin and brittle with some female vocal, due to the way its midrange around 1.5khz region is tuned, how it peaks at 2.5kHz and then immediately dip at 3kHz. Whilst U12T sounds fine on its, own, it feels hollow and artificial in this direct A/B comparison against both DawnX and P7.
+
+Technical performance wise, I hear better resolution with DawnX. Both u12T and DawnX are quite resolving IEM, so it's not a big day and night difference, but I found that it is easier to follow different instruments, and I can hear more micro details with DawnX, whilst DawnX treble is smoother and easier to listen than U12T.
+
+The soundstage of DawnX is also more impressive. It conveys the wraparound effect more clearly, and the distant elements in the mix sound more convincingly distant. 
+
+Yes, I think my long-term benchmark IEM has been convincingly surpassed. 
 
 -----
 
