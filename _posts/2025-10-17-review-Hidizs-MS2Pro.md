@@ -4,17 +4,29 @@ layout: "single"
 excerpts: "A Different Kind of Hybrid"
 toc: true
 header:
-    image: "TBA"
+    image: "/assets/images/Hidizs-MS2Pro/MS2Pro_15.jpg"
 ---
 
 You know, I've noticed something about IEMs lately: when everyone tries to and becomes more successful at reaching a perfect neutral sound, everyone starts to sound pretty similar.
 
 So when I picked up the Hidizs MS2 Pro, I was expecting another one of these "meta" tuned IEMs. Instead, I found something refreshingly different - a V-shaped signature that's a bit more adventurous than your average entry-level hybrid.
 
+Forewords
+===
+
+- What I look for in an IEM is **immersion.** I want to feel the orchestra around my head, track individual instruments, and hear all of their textures and details. I'm not picky about tonality, as long as it does not make the orchestra, violin, cellos, and pianos sound wrong.
+- I rate IEMs within with a consistent scale from **1 (Poor) to 3 (Good) to 5 (Outstanding)**. An overall ranking of 3/5 or above is considered positive. 
+- Ranking list and measurement database are on [my IEM review blog](https://iegems.nk-tran.com/).
+- The terminology for subjective impressions in this review is based on the Audio Wheel for reproduced sound defined in the technical report [ITU-R BS.2399-0](https://www.itu.int/pub/R-REP-BS.2399)
+- **This review is based on a review sample from Hidizs (Thank you!).** I have no affiliation with or financial interest in Hidizs.
+- The model retails at $80. Unaffiliated link: [Hidizs webstore](https://www.hidizs.net/products/hidizs-ms2-pro-1ba-1dd-hybrid-hifi-in-ear-monitors)
+
 General Information 
 ===
 
 Hidizs MS2 Pro is an entry-level hybrid in-ear monitor from Hidizs with a 1BA + 1DD driver topology. The configuration features a 10.2mm dynamic driver with a PU+PEEK diaphragm and DLC (diamond-like coating) layer, dual magnetic circuit design with N52 magnets, and a custom-designed Silvercore balanced armature driver that serves as a high frequency tweeter placed directly in the IEM nozzles. MS2 Pro has an  impedance of 17 ohms and a sensitivity of 111dB.
+
+![](/assets/images/Hidizs-MS2Pro/MS2Pro_1.jpg)
 
 The design of the IEM shells uses ZA12 Zinc Alloy with a Mirror Finish and "Rhinohide" Leather Texture Panel. Hidizs incorporates their familiar "Pneumatic Sound Tube Technology", which allows the IEM nozzles to be unscrewed and replaced. These replaceable nozzles are equipped with different dampening foams and filters, enabling users to adjust airflow in front of the DD create subtle shifts in frequency response. The package includes three pairs of sound tubes with different filters:
 
@@ -22,6 +34,10 @@ The design of the IEM shells uses ZA12 Zinc Alloy with a Mirror Finish and "Rhin
 - Black filter: have the most amount of dampening, leading to a subdued upper midrange. As you increase the volume to compensate for the upper midrange, the bass becomes more prominent
 - Red filter: the default filter option, presenting a middle point between the other two extremes.
 
+
+![](/assets/images/Hidizs-MS2Pro/MS2Pro_2.jpg)
+
+![](/assets/images/Hidizs-MS2Pro/MS2Pro_3.jpg)
 
 The package includes:
 - 1 x MS2 PRO IEM
@@ -43,11 +59,15 @@ I have been using this IEM on and off for nearly a month now. Let's talk about i
 
 First, let's talk about non-sound aspects. I find the shells of the MS2 Pro quite well designed on both aesthetic and fit. The shells look quite premium and elegant, thanks to the faux leather on the faceplate combined with the mirror finish. 
 
+![](/assets/images/Hidizs-MS2Pro/MS2Pro_8.jpg)
+
 Comfort is quite good during long listening sessions, if you manage to find suitable ear tips for it. Hidizs provides two types of ear tips in the box with different fitting styles, so you can experiment right out of the box. I found that soft and shorter tips, like the white silicone tips included in the box, provide this balance between fit, sound, and long-term comfort.
 
 Noise isolation is okay, but still an open IEM, so noise passes through readily.
 
 Where I have the most problem with MS2 Pro on the non-sound aspects, as usual with most recent Hidizs IEMs, the stock cable. Simply put, it is very flimsy and easily tangles when coiled up in the bag. Almost every time I take this IEM out of the carrying pouch, I have to untangle the cable. Hidizs should include a better cable next time.
+
+![](/assets/images/Hidizs-MS2Pro/MS2Pro_7.jpg)
 
 Let's move on and talk about the sound.
 
@@ -57,11 +77,15 @@ At the same time, the high mid and treble have enough emphasis to pierce through
 
 The 1BA + 1DD driver configuration is evident in the sound. You can hear the dynamic driver working across the frequency range. At the same time, you hear the BA tweeter kicking in higher notes in the treble region with a distinct timbre that I can only describe as the "BA timbre."
 
+![](/assets/images/Hidizs-MS2Pro/MS2Pro_9.jpg)
+
 In my opinion, Hidizs did a better job with the BA integration and tuning than other 1+1 IEMs I've tested, like the DITA Project M. While the MS2 Pro also pushes the treble timbre and tone close to what I'd consider the uncanny valley, especially with cymbals and hats, it never fully crosses that line.
 
 The bass is present in good amounts, giving a sense of air being pushed against the eardrums. However, the note attacks of the bass aren't very crisp, and the details and texture in the decay-end of bass notes are just okay. 
 
 The technical performance of this IEM is average in the grand scheme, though decent for its price point. The hollow-out midrange gives it an advantage in the perceived size of the soundstage, making it feel spacious and open. Most tracks reveal a good sense of width and depth contrast, with good sense of height due to the treble. The main limitation is that positioning isn't particularly precise. I can tell that sound elements come from certain directions, but pin-pointing them is difficult.
+
+![](/assets/images/Hidizs-MS2Pro/MS2Pro_12.jpg)
 
 Detailed Analysis
 ===
@@ -70,6 +94,10 @@ Detailed Analysis
 
 Superficially, this sound signature is a variation of the old-school V-shaped signature popular with both western and ChiFi IEM in the Shure SE215 era.
 
+![](/assets/images/Hidizs-MS2Pro/MS2Pro_4.jpg)
+
+![](/assets/images/Hidizs-MS2Pro/MS2Pro_5.jpg)
+
 The frequency response shows no distinct bass shelf. Instead, the midbass at 150Hz smoothly merges into the lower midrange at 250Hz to create a hump that extends all the way to the midrange at 800Hz. This explains why the bass attack doesn't feel very crisp and precise. The fact that lower midrange is around 2.5dB above the lowest point at the midrange explains the warmth "blanket" described in subjective impressions.
 
 At the other end of the spectrum, we have a sensible upper midrange boost for ear gain compensation, reaching around 9dB. This level of upper midrange boost is quite sensible vs old V-shaped IEMs, which is why the MS2 Pro doesn't sound too shrill or shouty, which is a good thing.
@@ -77,6 +105,8 @@ At the other end of the spectrum, we have a sensible upper midrange boost for ea
 The mid-midrange is sandwiched between bass hump and ear gain. Therefore, depending on the volume level chosen, the core elements of the midrange might feel hollow or distant. 
 
 Moving up the frequency response, we see two sizable peaks at around 4kHz and 8kHz. These peaks give the treble region that crisp, almost brittle sensation described. The 8kHz might also be responsible for the nice illusion of stage height for this IEM.
+
+![](/assets/images/Hidizs-MS2Pro/MS2Pro_10.jpg)
 
 The upper treble region, on the other hand, is quite subdued, thus quite a bit of nuances are lost.
 
@@ -88,12 +118,15 @@ MS2 Pro delivers a good amount of bass. From the perspective of bass power, the 
 
 However, the bass quality could benefit from more refinement. While it provides sufficient volume, the bass attacks lacks tightness and bass decay lacks texture, which negatively impacts the sense of rhythm and beat. The bass notes feel thick but not particularly defined or articulated.
 
+![](/assets/images/Hidizs-MS2Pro/MS2Pro_11.jpg)
+
 **Resolution**
 
 The resolution performance of the MS2 Pro falls squarely in the average range. The IEM successfully reproduces most surface-level details in the mix, ensuring that instruments intended to be present in the mix are audible. There is minimal blurriness in instrument separation during busy sections of musical content.
 
 The BA tweeter contributes to note clarity and instrument separation that are somewhat above average. Micro details can be heard with attentive listening, and the overall amount of details is relatively satisfactory. However, the resolution is not exceptionally detailed or nuanced.
 
+![](/assets/images/Hidizs-MS2Pro/MS2Pro_13.jpg)
 
 **Soundstage and imaging**
 
@@ -102,6 +135,8 @@ The MS2 Pro benefits from its hollowed-out midrange in terms of perceived sounds
 Due to the combination of hollowed-out midrange, thick lower midrange, and bass, some musical tracks reveal good depth contrast. The sense of height is enhanced by the treble response. Cymbals and hi-hats can appear to hover slightly above the listener's head, contributing to a tall stage impression.
 
 The main limitation of the soundstage lies in the precision of positioning. While directional information can be discerned, pinpointing specific elements with laser-like accuracy proves challenging.
+
+![](/assets/images/Hidizs-MS2Pro/MS2Pro_14.jpg)
 
 
 Selected Comparisons
@@ -114,6 +149,8 @@ MS2 Pro and Unicrom are like yin and yang of the same entry-level IEM segment.
 The physical construction is where the contrast becomes immediately apparent. The Unicrom is a lightweight resin IEM, while the MS2 Pro is a heavy, full metal design. The Unicrom's lighter construction makes it feel more comfortable but also "cheaper", whereas the MS2 Pro's metallic build gives it a more premium feel but also makes it noticeably heavier.
 
 The accessories also show a stark difference. The Unicrom's cable has much better construction, and it comes with a proper, sturdy carrying case with a handsome design. The MS2 Pro's cable, which I find very flimsy, tends to tangle easily, requiring me to untangle it almost every time I take it out of its pouch.
+
+![](/assets/images/Hidizs-MS2Pro/MS2Pro_6.jpg)
 
 The tonality differences are even more pronounced. The Unicrom embodies what I consider to be the current standard in IEM tuning - a warm-neutral character that's become the norm. In contrast, the MS2 Pro carries many more characteristics of the old-school V-shaped signature that was popular in earlier IEM designs. When I listen to the same tracks on both IEMs, the Unicrom presents male vocals as fuller and warmer, while the MS2 Pro sounds somewhat hollow in comparison.
 
@@ -147,3 +184,4 @@ If you are a veteran in the entry-level segment of IEM hobby who has bought a lo
 - Upper treble region lacks detail and nuance
 - Noise isolation is only okay
 
+![](/assets/images/Hidizs-MS2Pro/MS2Pro_15.jpg)
