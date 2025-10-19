@@ -146,6 +146,8 @@ Selected Comparisons
 
 MS2 Pro and Unicrom are like yin and yang of the same entry-level IEM segment.
 
+![](/assets/images/Hidizs-MS2Pro/MS2Pro_12.jpg)
+
 The physical construction is where the contrast becomes immediately apparent. The Unicrom is a lightweight resin IEM, while the MS2 Pro is a heavy, full metal design. The Unicrom's lighter construction makes it feel more comfortable but also "cheaper", whereas the MS2 Pro's metallic build gives it a more premium feel but also makes it noticeably heavier.
 
 The accessories also show a stark difference. The Unicrom's cable has much better construction, and it comes with a proper, sturdy carrying case with a handsome design. The MS2 Pro's cable, which I find very flimsy, tends to tangle easily, requiring me to untangle it almost every time I take it out of its pouch.
