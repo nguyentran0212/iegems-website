@@ -10,6 +10,13 @@ header:
 
 Today, we have a look at AP80 Pro Max, the result of a collaboration between Hidizs and Linsoul.
 
+Preambles
+===
+- In this review, I use the term "source" to denote a DAC+amp combo for brevity and convenience. 
+- Sources do not make sounds. Therefore, when I say sources "sound" a certain way, I talk about the change they make to my IEMs and earphones. 
+- I want my music to be crisp, clear, well-separated and form a 3D soundstage around my head. Sources that intensify those characteristics of my IEMs are considered "better". 
+- The unit used for this review was a sample provided by Hidizs (Thank you!). The unit is launching on kickstarter at early bird price of $149 [Kickstarter (non-affiliated link)](https://www.kickstarter.com/projects/hidizs/ap80-pro-max-all-in-one-hi-res-streaming-music-player).
+
 General Information 
 ===
 
