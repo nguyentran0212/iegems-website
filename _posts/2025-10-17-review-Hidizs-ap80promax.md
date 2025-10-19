@@ -5,7 +5,7 @@ layout: "single"
 excerpts: "Utilitarian"
 toc: true
 header:
-    image: "TBA"
+    image: "/assets/images/AP80ProMax/AP80ProMax_11.jpg"
 ---
 
 Today, we have a look at AP80 Pro Max, the result of a collaboration between Hidizs and Linsoul.
@@ -21,6 +21,10 @@ AP80 Pro Max is a tiny device, even in micro DAP standard. It measures only 82.8
 
 The screen is a 2.95 inch display with 360x640 pixels resolution. There is a physical playback control button on the right side and a volume wheel with an ALPS potentiometer.
 
+![](/assets/images/AP80ProMax/AP80ProMax_4.jpg)
+
+![](/assets/images/AP80ProMax/AP80ProMax_5.jpg)
+
 ## Internals and Connectivity
 
 The AP80 Pro Max uses a X1600E System on Chip (SoC) to drive the software experience. It runs on HibyOS, a Linux-based operating system. The audio hardware features two ES9219C DAC chips, supporting DSD256 native decoding and PCM 384kHz/32bit audio with MQA 16x decoding.
@@ -29,9 +33,15 @@ Connectity wise, AP80 Pro Max has a 3.5mm single-ended output with 70 + 70mW @ 3
 
 The device is powered by a 1300mAh 3.8V battery, which theoretically provides 12 hours of playback and 60 days of standby time. 
 
+![](/assets/images/AP80ProMax/AP80ProMax_1.jpg)
+
 ## Packaging and Accessories
 
 The packaging is a very compact cardboard box. Inside, there's a greeting card co-signed by Hidizs and Linsoul. Under the card, you'll find the DAP itself, which comes with a pre-applied screen protector. Included in the box are a USB-A to USB-C cable and a shorter USB-C to USB-C cable.
+
+![](/assets/images/AP80ProMax/AP80ProMax_2.jpg)
+
+![](/assets/images/AP80ProMax/AP80ProMax_3.jpg)
 
 ## Features and Functionality
 
@@ -47,9 +57,15 @@ The AP80 Pro Max runs on HibyOS, a Linux-based operating system developed by Hib
 
 The software interface operates through a touchscreen that responds to finger taps for selection and scrolling through menus. Users can swipe from the side of the screen to navigate back to previous screens, similar to modern phone operating systems. The interface is straightforward for basic tasks like browsing and playing local music or streaming content.
 
+![](/assets/images/AP80ProMax/AP80ProMax_7.jpg)
+
+![](/assets/images/AP80ProMax/AP80ProMax_8.jpg)
+
 However, the software experience can be somewhat confusing when accessing certain settings. The sound-shaping tools including 10-band graphical EQ, parametric EQ (PEQ), and MSEB are quite hidden. Users must go to the music page and find a tiny gear icon at the top corner of the screen to access playback settings including EQ options. It's quite tricky to hit this gear icon correctly when you put the DAP in a case. 
 
 When you finally managed to hit this icon you would have access to EQ options along with other playback related options. On my unit, I found 10-band graphical EQ and MSEB. Hidizs promises that a full parametric EQ would be available in production unit as well.
+
+![](/assets/images/AP80ProMax/AP80ProMax_9.jpg)
 
 Beside local file playback, you can also stream from tidal and Qobuz using onboard 2.4 Ghz wifi. The streaming UI is simple as expected, but you can still access your library library and check new releases.
 
@@ -71,6 +87,7 @@ One of the main reasons I've been using this device is for local music playback 
 
 Battery performance seems to reflect Hidizs' estimation, even though the battery indicator drops faster than I expected. For example, halfway through a Mendelssohn violin concerto in E minor, I already noticed a 2% drop in battery. However, subjectively the device can last multiple days with my use case, and when I turn it off, the device does not seem to lose any charge.
 
+![](/assets/images/AP80ProMax/AP80ProMax_10.jpg)
 
 Sound Quality
 ===
@@ -136,3 +153,6 @@ Who this device is for? I think if you have set aside a budget of around $100 fo
 **What could be improved**:
 - Soundstage remains too tight and confined
 - Audio latency in wired and wireless connections
+
+
+![](/assets/images/AP80ProMax/AP80ProMax_11.jpg)
