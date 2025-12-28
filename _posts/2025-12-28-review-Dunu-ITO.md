@@ -104,7 +104,7 @@ The spatial positioning (ability to pinpoint where the sound is within the virtu
 
 The imaging quality is good (Blessing 2 IEM level) on my scale from good (Blessing 2) to great (CFA Andromeda 2020) to outstanding (AFUL Cantor). I rate it as good because the sense of depth and ambience is noticeably better than the Blessing 2, but the relatively cloudy presentation held the spatial performance back a little bit. The presentation is a bit cloudy, making it somewhat challenging to pinpoint exact positions of sounds with precision, which affects its performance in FPS games.
 
-![](/assets/images/ITO/13.jpg)
+![](/assets/images/ITO/12.jpg)
 
 ### 6.3 Bass Performance
 
