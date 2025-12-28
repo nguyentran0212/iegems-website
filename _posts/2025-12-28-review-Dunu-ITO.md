@@ -56,7 +56,7 @@ The accessories included are top-notch as is typical for Dunu products. There ar
 
 ### 5.1 Physical Handling
 
-The Dunu ITO is quite comfortable to wear for extended periods. The earpieces are not large, so they don't stretch the ear's concha significantly, and the nozzles are not too large either. I would say it's average in terms of fit and comfort - not terrible, but also not outstanding. The IEM provides surprisingly good noise isolation, especially when using the included S&S ear tips, which made it hard to hear sounds from the surrounding environment.
+**The Dunu ITO is quite comfortable to wear for extended periods.** The earpieces are not large, so they don't stretch the ear's concha significantly, and the nozzles are not too large either. I would say it's average in terms of fit and comfort - not terrible, but also not outstanding. **The IEM provides surprisingly good noise isolation, especially when using the included S&S ear tips,** which made it hard to hear sounds from the surrounding environment.
 
 ![](/assets/images/ITO/7.jpg)
 
@@ -65,7 +65,7 @@ The included S&S ear tips are a good choice - they're soft, which makes them mor
 
 ### 5.2 Sound Signature & Tonal Balance
 
-The Dunu ITO presents a bass-focused V-shaped or even L-shaped tonal balance, with emphasis on both the bass and upper midrange regions. The overall signature is warm and full-bodied, with the bass being more prominently emphasized than the upper midrange. However, the upper midrange is also pushed forward to provide balance against the bass, creating a sound that's engaging for rhythm-driven music. At moderate-low volume levels, the midrange tends to take a step back relative to the bass and upper midrange, but becomes more balanced at moderate to moderate-high volumes.
+**The Dunu ITO presents a bass-focused V-shaped or even L-shaped tonal balance, with emphasis on both the bass and upper midrange regions.** The overall signature is warm and full-bodied, with the bass being more prominently emphasized than the upper midrange. However, the upper midrange is also pushed forward to provide balance against the bass, creating a sound that's engaging for rhythm-driven music. At moderate-low volume levels, the midrange tends to take a step back relative to the bass and upper midrange, but becomes more balanced at moderate to moderate-high volumes.
 
 ![](/assets/images/ITO/8.jpg)
 
@@ -84,11 +84,11 @@ The IEM shows good control with tonality across different instruments. On "Synch
 
 ### 6.1 Resolution
 
-The Dunu ITO's resolution performance varies depending on the complexity of the music. With complex, overlapping recordings, the IEM's resolution does suffer. The macro resolution (separation of elements in complex mixes) is only okay - it's not easy to follow individual parts, but at the same time, the whole track does not feel unbearably mushy or undefined. For example, on "ABC feat. Sophia Black" by Polyphia, it's not easy to detect the overdubs of voice lines. The track doesn't collapse, but the ITO struggles to clearly separate all the overlapping elements.
+**The Dunu ITO's resolution performance varies depending on the complexity of the music.** **With complex, overlapping recordings, the IEM's resolution does suffer.** **The macro resolution (separation of elements in complex mixes) is only okay** - it's not easy to follow individual parts, but at the same time, the whole track does not feel unbearably mushy or undefined. For example, on "ABC feat. Sophia Black" by Polyphia, it's not easy to detect the overdubs of voice lines. The track doesn't collapse, but the ITO struggles to clearly separate all the overlapping elements.
 
 ![](/assets/images/ITO/10.jpg)
 
-The micro resolution (details in individual voice lines or instruments) also suffers quite a bit. It's just not easy to hear any nuance or microdetails, so the whole presentation feels slightly overly smoothened. The micro details like the texture and subtle details such as the "bite" at the note attack are not well emphasized, particularly noticeable in the violin performance on "Ciaccona from Bach's Violin Partita No. 2 in D Minor" performed by Kavakos.
+**The micro resolution (details in individual voice lines or instruments) also suffers quite a bit.** It's just not easy to hear any nuance or microdetails, so the whole presentation feels slightly overly smoothened. The micro details like the texture and subtle details such as the "bite" at the note attack are not well emphasized, particularly noticeable in the violin performance on "Ciaccona from Bach's Violin Partita No. 2 in D Minor" performed by Kavakos.
 
 ITO's resolution is okay with less complex music, where the fewer elements allow the presentation to maintain clarity without being overwhelmed by the limitations in macro and micro resolution.
 
@@ -98,21 +98,21 @@ ITO's resolution is okay with less complex music, where the fewer elements allow
 
 ### 6.2 Soundstage & Imaging
 
-The Dunu ITO creates a soundstage that can project quite large and out-of-head if the track provides the right cues. For example, on "Original Sound Effect Track - Memory from Gundam Seed Destiny OST album," the brass section at the beginning sounds like it comes from outside, to the front right of my head. This illusion persists across the entire track, making it feel like I'm sitting in the middle with most sound within my head, but some elements from speakers from outside.
+**The Dunu ITO creates a soundstage that can project quite large and out-of-head if the track provides the right cues.** For example, on "Original Sound Effect Track - Memory from Gundam Seed Destiny OST album," the brass section at the beginning sounds like it comes from outside, to the front right of my head. This illusion persists across the entire track, making it feel like I'm sitting in the middle with most sound within my head, but some elements from speakers from outside.
 
-The spatial positioning (ability to pinpoint where the sound is within the virtual sound field) is only average. I can tell the overall direction, but it's not easy to pinpoint exact position or distance. The overall presentation is like a large "cloud" of sound. On "Shadow of Baar Dau," the presentation makes me think of a "cloud of sound" within and around the head, which creates great sense of ambience but not very precise.
+**The spatial positioning (ability to pinpoint where the sound is within the virtual sound field) is only average.** I can tell the overall direction, but it's not easy to pinpoint exact position or distance. The overall presentation is like a large "cloud" of sound. On "Shadow of Baar Dau," the presentation makes me think of a "cloud of sound" within and around the head, which creates great sense of ambience but not very precise.
 
-The imaging quality is good (Blessing 2 IEM level) on my scale from good (Blessing 2) to great (CFA Andromeda 2020) to outstanding (AFUL Cantor). I rate it as good because the sense of depth and ambience is noticeably better than the Blessing 2, but the relatively cloudy presentation held the spatial performance back a little bit. The presentation is a bit cloudy, making it somewhat challenging to pinpoint exact positions of sounds with precision, which affects its performance in FPS games.
+**The imaging quality is good (Blessing 2 IEM level) on my scale from good (Blessing 2) to great (CFA Andromeda 2020) to outstanding (AFUL Cantor).** I rate it as good because the sense of depth and ambience is noticeably better than the Blessing 2, but the relatively cloudy presentation held the spatial performance back a little bit. The presentation is a bit cloudy, making it somewhat challenging to pinpoint exact positions of sounds with precision, which affects its performance in FPS games.
 
 ![](/assets/images/ITO/12.jpg)
 
 ### 6.3 Bass Performance
 
-The Dunu ITO excels with its bass-forward presentation, particularly in rhythm-driven genres. The amount of bass is prominent, though not overwhelmingly so. The bass line carried by bass guitar and drums is very prominent in the mix, yet other instruments are still able to cut through thanks to the emphasis in the upper midrange, as demonstrated on "Playing God by Polyphia." The ability of this IEM to control that bass quality is also quite decent. On "A Reckoning in Blood from The Ghost of Tsushima OST," the bass drums from 2:50 are full of power yet remain controlled, leading to a powerful presentation. The actual bass, such as the low pitch rumble right from the beginning of the track, is also well presented.
+**The Dunu ITO excels with its bass-forward presentation, particularly in rhythm-driven genres.** The amount of bass is prominent, though not overwhelmingly so. The bass line carried by bass guitar and drums is very prominent in the mix, yet other instruments are still able to cut through thanks to the emphasis in the upper midrange, as demonstrated on "Playing God by Polyphia." The ability of this IEM to control that bass quality is also quite decent. On "A Reckoning in Blood from The Ghost of Tsushima OST," the bass drums from 2:50 are full of power yet remain controlled, leading to a powerful presentation. The actual bass, such as the low pitch rumble right from the beginning of the track, is also well presented.
 
 The IEM conveys "epic" bass lines with impressive power and control. The bass quality is quite nice, and it's definitely one of the better ones in reproducing the texture and resonance of cellos, as noted on "Now We Are Free by 2CELLOS." The bass emphasis creates great power for lower brass instruments, as heard on "Synchro BOM-BA-YE by Tokyo Kosei Wind Orchestra."
 
-However, it does not have the most texture and control either. There is some mushing over nuances and textures in the low-pitch rumble as well as in the bass portion (the sustain and decay) of drum hits. The control of the bass could be more "grippy" as evidenced on "Strength of a Thousand Men (Live) by Two Steps from Hell," where the bass is quite prominent but could have better texture and control. Overall, still good bass and dynamic performance.
+**However, it does not have the most texture and control either.** There is some mushing over nuances and textures in the low-pitch rumble as well as in the bass portion (the sustain and decay) of drum hits. The control of the bass could be more "grippy" as evidenced on "Strength of a Thousand Men (Live) by Two Steps from Hell," where the bass is quite prominent but could have better texture and control. Overall, still good bass and dynamic performance.
 
 ![](/assets/images/ITO/11.jpg)
 
