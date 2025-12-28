@@ -7,7 +7,6 @@ header:
     image: "/assets/images/Tourbillon-Pro/14.jpg"
 ---
 
-# KBEAR Tourbillon-Pro - Veiled Midrange, V-Shaped Fun
 
 After my long hibernation from audio reviews, KeepHifi sent me what I thought was an alarm to jolt me back into action. Well, not an actual alarm—just an IEM with 'tourbillon' in the title. Named after a high-end watch complication, but does it live up to the name? So is it any good? Let's find out.
 
