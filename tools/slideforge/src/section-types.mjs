@@ -34,9 +34,9 @@ export const SECTION_TYPES = {
     maxImages: 1,
   },
   'frequency-response-comparison': {
-    header: 'FREQUENCY RESPONSE COMPARISON',
-    minImages: 2,
-    maxImages: 2,
+    header: 'FR COMPARISON',
+    minImages: 1,
+    maxImages: 1,
   },
 }
 

@@ -164,7 +164,7 @@ generates it from the type:
 | `packaging` | `PACKAGING \| <product>` | 1 or 2 |
 | `generic` | *(none — slide H1 is just `<product>`)* | 1 |
 | `frequency-response` | `FREQUENCY RESPONSE \| <product>` | 1 |
-| `frequency-response-comparison` | `FREQUENCY RESPONSE COMPARISON \| <product>` | 2 |
+| `frequency-response-comparison` | `FREQUENCY RESPONSE COMPARISON \| <product>` | 1 |
 
 For `generic`, the slide is just a single photo with the product name as
 the title — useful for eye-candy or "in the hand" photos that break up
