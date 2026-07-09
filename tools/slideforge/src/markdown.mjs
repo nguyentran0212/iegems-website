@@ -120,10 +120,8 @@ function emitSummary({ metadata, imageDirBase }) {
   const fm = summaryFrontmatter(`/${imageDirBase}/${metadata.background}`)
 
   // Build the rating row, if rating + dimensions present.
-  const dimensionsJson = rating?.dimensions
-    ? JSON.stringify(rating.dimensions)
-    : null
-  const absoluteRating = computeAbsoluteRating(dimensionsJson)
+  const dimensions = rating?.dimensions ?? null
+  const absoluteRating = computeAbsoluteRating(dimensions)
   const showSeal = !!rating?.showSeal
 
   let body = `# ${product}\n\n${tagline ?? ''}\n\n${oneSentenceSummary ?? ''}`
@@ -138,12 +136,22 @@ function emitSummary({ metadata, imageDirBase }) {
   }
 
   // Charts row: optional radar + optional FR graph.
-  const hasRadar = dimensionsJson !== null
+  //
+  // IMPORTANT: the DimensionRadar binding must be a JS *object literal*,
+  // not a JSON string. In Vue 3 markdown, `:scores='...'` (single-quoted)
+  // is a string literal, and `props.scores['Timbre and Tonality']` would
+  // be undefined. With `:scores="..."` (double-quoted) the value is a JS
+  // expression and the multiline object literal is interpreted as an
+  // object. See scratch/_Performer8s/slides.md for the working form.
+  const hasRadar = dimensions !== null
   const hasFr = typeof graph === 'string' && graph.length > 0
   if (hasRadar || hasFr) {
     body += '\n\n<div class="sf-charts-row">'
     if (hasRadar) {
-      body += `\n  <div class="sf-dimension-radar">\n    <DimensionRadar :scores='${dimensionsJson}' />\n  </div>`
+      const dimEntries = Object.entries(dimensions)
+        .map(([k, v]) => `      '${k}': ${v}`)
+        .join(',\n')
+      body += `\n  <div class="sf-dimension-radar">\n    <DimensionRadar :scores="{\n${dimEntries}\n    }" />\n  </div>`
     }
     if (hasFr) {
       body += `\n  <div class="sf-fr-graph">\n    <img :src="\`/${imageDirBase}/${graph}\`" alt="Frequency response" />\n  </div>`
@@ -154,15 +162,9 @@ function emitSummary({ metadata, imageDirBase }) {
   return `${fm}${body}\n`
 }
 
-function computeAbsoluteRating(dimensionsJson) {
-  if (!dimensionsJson) return null
-  let dims
-  try {
-    dims = JSON.parse(dimensionsJson)
-  } catch {
-    return null
-  }
-  const values = Object.values(dims).filter((v) => Number.isFinite(Number(v)))
+function computeAbsoluteRating(dimensions) {
+  if (!dimensions) return null
+  const values = Object.values(dimensions).filter((v) => Number.isFinite(Number(v)))
   if (!values.length) return null
   const avg = values.reduce((a, b) => a + Number(b), 0) / values.length
   return Math.round(avg * 2) / 2

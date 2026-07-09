@@ -77,6 +77,12 @@ const chartData = computed(() => ({
 const chartOptions = computed(() => ({
   responsive: true,
   maintainAspectRatio: false,
+  // Animations are disabled so that the data polygon is fully drawn
+  // before slidev's PNG export captures the frame. With the default
+  // 1-second animation, the screenshot is taken at ~0% and only the
+  // grid (the static chart background) is visible. For a static radar
+  // image, the animation adds no value.
+  animation: false,
   // Tight outer padding so the data fills more of the canvas. Labels
   // still have room because the wrapper is sized generously.
   layout: { padding: 4 },

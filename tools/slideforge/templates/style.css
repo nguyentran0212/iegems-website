@@ -48,7 +48,7 @@
   color: #fff;
 }
 
-.embedded { max-height: 80%; }
+.embedded { max-height: 90%; }
 
 /* Rating row on the summary slide. Renders 5 star slots (gold for
    full, gold-left + grey-right for half, dim white for empty), plus
