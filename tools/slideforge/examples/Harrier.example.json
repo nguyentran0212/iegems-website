@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "product": "Juzear Harrier",
+    "imageDir": "Juzear-Harrier",
+    "background": "19.jpg",
+    "tagline": "The Caged Bird",
+    "oneSentenceSummary": "A single-DD IEM with a clean signature and solid technicalities for the price.",
+    "footerYear": 2026,
+    "rating": {
+      "dimensions": {
+        "Timbre and Tonality": 4.0,
+        "Bass and Dynamic": 3.5,
+        "Resolution": 3.0,
+        "Soundstage and Imaging": 3.5
+      },
+      "showSeal": false
+    },
+    "graph": "Harrier_graph.png"
+  },
+  "sections": [
+    { "type": "design-vision",             "images": ["2.jpg"] },
+    { "type": "packaging",                 "images": ["3.jpg", "4.jpg"] },
+    { "type": "generic",                   "images": ["5.jpg"] },
+    { "type": "frequency-response",        "images": ["Harrier_graph.png"] }
+  ]
+}

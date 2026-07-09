@@ -7,6 +7,17 @@ description: Phase 3 of the blog workflow. Convert a completed DAC assessment (r
 
 This is **Phase 3** of the four-phase review workflow described in AGENTS.md. The skill turns a DAC research file and session file into a published DAC review in Gen's voice.
 
+**This skill covers the prose only.** Generating the cover slides and
+the end-of-review summary image is Phase 3b (see the
+`.pi/skills/dac-artwork/` skill). The artwork skill is activated from
+inside this one as a sub-step (see step 6 of the workflow below) and is
+not optional — every published review has a hero image and at least
+one cover slide.
+
+DACs do not have a frequency-response graph and do not use the
+four-dimension IEM rating, so the DAC artwork flow is simpler than the
+IEM one. Read `.pi/skills/dac-artwork/SKILL.md` for the exact differences.
+
 ## Activate when
 
 Gen says "write up X", "draft the X DAC review", or supplies a session file and asks for the write phase for a DAC.
@@ -94,7 +105,33 @@ When the four-dimension block is used, fill from the session file's Final Assess
 
 ### 5. Final assembly
 
-Same as IEM: read end-to-end, check for em-dashes (catch this), check third-person consistency, check track callouts across all four dimensions, present to Gen for one final pass, then hand off to Phase 4 (`blog-publish`).
+Same as IEM: read end-to-end, check for em-dashes (catch this), check third-person consistency, check track callouts across all four dimensions, present to Gen for one final pass.
+
+### 6. Generate the artwork (Phase 3b)
+
+After Gen approves the prose, but before handing the file to
+`blog-publish`, activate the **`dac-artwork`** skill to generate the
+cover slides and the summary image. The artwork skill is a thin
+wrapper around `tools/slideforge/` and walks the agent through the
+incremental CLI (`init` → `set tagline/summary` → `add section` × N →
+`build`). The full schema and worked example are in
+`.pi/skills/dac-artwork/SKILL.md`.
+
+After `dac-artwork` finishes, the agent has `slide_1.png` …
+`slide_N.png` in `assets/images/<product>/`. **The last one,
+`slide_N.png`, is the summary image and is also the hero / header
+image in this review's frontmatter `header.image`.** Update the
+frontmatter to point at it. The earlier `slide_*.png` files are
+cover slides — place them inline in the review body at the start of
+their corresponding sections, with a one-line caption.
+
+DAC reviews do not have a frequency-response graph. There is no
+tonality section in the typical DAC review; if Gen's outline calls
+for one, it uses the title "Tonal Balance" or "Sound Signature" and
+references the summary slide for any chart-style imagery, not a
+separate FR.
+
+7. Then hand off to Phase 4 (`blog-publish`).
 
 ## Style rules
 
@@ -108,6 +145,9 @@ Same anti-patterns as IEM, plus:
 
 - Do not write a DAC review without an explicit baseline-source comparison. The reader needs to know how the unit stacks against the Apple dongle or equivalent.
 - Do not use "add warmth" or "add bass" as a positive descriptor without specifying what gets reduced in exchange. Sources are not additive in Gen's vocabulary.
+- Do not generate artwork from inside this skill. Activate the
+  `dac-artwork` skill for the artwork-generation phase. Do not invent
+  slideforge CLI commands — load that skill for the exact command list.
 
 ## Worked example
 

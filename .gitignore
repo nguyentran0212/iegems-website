@@ -4,3 +4,7 @@ _site
 .jekyll-metadata
 vendor
 **/.DS_Store
+
+# slideforge tool (lives under tools/) - keep node_modules and scratch caches local.
+tools/slideforge/node_modules/
+tools/slideforge/scratch/

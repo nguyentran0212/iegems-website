@@ -1,0 +1,22 @@
+{
+  "name": "slideforge",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Generate PNG header/footer/summary slides for iegems IEM reviews via Slidev.",
+  "bin": {
+    "slideforge": "./bin/slideforge.mjs"
+  },
+  "scripts": {
+    "build": "node bin/slideforge.mjs"
+  },
+  "dependencies": {
+    "@slidev/cli": "^52.16.0",
+    "@slidev/theme-default": "^0.25.0",
+    "@slidev/theme-seriph": "^0.25.0",
+    "chart.js": "^4.5.0",
+    "playwright-chromium": "^1.61.0",
+    "vue": "^3.5.0",
+    "vue-chartjs": "^5.3.0"
+  }
+}

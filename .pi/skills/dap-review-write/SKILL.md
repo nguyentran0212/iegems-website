@@ -7,6 +7,17 @@ description: Phase 3 of the blog workflow. Convert a completed DAP assessment (r
 
 This is **Phase 3** of the four-phase review workflow described in AGENTS.md. The skill turns a DAP research file and session file into a published DAP review in Gen's voice.
 
+**This skill covers the prose only.** Generating the cover slides and
+the end-of-review summary image is Phase 3b (see the
+`.pi/skills/dap-artwork/` skill). The artwork skill is activated from
+inside this one as a sub-step (see step 6 of the workflow below) and is
+not optional — every published review has a hero image and at least
+one cover slide.
+
+DAPs do not have a frequency-response graph and do not use the
+four-dimension IEM rating, so the DAP artwork flow is simpler than the
+IEM one. Read `.pi/skills/dap-artwork/SKILL.md` for the exact differences.
+
 ## Activate when
 
 Gen says "write up X", "draft the X DAP review", or supplies a session file and asks for the write phase for a DAP.
@@ -115,7 +126,33 @@ Use the same scoring convention as IEM reviews: 1-5 in 0.5 increments on the dim
 
 ### 5. Final assembly
 
-Same as IEM and DAC: end-to-end check for em-dashes, third-person consistency, track callouts across all four dimensions, internal consistency between the body and the rating block. Present the complete draft to Gen for one final pass, then hand off to Phase 4 (`blog-publish`).
+Same as IEM and DAC: end-to-end check for em-dashes, third-person consistency, track callouts across all four dimensions, internal consistency between the body and the rating block. Present the complete draft to Gen for one final pass.
+
+### 6. Generate the artwork (Phase 3b)
+
+After Gen approves the prose, but before handing the file to
+`blog-publish`, activate the **`dap-artwork`** skill to generate the
+cover slides and the summary image. The artwork skill is a thin
+wrapper around `tools/slideforge/` and walks the agent through the
+incremental CLI (`init` → `set tagline/summary` → `add section` × N →
+`build`). The full schema and worked example are in
+`.pi/skills/dap-artwork/SKILL.md`.
+
+After `dap-artwork` finishes, the agent has `slide_1.png` …
+`slide_N.png` in `assets/images/<product>/`. **The last one,
+`slide_N.png`, is the summary image and is also the hero / header
+image in this review's frontmatter `header.image`.** Update the
+frontmatter to point at it. The earlier `slide_*.png` files are
+cover slides — place them inline in the review body at the start of
+their corresponding sections, with a one-line caption.
+
+DAP reviews do not have a frequency-response graph. There is no
+tonality section in the typical DAP review; if Gen's outline calls
+for one, it uses the title "Tonal Balance" or "Sound Signature" and
+references the summary slide for any chart-style imagery, not a
+separate FR.
+
+7. Then hand off to Phase 4 (`blog-publish`).
 
 ## Style rules
 
@@ -134,6 +171,9 @@ Same as IEM, plus:
 - Do not write a DAP review as if the source makes sound on its own. Sources change how IEMs sound. Frame everything in terms of the change to the IEM, not the absolute character of the source.
 - Do not skip the Software section. Software is half the value of an Android DAP.
 - Do not use "good battery" without a numerical anchor. Always cite runtime in hours at a defined workload.
+- Do not generate artwork from inside this skill. Activate the
+  `dap-artwork` skill for the artwork-generation phase. Do not invent
+  slideforge CLI commands — load that skill for the exact command list.
 
 ## Worked example
 

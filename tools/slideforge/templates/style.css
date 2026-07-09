@@ -1,0 +1,276 @@
+
+/* Dark overlay on slides that use the built-in `image` layout.
+   Opt in per-slide via `class: has-dark-overlay` frontmatter. The
+   image is rendered as a CSS background-image on the layout root, so
+   a `::before` pseudo-element sitting above it (and below the slot
+   content) darkens the photo enough to keep white overlaid text
+   legible. */
+.slidev-layout.has-dark-overlay::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.91);
+  z-index: 0;
+  pointer-events: none;
+}
+
+.slidev-layout.has-dark-overlay > * {
+  position: relative;
+  z-index: 1;
+}
+
+/* Gradient overlay for the summary slide. Same pseudo-element pattern as
+   the flat dark overlay, but with a left-to-right gradient: full dark
+   on the left 40% of the slide, fading to ~50% dark (still dimmed, but
+   the image starts bleeding through) on the right. Opt in per-slide via
+   `class: has-gradient-overlay` frontmatter. */
+.slidev-layout.has-gradient-overlay::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    to right,
+    rgba(0, 0, 0, 0.99) 0%,
+    rgba(0, 0, 0, 0.91) 60%,
+    rgba(0, 0, 0, 0.5) 100%
+  );
+  z-index: 0;
+  pointer-events: none;
+}
+
+.slidev-layout.has-gradient-overlay > * {
+  position: relative;
+  z-index: 1;
+}
+
+.slidev-layout {
+  background-color: #000;
+  color: #fff;
+}
+
+.embedded { max-height: 80%; }
+
+/* Rating row on the summary slide. Renders 5 star slots (gold for
+   full, gold-left + grey-right for half, dim white for empty), plus
+   an optional seal-of-approval badge to the right. */
+.sf-rating {
+  display: flex;
+  align-items: center;
+  gap: 0.9em;
+  margin-top: 0.6em;
+}
+
+/* Absolute-positioned variant: pin the rating widget to the top-right
+   corner of the summary slide (next to the H1). Wrapper element
+   rather than the component itself, so the same RatingBar component
+   can be used in both the in-flow and corner positions.
+
+   The selector has `.slidev-layout > ` prepended to bump its
+   specificity to (0,2,0) so it ties the overlay's
+   `.slidev-layout.has-gradient-overlay > *` rule; the source order
+   then breaks the tie in our favor. Without this, the overlay's
+   `> *` rule would set `position: relative; z-index: 1` on the
+   wrapper and DevTools would show the corner properties crossed out. */
+.slidev-layout > .sf-rating-corner {
+  position: absolute;
+  top: 1.2em;
+  right: 1.2em;
+  z-index: 2;
+}
+
+.sf-rating-stars {
+  display: flex;
+  gap: 0.2em;
+  font-size: 3em;
+  line-height: 1;
+}
+
+.sf-star {
+  display: inline-block;
+  color: #d4af37; /* gold for full */
+}
+
+.sf-star.empty {
+  color: rgba(255, 255, 255, 0.22);
+}
+
+.sf-star.half {
+  color: #d4af37;
+  clip-path: inset(0 50% 0 0);
+}
+
+.sf-rating-seal {
+  width: 3.6em;
+  height: 3.6em;
+  border-radius: 50%;
+  background: #fff;
+  padding: 0.6em;
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0 1.5em rgba(212, 175, 55, 0.7);
+}
+.sf-rating-seal img {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+}
+
+/* Side-by-side row that holds the radar chart and the FR graph on the
+   summary slide. Both children take 50% of the row width and stretch
+   to the row's height. The top margin gives breathing room between
+   the one-sentence summary line above and the charts. */
+.sf-charts-row {
+  display: flex;
+  align-items: stretch;
+  gap: 1.2em;
+  margin-top: 1.5em;
+}
+
+/* Dimension radar - 50% width, fixed 25vh height. The chart canvas
+   fills the whole wrapper. */
+.sf-dimension-radar {
+  width: 50%;
+  height: 15em;
+  min-width: 0;
+  flex: none;
+}
+.sf-dimension-radar > * {
+  width: 100%;
+  height: 100%;
+}
+
+/* Frequency-response graph - 50% width, the image is centered
+   vertically inside the 25vh wrapper (capped at 17vh by max-height). */
+.sf-fr-graph {
+  width: 50%;
+  height: 15em;
+  min-width: 0;
+  flex: none;
+  display: flex;
+  align-items: center;
+}
+.sf-fr-graph img {
+  display: block;
+  width: 100%;
+  height: auto;
+  max-height: 10.2em;
+  object-fit: contain;
+}
+
+/* In-ear Gems seal in the bottom-right of every slide that opts in via
+   `class: has-logo`. The element itself is added per-slide via a
+   `<div class="sf-logo">` in the slide markdown; this rule only does
+   the visual styling. The logo asset itself is square (500x500) and
+   contains its own padding around the artwork, so we keep the wrapper
+   square, glow-free, and use object-fit: contain so nothing crops. */
+.sf-logo {
+  position: absolute;
+  bottom: 0.6em;
+  right: 0.6em;
+  z-index: 4;
+  width: 1.8em;
+  height: 1.8em;
+}
+.sf-logo img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.sf-cover-slide,
+.sf-summary-slide {
+  font-family:
+    -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue',
+    Arial, sans-serif;
+}
+
+/* The cover slide root. */
+.sf-cover-slide {
+  background: #000;
+  color: #fff;
+}
+
+.sf-cover-header {
+  position: absolute;
+  top: 1.5em;
+  left: 2.4em;
+  font-size: 2.4em;
+  font-weight: 500;
+  letter-spacing: -0.01em;
+  z-index: 2;
+}
+
+.sf-cover-image {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+  z-index: 1;
+}
+
+.sf-cover-image img {
+  display: block;
+  max-width: 100%;
+  max-height: 100%;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+}
+
+/* With a header: leave a top margin so the image doesn't overlap the title. */
+.sf-cover-header:not(:empty) ~ .sf-cover-image {
+  top: 5.4em;
+  bottom: 10.8em; /* leave room for the footer+logo block */
+}
+
+/* Two-image slide: split the image area into a 2-column grid with a small gap. */
+.sf-cover-pair {
+  display: grid !important;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.2em;
+  padding: 0 1.2em;
+  box-sizing: border-box;
+}
+.sf-cover-pair .sf-cover-cell {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 0;
+  min-height: 0;
+}
+.sf-cover-pair .sf-cover-cell img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+}
+
+/* Footer block + logo are constant across cover slides. */
+.sf-footer {
+  position: absolute;
+  left: 2.4em;
+  right: 9.6em; /* leave room for the logo on the bottom-right */
+  bottom: 3.6em;
+  z-index: 3;
+  font-size: 1em;
+  line-height: 1.6;
+  color: rgba(255, 255, 255, 0.78);
+}
+.sf-footer ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.sf-footer li::before {
+  content: '▪ ';
+  opacity: 0.6;
+}
