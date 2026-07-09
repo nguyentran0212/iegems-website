@@ -1,15 +1,11 @@
 ---
 name: audio-product-session
-description: Phase 2 of the blog workflow. Run an interview-style listening session for an audio product (IEM, DAC, or DAP). Walks test tracks dim-by-dim, runs assessment Q&A from question files (with inference from listening impressions before asking), gets Gen's final summary and recommendation, captures everything into a session file the write phase builds on.
+description: Phase 2 of the blog workflow. Run an interview-style listening session for an audio product (IEM, DAC, or DAP). Walks test tracks dim-by-dim, runs assessment Q&A from a question file (with inference from listening impressions before asking), gets Gen's final summary and recommendation, captures everything into a session file the write phase builds on.
 ---
 
 # audio-product-session
 
-This is **Phase 2** of the four-phase review workflow described in AGENTS.md. The session gathers subjective evidence the write phase (Phase 3) lifts from: per-track listening impressions, answers to assessment questions, and Gen's final summary plus recommendation.
-
-## Activate when
-
-Gen says "let's do the listen session for X", "interview me on X", "session next", or supplies a research file and asks for a session.
+This is **Phase 2** of the four-phase review workflow described in AGENTS.md. The session gathers subjective evidence the write phase lifts from: per-track listening impressions, answers to assessment questions, and Gen's final summary plus recommendation.
 
 ## Read first, every session
 
@@ -18,19 +14,24 @@ Before asking Gen anything, read these four pages in this order. They are the ba
 1. `/philosophy`: voice, stance, why reviews are written the way they are, the calibration view, what tonality-is-preference means. The lens for everything below.
 2. `/methodology`: the four rating dimensions (Timbre and Tonality, Bass and Dynamic, Resolution, Soundstage and Imaging), the gate IEM anchors (Aria, Blessing 2, Andromeda 2020, Cantor), the rubrics, how ratings appear at the end of a review.
 3. `/vocabulary`: the canonical terms the agent and Gen both use, including Gen's particular terms (snappy, oomph, grippy, veil, holographic, toe-tapping, etc.) and the Sound Wheel lexicon.
-4. `/test-tracks`: the canonical track list and what each track tests. Phase 2 walks this list. The page is the source of truth; the agent does not maintain a parallel list.
+4. `/test-tracks`: the canonical track list and what each track tests. The page is the source of truth; the agent does not maintain a parallel list.
 
 If the agent cannot load any of these pages, say so and stop; do not improvise.
 
-## Question files
+## The question file
 
-Three reference files in this skill:
+The question file is the variable part of this phase. The skill is the invariant process. To update the assessment structure — add a section, add a question, change how ratings are anchored — edit the question file only. The skill reads and processes whatever the question file contains.
 
-- `questions/iem.md` for IEMs.
-- `questions/dac.md` for DACs.
-- `questions/dap.md` for DAPs.
+Three question files exist in `questions/`:
+- `iem.md` for IEMs.
+- `dac.md` for DACs.
+- `dap.md` for DAPs.
 
-Read the one matching the product under review before Phase 3.
+Read the one matching the product under review before the Q&A phase.
+
+### Question file format
+
+Any `## ` heading in the question file defines a section. The skill mirrors this structure exactly in the output file — sections appear in the order the question file defines them. Any text before the first `## ` heading is ignored (use this for notes).
 
 ## Output
 
@@ -38,7 +39,9 @@ Read the one matching the product under review before Phase 3.
 
 The research file `YYYY-MM-DD-research.md` should already exist in the same folder; if it does not, ask Gen whether to proceed or to run research first.
 
-## Phase 1: Setup confirmation
+---
+
+## Phase: Opening
 
 One short opening message. Confirm:
 
@@ -48,9 +51,11 @@ One short opening message. Confirm:
 - Burn-in status of the unit (for IEMs) or firmware version (for DAPs / DACs).
 - Any known caveats (e.g., unit is half-broken, ear tips are not the final pair).
 
-Capture this into a "Setup notes" block at the top of the session file for context only. Do not duplicate general product information, which already lives in the research file.
+Capture this into an opening block at the top of the session file. This is context only; it does not appear in the published review.
 
-## Phase 2: Listening Test
+---
+
+## Phase: Listening Test
 
 Pull cues from `/test-tracks` (a public page in this repo). The page is canonical; the agent does not maintain a parallel track list. Walk tracks in the dimension grouping order the page specifies.
 
@@ -59,43 +64,47 @@ Pull cues from `/test-tracks` (a public page in this repo). The page is canonica
 1. Tell Gen the next track. Include track name, artist, and the page's stated cue for that track.
 2. Wait for Gen's response.
 3. Capture verbatim into one paragraph under a track header in the file. Include the track metadata (song, artist, link) at the start of the paragraph.
-4. If Gen's response is short, probe once with a follow-up like "Where in the track is that most obvious?", "Is that the upper-midrange or the treble?", "How does it compare to Aria for that cue?". Do not probe twice.
+4. If Gen's response is short, probe once with a follow-up like "Where in the track is that most obvious?", "Is that the upper-midrange or the treble?", "How does it compare to [reference] for that cue?". Do not probe twice.
 5. If Gen has nothing to say, capture "no comment" and move on. Do not skip tracks.
 
-## Phase 3: Assessment Q&A
+---
 
-Walk the question file section by section. The questions are pre-organised by these section headings: Non-sound aspects, Timbre and Tonality, Bass and Dynamic, Resolution, Spatial.
+## Phase: Q&A
+
+Read the question file. Discover its section headings and questions. Read any metadata block at the top of the file before asking questions.
+
+Walk section by section. Within each section, walk question by question.
 
 **Per question:**
 
-1. **Infer first.** Try to answer the question from Gen's listening impressions captured in Phase 2 plus any answers already given in this session. If you can construct a defensible answer, show it to Gen as a draft and ask if it matches, with an offer to refine.
+1. **Infer first.** Try to answer the question from Gen's listening impressions captured in the Listening Test plus any answers already given in this session. If you can construct a defensible answer, show it to Gen as a draft and ask if it matches, with an offer to refine.
 2. **Ask only if you cannot infer.** Pose the question once, neutrally. Probe once if the answer is vague. Move on regardless of answer quality once Gen has said something.
 3. **Capture verbatim under the appropriate section heading.** Do not write the question text in the file. Only the answer.
 4. Continue to the next question.
 
-**Section structure in the file.** Mirror the question file's section order. Within each section, the agent captures answers as bullet points or short paragraphs. One answer per question, in the question's order.
+**Section structure in the output file.** Mirror the question file's section headings exactly, in the same order. Within each section, answers are bullet points or short paragraphs. One answer per question, in the question's order.
 
-**Special handling for rating-scale questions** (e.g., "On the scale from Aria to Blessing 2 to Andromeda 2020 to Cantor, how resolving is this IEM?"). These come from the IEM question file's Resolution and Spatial sections. Use the gate-IEM anchors documented in `/methodology`. Treat the gate scale as canonical. If Gen struggles to place the unit on the scale, walk through the gates one at a time: "Compared to Aria, this is... higher, lower, or about the same?" Then the next gate, etc., until placement emerges. Capture the placement verbatim.
+---
 
-**Special handling for FPS-gaming questions** (IEM Spatial and DAC/DAP Spatial). Skip if Gen does not currently game. Capture "not tested, does not game" and move on.
+## Phase: Final Assessment
 
-## Phase 4: Final Assessment
+1. **Draft a summary.** Based on all listening impressions and Q&A answers captured so far. Show the draft to Gen.
+2. **Iterate.** Gen edits, corrects, or extends. Capture the iteration in the chat but do not write to the file yet.
+3. **Capture final version.** When Gen says the summary is right, write it into `## Final Assessment > ## Summary`.
+4. **Overall thought.** Ask Gen for one to three sentences capturing their final overall impression. Capture verbatim into `## Final Assessment > ## Overall thought`.
+5. **Recommendation.** Ask Gen whether and for whom they recommend the product. Capture verbatim into `## Final Assessment > ## Recommendation`.
+6. Notify Gen that the assessment is complete.
 
-This is the load-bearing phase for the write phase. Run it carefully.
-
-1. **Agent drafts a summary** based on all listening impressions and assessment Q&A captured so far. Show the draft to Gen.
-2. **Iterate.** Gen edits, corrects, or extends. The agent captures the iteration in the chat but does not yet write to the file.
-3. **Final version.** When Gen says the summary is right, capture it into the "## Final Assessment > ## Summary" section.
-4. **Overall thought.** Ask Gen for one to three sentences capturing his final overall impression of the product. Capture verbatim into "## Final Assessment > ## Overall thought."
-5. **Recommendation.** Ask Gen whether and for whom he recommends the product. Capture verbatim into "## Final Assessment > ## Recommendation."
-6. Notify Gen that the assessment process is now complete.
+---
 
 ## Output file structure
 
-Note: setup details do not appear in this file. They live in the companion research file (`YYYY-MM-DD-research.md`) which already has general product information. The session file is purely listening impressions and assessment captures.
-
 ```
 # <Product Name> assessment
+
+## Opening
+
+<setup notes, context only — does not appear in the published review>
 
 ## Listening Test
 
@@ -109,37 +118,23 @@ Note: setup details do not appear in this file. They live in the companion resea
 
 ## Assessment
 
-### Non-sound aspects
+### <Section 1 from question file>
 
-- <answer to non-sound question 1, verbatim>
-- <answer to non-sound question 2, verbatim>
+- <answer 1, verbatim>
+- <answer 2, verbatim>
 - ...
 
-### Timbre and Tonality
-
-- <verbatim answer>
-...
-
-### Bass and Dynamic
+### <Section 2 from question file>
 
 - ...
-...
 
-### Resolution
-
-- ...
-...
-
-### Spatial
-
-- ...
-...
+(... sections match question file headings, in order ...)
 
 ## Final Assessment
 
 ### Summary
 
-<Gen's adjusted summary, after iterating with the agent's draft>
+<Gen's approved summary>
 
 ### Overall thought
 
@@ -150,31 +145,25 @@ Note: setup details do not appear in this file. They live in the companion resea
 <Gen's recommendation, verbatim>
 ```
 
+---
+
 ## Voice rules
 
 - No em-dashes anywhere in the file. Use commas or restructure.
-- Capture Gen's voice, not the agent's. Verbatim when short. For long spoken answers, light polish (remove filler words, smooth tics) while keeping the phrasing that makes it sound like Gen.
+- Capture Gen's voice, not the agent's. Verbatim when short. For long spoken answers, light polish — remove filler words and smooth tics while keeping the phrasing that makes it sound like Gen.
 - Agent questions stay short and plain. No marketing language, no leading suggestions.
 - Use `[VERIFY]` if a captured fact contradicts the research file or seems uncertain.
 - Match Gen's review lexicon. Cross-reference `/vocabulary` for terms like "veiled," "snappy," "oomph," "holographic," "toe-tapping," and the rating-tier words "fair / good / great / outstanding."
 
-## When to stop
-
-Stop at the end of Phase 4. Gen has approved the summary, the overall thought is captured, and the recommendation is captured. The agent does not commit to a numeric four-dimension rating during the session. That belongs to Phase 3 (write), where Gen reviews and edits the prose.
-
-If the session runs across multiple sittings, each sitting appends to the same file under a timestamped sub-heading rather than starting a new file.
+---
 
 ## Anti-patterns
 
 - Do not propose answers during probing ("So, would you say the bass is mushy?"). Ask neutrally, then capture.
 - Do not paraphrase Gen's voice into neutral prose. Capture the words.
-- Do not move to the next track or question on a one-word answer. Probe once, then move.
-- Do not skip tracks or questions. If Gen has nothing to say, capture "no comment" and continue.
-- Do not write the question text into the assessment file. Only Gen's answer.
-- Do not commit to a final four-dimension rating during the session. That is Phase 3's job.
+- Do not move to the next question on a one-word answer. Probe once, then move on.
+- Do not skip questions. If Gen has nothing to say, capture "no comment" and continue.
+- Do not write question text into the assessment file. Only Gen's answer.
 - Do not retroactively fix a wrong answer. Capture revisions when Gen changes their mind.
 - Do not run git operations from this skill.
-
-## Worked example
-
-After the first session runs end-to-end against an IEM, look at the produced session file. Future sessions should match its structure and depth. No example exists yet at the time of writing.
+- Do not commit to the final numeric rating block during this phase. Assembling and approving the ratings belongs to Phase 3 (write). Collecting dimension scores via Q&A questions is fine and expected.

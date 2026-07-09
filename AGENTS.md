@@ -38,8 +38,8 @@ Reviews are produced in four phases. Each phase ends with Gen's review and appro
 |-------|---------------|---------|
 | 1. Research | `audio-product-research` | "look up X" / "research X" / a URL or product name |
 | 2. Assessment session | `audio-product-session` | "let's do the listen session for X" |
-| 3. Write | `iem-review-write` (or `dac-review-write` / `dap-review-write`) | "write up X" / "draft the X review" |
-| 3b. Artwork | `iem-artwork` (or `dac-artwork` / `dap-artwork`) | invoke from inside the write phase, after sections are drafted |
+| 3. Write | `audio-product-write` | "write up X" / "draft the X review" |
+| 3b. Artwork | `audio-product-artwork` | invoke from inside the write phase, after sections are drafted |
 | 4. Publish | `blog-publish` | "ship X" / "publish X" |
 
 **Phase 1: Research.** Output: `_draft/<product-slug>/YYYY-MM-DD-research.md`. Sources: manufacturer page, vendor store, public FR measurement (sqig.link / nk-tran.com/iegems-graphtool / oratory1990 archive), Head-Fi official thread. Anything that can't be cited publicly is marked `[VERIFY]`. Gen fills those in or confirms.
@@ -48,7 +48,7 @@ Reviews are produced in four phases. Each phase ends with Gen's review and appro
 
 **Phase 3: Write.** Loads research + session. Drafts to `_draft/YYYY-MM-DD-review-<BrandModel>.md` (or impressions file). Gen reads, marks up, iterates. When approved, the file moves to `_posts/`.
 
-**Phase 3b: Artwork.** Once the review sections are drafted, the write skill activates the matching artwork skill (`iem-artwork`, `dac-artwork`, or `dap-artwork`) to generate the cover slides and the summary image. The artwork skill is a thin wrapper around `tools/slideforge/` — it walks the agent through calling `slideforge init` / `set` / `add section` / `build` and then tells the agent where to place the resulting `slide_*.png` files inside the review draft. **For all review types, the summary image (`slide_N.png`, the last PNG) is also used as the hero / header image in the frontmatter.** For IEM reviews, the frequency-response graph (typically a `frequency-response` cover slide or the summary's FR panel) is also referenced in the tonality section.
+**Phase 3b: Artwork.** Gen supplies the product photos, the FR chart, and any relevant artwork from the manufacturer or retailer. The `audio-product-artwork` skill drives `tools/slideforge/` to render the cover slides and the summary image, and the agent inserts the generated artwork into the written review. The skill handles all product types (IEM, DAC, DAP) and specifies which artwork to generate and where each piece belongs.
 
 **Phase 4: Publish.** Confirms the file is in `_posts/`, the image folder is present, the front-matter is valid. Optionally starts `make serve` if not running. Shows the preview URL. On Gen's explicit "go": `git add`, commit, push. Never auto-publishes.
 
@@ -63,13 +63,13 @@ These pages document the blog's substantive content. Use them when you need the 
 
 ## Mandatory: load skills before working
 
-**Before doing any review-related work in this repo, load the matching skill from `.pi/skills/`.** The four phase skills are:
+**Before doing any review-related work in this repo, load the matching skill from `.pi/skills/`.** The review phase skills are:
 
-- `.pi/skills/audio-product-research/`
-- `.pi/skills/audio-product-session/`
-- `.pi/skills/iem-review-write/` (with `dac-review-write` and `dap-review-write` as variants)
-- `.pi/skills/blog-publish/`
-- `.pi/skills/iem-artwork/` (with `dac-artwork` and `dap-artwork` as variants) — the artwork-generation phase; loaded from inside the write phase
+- `.pi/skills/audio-product-research/` — Phase 1: research a product
+- `.pi/skills/audio-product-session/` — Phase 2: run the listening interview
+- `.pi/skills/audio-product-write/` — Phase 3: draft the review (uses product-specific outlines for IEM, DAC, DAP)
+- `.pi/skills/blog-publish/` — Phase 4: publish to the live site
+- `.pi/skills/audio-product-artwork/` — Phase 3b: generate cover slides and summary image; activated from inside the write phase
 
 The `SKILL.md` files inside each are the source of truth for voice, vocabulary use, disclosure language, anti-patterns, graph conventions, and writing rules. AGENTS.md tells you which skill to load for which phase. The skills tell you how to do the work in Gen's voice.
 
@@ -77,4 +77,4 @@ If you find yourself reaching for a writing style, disclosure pattern, or workfl
 
 ## Tools
 
-- **`tools/slideforge/`** — generates the cover slides and the end-of-review summary image. CLI under `bin/slideforge.mjs`; full schema and usage in `tools/slideforge/README.md`. The artwork skills (`.pi/skills/iem-artwork/` et al.) drive this tool.
+- **`tools/slideforge/`** — generates the cover slides and the end-of-review summary image. CLI under `bin/slideforge.mjs`; full schema and usage in `tools/slideforge/README.md`. The `audio-product-artwork` skill drives this tool.

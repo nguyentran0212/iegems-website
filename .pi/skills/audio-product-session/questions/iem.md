@@ -16,42 +16,50 @@ The questions are organised into groups, reflecting different aspects of the IEM
 
 ## Timbre and Tonality
 
-*How do you describe the overall sound signature of this IEM?* 
+*How do you describe the overall sound signature of this IEM?*
 
 *How does this IEM balance different voices and instruments in a band?*
 
-*How does this IEM balance different parts of a piano? (Sample tracks: [Bach's Goldberg Variations, recorded by Lang Lang](https://youtu.be/linQUK6jNmg?si=v_2nz6exiNXsZUjU))*
+*How does this IEM balance different parts of a piano?*
 
-*How does the midrange of this IEM handle vocals? (Sample tracks: [Dreamland Express by John Denver](https://youtu.be/6pqfoBUTFdk?si=oxKzIDQ42CfgCyuf), [Kiwi wa Boku ni Niteiru by See-Saw](https://www.youtube.com/watch?v=U6BkF23UPbM))*
+*How does the midrange of this IEM handle vocals?*
 
-*How does this IEM handle sibilant recordings? (Sample tracks: [Shivers by Ed Sheeran](https://www.youtube.com/watch?v=z2_Lrg6rRks))*
+*How does this IEM handle sibilant recordings?*
 
-*How does this IEM reproduce strings and orchestra? (Sample tracks: [Now We Are Free by 2CELLOS](https://www.youtube.com/watch?v=74CYIdYoQ5w), [Ciaccona from Bach's Violin Partita No.2 in D Minor, performed by Kavakos](https://www.youtube.com/watch?v=AtA5DbswJ90), [Synchro BOM-BA-YE by Tokyo Kosei Wind Orchestra](https://www.youtube.com/watch?v=4lwPiXnOGZ4))*
+*How does this IEM reproduce strings and orchestra?*
+
+*How would you rate the timbre and tonality of this IEM on the 1 (Poor) to 5 (Outstanding) scale? (Describe what the score means to you.)*
 
 ## Bass and Dynamic
 
-*How does this IEM convey "epic" bass lines? (Sample tracks: [Heart of Courage (Live) by Two Steps From Hell](https://youtu.be/1Qvp-w24z1U?si=44knlswJcyf7Ez2z), [A Reckoning in Blood from The Ghost of Tsushima OST](https://www.youtube.com/watch?v=kaBMXXo-vdU))*
+*How does this IEM convey "epic" bass lines?*
 
-*How does this IEM handle a drum kit and bass guitar? (Sample tracks: [Playing God by Polyphia](https://youtu.be/Z5NoQg8LdDk?si=eEQGevLZb1SE-FVY))*
+*How does this IEM handle a drum kit and bass guitar?*
 
 *In conclusion, is this IEM ... toe-tapping?*
 
+*How would you rate the bass and dynamic performance of this IEM on the 1 (Poor) to 5 (Outstanding) scale? (Reference the methodology rubric if helpful: 5 = outstanding with more quantity and subbass extension than 4; 4 = great but quantity may be lacking in midbass or subbass; 3 = good with physical sensation but slightly mushy; 2 = boomy or mushy; 1 = broken or zero bass.)*
+
 ## Resolution
 
-*Can this IEM handle complex, overlapping recordings? (Sample tracks: [ABC feat. Sophia Black by Polyphia](https://www.youtube.com/watch?v=Mtd24QIBJ5Y))*
+*Can this IEM handle complex, overlapping recordings?*
 
-*Can this IEM handle recordings with congested lower frequencies? (Sample tracks: [Now We Are Free performed by 2CELLOS](https://youtu.be/74CYIdYoQ5w?si=QcKrIFSifRzBHt2i))*
+*Can this IEM handle recordings with congested lower frequencies?*
 
-*How does this IEM convey micro details? (Sample tracks: [Ciaccona from Bach's Violin Partita No. 2 in D Minor, performed by Kavakos](https://www.youtube.com/watch?v=AtA5DbswJ90))*
+*How does this IEM convey micro details?*
 
-*On the scale from fair (Moondrop Aria) to good (Moondrop Blessing 2) to great (CFA Andromeda 2020) to outstanding (AFUL Cantor), how resolving is this IEM?*
+*On the scale from fair (Moondrop Aria) to good (Moondrop Blessing 2) to great (CFA Andromeda 2020) to outstanding (AFUL Cantor), how resolving is this IEM? (If the IEM sits between gates, note that.)*
 
 ## Spatial
 
-*How does this IEM position instruments in a complex, 3D-sounding recording? (Sample tracks: [Original Sound Effect Track - Memory from Gundam Seed Destiny OST album](https://www.youtube.com/watch?v=PhJWAWqExQs))*
+*How does this IEM position instruments in a complex, 3D-sounding recording?*
 
-*How does this IEM convey a sense of space in spacious recordings? (Sample tracks: [Shadow of Baar Dau](https://www.youtube.com/watch?v=RXcLuLQ_5oM))*
+*How does this IEM convey a sense of space in spacious recordings?*
 
 *How does this IEM handles sound positioning in FPS games?*
 
-*On the scale from good (Blessing 2) to great (CFA Andromeda 2020) to outstanding (AFUL Cantor), how good is the stereo imaging and soundstage of this IEM?*
+*On the scale from good (Moondrop Blessing 2) to great (CFA Andromeda 2020) to outstanding (AFUL Cantor), how good is the stereo imaging and soundstage of this IEM? (If the IEM sits between gates, note that.)*
+
+## Selected Comparisons
+
+*Is there any IEM you would like to compare this product against? (Capture the comparison on any axes that are relevant.)*

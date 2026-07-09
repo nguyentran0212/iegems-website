@@ -18,40 +18,48 @@ The questions are organised into groups, reflecting different aspects of the DAP
 
 ## Timbre and Tonality
 
-*How do you describe the overall sound signature of this DAP?* 
+*How do you describe the overall sound signature of this DAP?*
 
-*How does this DAP balance different voices and instruments in a band? (Sample tracks: [ABC feat. Sophia Black by Polyphia](https://www.youtube.com/watch?v=Mtd24QIBJ5Y))*
+*How does this DAP balance different voices and instruments in a band?*
 
-*How does this DAP balance different parts of a piano? (Sample tracks: [Bach's Goldberg Variations, recorded by Lang Lang](https://youtu.be/linQUK6jNmg?si=v_2nz6exiNXsZUjU))*
+*How does this DAP balance different parts of a piano?*
 
-*How does the midrange of this DAP handle vocals? (Sample tracks: [Dreamland Express by John Denver](https://youtu.be/6pqfoBUTFdk?si=oxKzIDQ42CfgCyuf), [Kiwi wa Boku ni Niteiru by See-Saw](https://www.youtube.com/watch?v=U6BkF23UPbM))*
+*How does the midrange of this DAP handle vocals?*
 
-*How does this DAP handle sibilant recordings? (Sample tracks: [Shivers by Ed Sheeran](https://www.youtube.com/watch?v=z2_Lrg6rRks))*
+*How does this DAP handle sibilant recordings?*
 
-*How does this DAP reproduce strings and orchestra? (Sample tracks: [Now We Are Free by 2CELLOS](https://www.youtube.com/watch?v=74CYIdYoQ5w), [Ciaccona from Bach's Violin Partita No.2 in D Minor, performed by Kavakos](https://www.youtube.com/watch?v=AtA5DbswJ90), [Synchro BOM-BA-YE by Tokyo Kosei Wind Orchestra](https://www.youtube.com/watch?v=4lwPiXnOGZ4))*
+*How does this DAP reproduce strings and orchestra?*
 
 ## Bass and Dynamic
 
-*How does this DAP convey "epic" bass lines? (Sample tracks: [Heart of Courage (Live) by Two Steps From Hell](https://youtu.be/1Qvp-w24z1U?si=44knlswJcyf7Ez2z), [A Reckoning in Blood from The Ghost of Tsushima OST](https://www.youtube.com/watch?v=kaBMXXo-vdU))*
+*How does this DAP convey "epic" bass lines?*
 
-*How does this DAP handle a drum kit and bass guitar? (Sample tracks: [Playing God by Polyphia](https://youtu.be/Z5NoQg8LdDk?si=eEQGevLZb1SE-FVY))*
+*How does this DAP handle a drum kit and bass guitar?*
 
 *In conclusion, is this DAP ... toe-tapping?*
 
 ## Resolution
 
-*Can this DAP handle complex, overlapping recordings? (Sample tracks: [ABC feat. Sophia Black by Polyphia](https://www.youtube.com/watch?v=Mtd24QIBJ5Y))*
+*Can this DAP handle complex, overlapping recordings?*
 
-*Can this DAP handle recordings with congested lower frequencies? (Sample tracks: [Now We Are Free performed by 2CELLOS](https://youtu.be/74CYIdYoQ5w?si=QcKrIFSifRzBHt2i))*
+*Can this DAP handle recordings with congested lower frequencies?*
 
-*How does this DAP convey micro details? (Sample tracks: [Ciaccona from Bach's Violin Partita No. 2 in D Minor, performed by Kavakos](https://www.youtube.com/watch?v=AtA5DbswJ90))*
-
+*How does this DAP convey micro details?*
 
 ## Spatial
 
-*How does this DAP position instruments in a complex, 3D-sounding recording? (Sample tracks: [Original Sound Effect Track - Memory from Gundam Seed Destiny OST album](https://www.youtube.com/watch?v=PhJWAWqExQs))*
+*How does this DAP position instruments in a complex, 3D-sounding recording?*
 
-*How does this DAP convey a sense of space in spacious recordings? (Sample tracks: [Shadow of Baar Dau](https://www.youtube.com/watch?v=RXcLuLQ_5oM))*
+*How does this DAP convey a sense of space in spacious recordings?*
 
 *How does this DAP handles sound positioning in FPS games?*
 
+## Pairing / Compatibility
+
+*How does this DAP work with highly sensitive IEMs? (Any hiss or noise? Is there enough volume adjustment range?)*
+
+*How does this DAP work with difficult-to-drive IEMs? (Any audible improvement compared to a weaker source? Does it lose any dynamic or impact compared to a reference desktop chain?)*
+
+## Selected Comparisons
+
+*Is there any other DAP, DAC, or source you would like to compare this device against? (Capture the comparison on any axes that are relevant.)*
