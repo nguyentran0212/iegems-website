@@ -1,0 +1,137 @@
+{
+  "metadata": {
+    "product": "HiBy RS8 II",
+    "imageDir": "RS8II",
+    "background": "04.jpg",
+    "tagline": "The mature R2R",
+    "oneSentenceSummary": "An R2R flagship DAP with neutral-warm tonality, void-black background and outstanding resolution."
+  },
+  "sections": [
+    {
+      "type": "design-vision",
+      "images": [
+        "01.jpg"
+      ]
+    },
+    {
+      "type": "packaging",
+      "images": [
+        "03.jpg"
+      ]
+    },
+    {
+      "type": "packaging",
+      "images": [
+        "04.jpg"
+      ]
+    },
+    {
+      "type": "packaging",
+      "images": [
+        "09.jpg"
+      ]
+    },
+    {
+      "type": "packaging",
+      "images": [
+        "10.jpg"
+      ]
+    },
+    {
+      "type": "generic",
+      "images": [
+        "02.jpg"
+      ]
+    },
+    {
+      "type": "generic",
+      "images": [
+        "05.jpg"
+      ]
+    },
+    {
+      "type": "generic",
+      "images": [
+        "06.jpg"
+      ]
+    },
+    {
+      "type": "generic",
+      "images": [
+        "08.jpg"
+      ]
+    },
+    {
+      "type": "generic",
+      "images": [
+        "17.jpg"
+      ]
+    },
+    {
+      "type": "generic",
+      "images": [
+        "18.jpg"
+      ]
+    },
+    {
+      "type": "generic",
+      "images": [
+        "07.jpg"
+      ]
+    },
+    {
+      "type": "generic",
+      "images": [
+        "11.jpg"
+      ]
+    },
+    {
+      "type": "generic",
+      "images": [
+        "19.jpg"
+      ]
+    },
+    {
+      "type": "generic",
+      "images": [
+        "21.jpg"
+      ]
+    },
+    {
+      "type": "generic",
+      "images": [
+        "22.jpg"
+      ]
+    },
+    {
+      "type": "generic",
+      "images": [
+        "13.jpg"
+      ]
+    },
+    {
+      "type": "generic",
+      "images": [
+        "12.jpg"
+      ]
+    },
+    {
+      "type": "generic",
+      "images": [
+        "14.jpg"
+      ]
+    },
+    {
+      "type": "generic",
+      "images": [
+        "15.jpg"
+      ]
+    },
+    {
+      "type": "generic",
+      "images": [
+        "20.jpg"
+      ]
+    }
+  ]
+}
